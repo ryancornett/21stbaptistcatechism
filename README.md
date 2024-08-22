@@ -1,15 +1,13 @@
 # The 21st Century Baptist Catechism
 (hereafter referred to as **t21cBC**)
 ## Based on The Baptist Catechism 1695. Also known as Keach's Catechism.
-Updated language by Ryan Cornett
+Language modernized by Ryan Cornett
 
 ### Meta Object Notes
 
-Contains title, author, original, and licensing key:string pairs, plus...
+Contains *title*, *revisedBy*, *original*, and *licensing* key:string pairs, plus...
 
-**Topical Index** An array of objects containing the topics of focus in t21cBC in alphabetical order:
-1. topic (string)
-2. numbers (array of integers) *The question numbers associated with the topic.*
+**Topical Index** An object with the topics of focus in t21cBC in alphabetical order as the keys, and an array of integers that represent the question numbers associated with the topic as the values.
 ```
 const topics = data.meta.topicalIndex;
 ```
@@ -34,7 +32,7 @@ const changelog = data.meta.changelog;
 
 In the data object, catechism question numbers are the keys representing each corresponding question from 1-114:
 ```
-const question78 = data.data.["13"];
+const question13 = data.data["13"];
 ```
 Each value in the data object is constructed like so:
 ```
@@ -49,7 +47,7 @@ Each value in the data object is constructed like so:
         }
     ],
     "topics": [
-        ""
+        "Humanity", "God"
     ],
     "originalQuestion": "How did God create man?",
     "originalAnswer": "God created man, male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures.",
@@ -62,3 +60,6 @@ Each value in the data object is constructed like so:
 3. topics (array of strings) *Each question and answer have at least one topical category, with the first listed being the main topic*
 4. originalQuestion (string) *The corresponding question from the 1695 original*
 5. originalAnswer (string) *The corresponding answer from the 1695 original*
+
+### Question #65 Quirk
+In the third scripture reference array for the answer to #65, the proof is not from a verse but from the Psalm title supplied by ancien Hebrew editors. This is noted in that reference array as **"Psalm 92 (Hebrew Title)"**.
