@@ -1664,7 +1664,7 @@
 				""
 			],
 			"originalQuestion": "What are the reasons annexed to the fourth commandment?",
-			"originalAnswer": "The reasons annexed to the fourth commandment, are God’s allowing us six days of the week for our own lawful employments, 1 his challenging a special propriety in a seventh, his own example, and his blessing the Sabbath day. 2"
+			"originalAnswer": "The reasons annexed to the fourth commandment, are God's allowing us six days of the week for our own lawful employments, 1 his challenging a special propriety in a seventh, his own example, and his blessing the Sabbath day. 2"
 		},
 		"68": {
 			"question": "",
@@ -1672,15 +1672,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Exodus 20:12"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Which is the fifth commandment?",
+			"originalAnswer": "The fifth commandment is, Honor thy father and thy mother; that thy days may be long in the land which the Lord thy God giveth thee."
 		},
 		"69": {
 			"question": "",
@@ -1688,15 +1688,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Ephesians 5:21"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Peter 2:17"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Romans 12:10"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required in the fifth commandment?",
+			"originalAnswer": "The fifth commandment requireth the preserving the honour and performing the duties belonging to every one in their several places and relations, as superiors, 1 inferiors, 2 or equals. 3"
 		},
 		"70": {
 			"question": "",
@@ -1704,15 +1716,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 15:4-6", "Ezekiel 34:24", "Romans 13:8"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is forbidden in the fifth commandment?",
+			"originalAnswer": "The fifth commandment forbiddeth the neglect of, or doing any thing against the honour and duty which belongeth to every one in their several places and relations."
 		},
 		"71": {
 			"question": "",
@@ -1720,31 +1732,31 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Deuteronomy 5:16", "Ephesians 6:2-3"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is the reason annexed to the fifth commandment?",
+			"originalAnswer": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve for God’s glory, and their own good) to all such as keep this commandment."
 		},
 		"72": {
-			"question": "",
+			"question": "What is the sixth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The sixth commandment is, \"You shall not murder.\"",
 					"references": [
-						""
+						"Exodus 20:13"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is the sixth commandment?",
+			"originalAnswer": "The sixth commandment is, Thou shalt not kill."
 		},
 		"73": {
 			"question": "",
@@ -1752,15 +1764,21 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Ephesians 5:28-29"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Kings 18:4"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required in the sixth commandment?",
+			"originalAnswer": "The sixth commandment requireth all lawful endeavours to preserve our own life 1 and the life of others. 2"
 		},
 		"74": {
 			"question": "",
@@ -1768,31 +1786,31 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Acts 26:28", "Genesis 9:9"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is forbidden in the sixth commandment?",
+			"originalAnswer": "The sixth commandment absolutely forbiddeth the taking away of our own life, or the life of our neighbour unjustly, or whatsoever tendeth thereunto."
 		},
 		"75": {
-			"question": "",
+			"question": "What is the seventh commandment?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Exodus 20:14"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Which is the seventh commandment?",
+			"originalAnswer": "The seventh commandment is, Thou shalt not commit adultery."
 		},
 		"76": {
 			"question": "",
@@ -1800,15 +1818,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 Corinthians 7:2-3", "1 Corinthians 7:5", "1 Corinthians 7:34", "1 Corinthians 7:36", "Colossians 4:6", "1 Peter 3:2"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required in the seventh commandment?",
+			"originalAnswer": "The seventh commandment requireth the preservation of our own and our neighbour's chastity, in heart, speech, and behavior."
 		},
 		"77": {
 			"question": "",
@@ -1816,31 +1834,31 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 15:19", "Matthew 5:28", "Ephesians 5:3-4"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is forbidden in the seventh commandment?",
+			"originalAnswer": "The seventh commandment forbiddeth all unchaste thoughts, words, and actions."
 		},
 		"78": {
-			"question": "",
+			"question": "What is the eighth commandment?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Exodus 20:15"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Which is the eighth commandment?",
+			"originalAnswer": "The eighth commandment is, Thou shalt not steal."
 		},
 		"79": {
 			"question": "",
@@ -1848,15 +1866,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Genesis 30:30", "1 Timothy 5:8", "Leviticus 25:35", "Deuteronomy 22:1-5", "Exodus 23:4-5", "Genesis 47:14", "Genesis 47:20"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required in the eighth commandment?",
+			"originalAnswer": "The eighth commandment requireth the lawful procuring and furthering the wealth and outward estate of ourselves and others."
 		},
 		"80": {
 			"question": "",
@@ -1864,31 +1882,37 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 Timothy 5:8; Proverbs 28:19"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Proverbs 21:17, 23:20-21; Ephesians 4:28"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is forbidden in the eighth commandment?",
+			"originalAnswer": "The eighth commandment forbiddeth whatsoever doth or may unjustly hinder our own 1 or our neighbour's wealth or outward estate. 2"
 		},
 		"81": {
-			"question": "",
+			"question": "What is the ninth commandment?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Exodus 20:16"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Which is the ninth commandment?",
+			"originalAnswer": "The ninth commandment is, Thou shalt not bear false witness against thy neighbour."
 		},
 		"82": {
 			"question": "",
@@ -1896,15 +1920,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Zechariah 8:16"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"John 5:12"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Proverbs 14:5", "Proverbs 14:25"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required in the ninth commandment?",
+			"originalAnswer": "The ninth commandment requireth the maintaining and promoting of truth between man and man, 1 and of our own and our neighbour's good name, 2 especially in witness bearing. 3"
 		},
 		"83": {
 			"question": "",
@@ -1912,31 +1948,31 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 Samuel 17:28", "Leviticus 19:16", "Psalm 15:2-3"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is forbidden in the ninth commandment?",
+			"originalAnswer": "The ninth commandment forbiddeth whatsoever is prejudicial to the truth, or injurious to our own or our neighbour’s good name."
 		},
 		"84": {
-			"question": "",
+			"question": "What is the tenth commandment?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Exodus 20:17"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is the tenth commandment?",
+			"originalAnswer": "The tenth commandment is Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor anything that is thy neighbour's."
 		},
 		"85": {
 			"question": "",
@@ -1944,15 +1980,21 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Hebrews 13:5", "1 Timothy 6:6"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Job 31:29", "Romans 7:15", "1 Timothy 1:5", "1 Corinthians 8:4", "1 Corinthians 8:7"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required in the tenth commandment?",
+			"originalAnswer": "The tenth commandment requireth full contentment with our own condition, 1 with a right and charitable frame of spirit toward our neighbour, and all that is his. 2"
 		},
 		"86": {
 			"question": "",
@@ -1960,15 +2002,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 Kings 21:4", "Esther 5:13", "1 Corinthians 10:10"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Galatians 5:26", "James 3:14", "James 3:16"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Romans 7:7-8", "Romans 13:9", "Deuteronomy 5:21"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is forbidden in the tenth commandment?",
+			"originalAnswer": "The tenth commandment forbiddeth all discontentment with our own estate, 1 envying or grieving at the good of our neighbour, 2 and all inordinate motions and affections to anything that is his. 3"
 		},
 		"87": {
 			"question": "",
@@ -1976,15 +2030,21 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Ecclesiastes 7:20", "1 John 1:8", "1 John 1:10", "Galatians 5:17"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Genesis 6:5", "Genesis 8:21", "Romans 3:9-21", "James 3:2-13"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Is any man able perfectly to keep the commandments of God?",
+			"originalAnswer": "No mere man since the fall is able in this life perfectly to keep the commandments of God, 1 but doth daily break them in thought, word, or deed. 2"
 		},
 		"88": {
 			"question": "",
@@ -1992,15 +2052,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Ezekiel 8:6", "Ezekiel 8:13", "Ezekiel 8:15", "1 John 5:16", "Psalm 78:17", "Psalm 78:32", "Psalm 78:56"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Are all transgressions of the law equally heinous?",
+			"originalAnswer": "Some sins in themselves, and by reason of several aggravations, are more heinous in the sight of God than others."
 		},
 		"89": {
 			"question": "",
@@ -2008,15 +2068,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Ephesians 5:6", "Galatians 3:10", "Lamentations 3:39", "Matthew 25:41", "Romans 6:23"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What doth every sin deserve?",
+			"originalAnswer": "Every sin deserveth God's wrath and curse, both in this life and that which is to come."
 		},
 		"90": {
 			"question": "",
@@ -2024,47 +2084,83 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Acts 20:21"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Proverbs 2:1-6", "Proverbs 8:33-36", "Isaiah 55:2-3"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What doth God require of us that we may escape his wrath and curse, due to us for sin?",
+			"originalAnswer": "To escape the wrath and curse of God due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life, 1 with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption. 2"
 		},
 		"91": {
-			"question": "",
+			"question": "What is faith in Jesus Christ?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Hebrews 10:39"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"John 1:12", "Isaiah 26:3-4", "Philippians 3:9", "Galatians 2:16"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is faith in Jesus Christ?",
+			"originalAnswer": "Faith in Jesus Christ is a saving grace, 1 whereby we receive and rest upon him alone for salvation, as he is offered to us in the gospel. 2"
 		},
 		"92": {
-			"question": "",
+			"question": "What is repentance unto life?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Acts 11:28"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Acts 2:37-38"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Joel 2:12", "Jeremiah 3:22"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Jeremiah 31:18-19", "Ezekiel 36:31"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"2 Corinthians 7:11", "Isaiah 1:16-17"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is repentance unto life?",
+			"originalAnswer": "Repentance unto life is a saving grace, 1 whereby a sinner, out of a true sense of his sin, 2 and apprehension of the mercy of God in Christ, 3 doth, with grief and hatred of his sin, turn from it unto God, 4 with full purpose of and endeavour after new obedience. 5"
 		},
 		"93": {
 			"question": "",
@@ -2072,15 +2168,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 28:19-20", "Acts 2:42", "Acts 2:46-47"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What are the outward means whereby Christ communicateth to us the benefits of redemption?",
+			"originalAnswer": "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption are his ordinances, especially the word, baptism, the Lord's supper, and prayer; all which means are made effectual to the elect for salvation."
 		},
 		"94": {
 			"question": "",
@@ -2088,15 +2184,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Nehemiah 8:8", "Acts 26:18", "Psalm 19:8", "Acts 20:32", "Romans 1:15-16", "Romans 10:13-17", "Romans 15:4", "1 Corinthians 14:24-25", "2 Timothy 3:15-17"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "How is the word made effectual to salvation?",
+			"originalAnswer": "The Spirit of God maketh the reading, but especially the preaching of the word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort through faith unto salvation."
 		},
 		"95": {
 			"question": "",
@@ -2104,15 +2200,45 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Proverbs 8:34"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Peter 2:1-2"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 119:18"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Hebrews 4:2", "2 Thessalonians 2:10"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 119:18"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Luke 8:15; James 1:25"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "How is the word to be read and heard, that it may become effectual to salvation?",
+			"originalAnswer": "That the word may become effectual to salvation, we must attend thereunto with diligence, 1 preparation, 2 and prayer; 3 receive it with faith and love, 4 lay it up in our hearts, 5 and practice it in our lives. 6"
 		},
 		"96": {
 			"question": "",
@@ -2120,31 +2246,49 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 Peter 3:21", "Matthew 3:11", "1 Corinthians 3:6-7"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Corinthians 12:3; Matthew 28:19"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "How do baptism and the Lord's supper become effectual means of salvation?",
+			"originalAnswer": "Baptism and the Lord's supper become effectual means of salvation, not for any virtue in them, or in him that doth administer them, but only by the blessing of Christ, 1 and the working of the Spirit in those that by faith receive them. 2"
 		},
 		"97": {
-			"question": "",
+			"question": "What is baptism?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Romans 6:3-5", "Colossians 2:12", "Galatians 3:27"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Mark 1:4", "Acts 2:38", "Acts 22:16"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Romans 6:3-4"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is baptism?",
+			"originalAnswer": "Baptism is an ordinance of the New Testament instituted by Jesus Christ, to be unto the party baptized a sign of his fellowship with him, in his death, burial, and resurrection; of his being ingrafted into him; 1 of remission of sins; 2 and of his giving up himself unto God through Jesus Christ, to live and walk in newness of life. 3"
 		},
 		"98": {
 			"question": "",
@@ -2152,15 +2296,21 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Acts 2:38", "Matthew 3:6"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Acts 8:12", "Acts 8:36-38", "Acts 10:47-48"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "To whom is baptism to be administered?",
+			"originalAnswer": "Baptism is to be administered to all those who actually profess repentance towards God, 1 faith in and obedience to our Lord Jesus Christ, and to none other. 2"
 		},
 		"99": {
 			"question": "",
@@ -2168,15 +2318,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Proverbs 30:6", "Luke 3:7-8"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Are the infants of such as are professing believers to be baptized?",
+			"originalAnswer": "The infants of such as are professing believers are not to be baptized, because there is neither command or example in the holy scriptures, or certain consequence from them to baptize such."
 		},
 		"100": {
 			"question": "",
@@ -2184,15 +2334,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 3:16", "John 3:23", "4:1-2", "Matthew 28:19-20", "Acts 8:38", "Romans 6:4", "Colossians 2:12"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "How is Baptism rightly administered?",
+			"originalAnswer": "Baptism is rightly administered by immersion, or dipping the whole body of the party in water, into the name of the Father, and of the Son, and of the Holy Spirit, according to Christ's institution, and the practice of the apostles, and not by sprinkling or pouring of water, or dipping some part of the body, after the tradition of men."
 		},
 		"101": {
 			"question": "",
@@ -2200,15 +2350,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Acts 2:41-42", "Acts 5:13-14", "Acts 9:26", "1 Peter 2:5", "Luke 1:6"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is the duty of such who are rightly baptized?",
+			"originalAnswer": "It is the duty of such who are rightly baptized to give up themselves to some particular and orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blameless."
 		},
 		"102": {
 			"question": "",
@@ -2216,15 +2366,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 26:26-28", "1 Corinthians 11:23-26", "1 Corinthians 10:16"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is the Lord's supper?",
+			"originalAnswer": "The Lord's supper is an ordinance of the New Testament, instituted by Jesus Christ; wherein by giving and receiving bread and wine, according to his appointment, his death is shown forth, and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment and growth in grace."
 		},
 		"103": {
 			"question": "",
@@ -2232,15 +2382,15 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Acts 2:41-42"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "Who are the proper subjects of this ordinance?",
+			"originalAnswer": "They who have been baptized upon a personal profession of their faith in Jesus Christ, and repentance from dead works."
 		},
 		"104": {
 			"question": "",
@@ -2248,31 +2398,97 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 Corinthians 11:28-29"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"2 Corinthians 13:5"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Corinthians 11:31"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Corinthians 10:16-17"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Corinthians 5:7-8"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Corinthians 11:28-29"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is required to the worthy receiving of the Lord's supper?",
+			"originalAnswer": "It is required of them that would worthily partake of the Lord's supper, that they examine themselves of their knowledge to discern the Lord's body, 1 of their faith to feed upon him, 2 of their repentance, 3 love, 4 and new obedience, 5 lest coming unworthily they eat and drink judgment to themselves. 6"
 		},
 		"105": {
-			"question": "",
+			"question": "What is prayer?",
 			"answer": [
                 {
 					"text": "",
 					"references": [
-						""
+						"Psalm 62:8"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Romans 8:26"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 John 5:14", "Romans 8:27"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"John 16:23"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Matthew 21:22", "James 1:6"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 32:5-6", "Daniel 9:4"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Philippians 4:6"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What is prayer?",
+			"originalAnswer": "Prayer is an offering up our desires to God, 1 by the assistance of the Holy Spirit, 2 for things agreeable to his will, 3 in the name of Christ, 4 believing, 5 with confession of our sins, 6 and thankful acknowledgments of his mercies. 7"
 		},
 		"106": {
 			"question": "",
@@ -2280,15 +2496,21 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"1 John 5:14"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Matthew 6:9-13", "Luke 11:2-4"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What rule hath God given for our direction in prayer?",
+			"originalAnswer": "The whole word of God is of use to direct us in prayer; 1 but the special rule of direction is that prayer which Christ taught his disciples, commonly called the Lord's prayer. 2"
 		},
 		"107": {
 			"question": "",
@@ -2296,15 +2518,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:9"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Romans 8:15", "Luke 11:13", "Isaiah 24:8"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Acts 12:5", "1 Timothy 2:1-2"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What doth the preface of the Lord's prayer teach us?",
+			"originalAnswer": "The preface of the Lord's prayer, which is Our Father which art in heaven, 1 teacheth us to draw near to God with all holy reverence and confidence, as children to a father, able and ready to help us; 2 and that we should pray with and for others. 3"
 		},
 		"108": {
 			"question": "",
@@ -2312,15 +2546,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:9"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 67:2-3"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 83:1-18", "Romans 11:36"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What do we pray for in the first petition?",
+			"originalAnswer": "In the first petition, which is, Hallowed be thy name, 1 we pray that God would enable us and others to glorify him in all that whereby he maketh himself known, 2 and that he would dispose all things to his own glory. 3"
 		},
 		"109": {
 			"question": "",
@@ -2328,15 +2574,39 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:10"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 68:1", "Psalm 68:18"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Revelation 12:10-11"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"2 Thessalonians 3:1", "Romans 10:1", "John 17:19-20"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Revelation 22:10"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What do we pray for in the second petition?",
+			"originalAnswer": "In the second petition, which is, Thy kingdom come, 1 we pray that Satan's kingdom may be destroyed, 2 and that the kingdom of grace may be advanced 3 ourselves and others brought into it and kept in it, 4 and that the kingdom of glory may be hastened. 5"
 		},
 		"110": {
 			"question": "",
@@ -2344,15 +2614,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:10"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 67:1-6", "Psalm 119:36", "2 Samuel 15:25", "Job 1:21"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 103:20-21"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What do we pray for in the third petition?",
+			"originalAnswer": "In the third petition, which is, Thy will be done on earth as it is in heaven 1 we pray that God by his grace would make us able and willing to know, obey, and submit to his will in all things, 2 as the angels do in heaven. 3"
 		},
 		"111": {
 			"question": "",
@@ -2360,15 +2642,21 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:11"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Proverbs 30:8", "Genesis 28:20", "1 Timothy 4:4-5"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What do we pray for in the fourth petition?",
+			"originalAnswer": "In the fourth petition, which is, Give us this day our daily bread, 1 we pray that of God's free gift we may receive a competent portion of the good things of this life, and enjoy his blessing with them. 2"
 		},
 		"112": {
 			"question": "",
@@ -2376,15 +2664,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:12"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Psalm 51:1-2", "Psalm 51:7", "Psalm 51:9", "Daniel 9:17-19"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Luke 11:4", "Matthew 18:35"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What do we pray for in the fifth petition?",
+			"originalAnswer": "In the fifth petition, which is, And forgive us our debts as we forgive our debtors, 1 we pray that God, for Christ’s sake, would freely pardon all our sins 2 which we are rather encouraged to ask because of his grace we are enabled from the heart to forgive others. 3"
 		},
 		"113": {
 			"question": "",
@@ -2392,15 +2692,27 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:13"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Matthew 26:31"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"2 Corinthians 12:8"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What do we pray for in the sixth petition?",
+			"originalAnswer": "In the sixth petition, which is, And lead us not into temptation but deliver us from evil, 1 we pray that God would either keep us from being tempted to sin, 2 or support and deliver us when we are tempted. 3"
 		},
 		"114": {
 			"question": "",
@@ -2408,15 +2720,33 @@
                 {
 					"text": "",
 					"references": [
-						""
+						"Matthew 6:13"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"Daniel 9:4", "Daniel 9:7-9", "Daniel 9:16-19"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Chronicles 29:10-13"
+					]
+				},
+                {
+					"text": "",
+					"references": [
+						"1 Corinthians 4:16", "Revelation 22:20-21"
 					]
 				}
             ],
 			"topics": [
 				""
 			],
-			"originalQuestion": "",
-			"originalAnswer": ""
+			"originalQuestion": "What doth the conclusion of the Lord's prayer teach?",
+			"originalAnswer": "The conclusion of the Lord's prayer, which is, For Thine is the kingdom, and the power, and the glory, forever. Amen, 1 teacheth us to take our encouragement in prayer from God only, 2 and in our prayers to praise Him, ascribing kingdom, power, and glory, to Him. 3 And in testimony of our desire and assurance to be heard, we say, Amen. 4"
 		}
 	}
 }
