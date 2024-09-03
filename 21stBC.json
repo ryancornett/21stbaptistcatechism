@@ -108,6 +108,15 @@
 				"notes": [
 					"Initial update to modern English of questions 24-25."
 				]
+			},
+			{
+				"date": "09/03/2024",
+				"questions": [
+					26, 27, 28, 29, 30
+				],
+				"notes": [
+					"Initial update to modern English of questions 26-30."
+				]
 			}
 		]
 	},
@@ -130,10 +139,10 @@
 			"originalAnswer": "God is the first and chiefest being."
 		},
 		"2": {
-			"question": "Should everyone believe in God??",
+			"question": "Should everyone believe there is a God?",
 			"answer": [
                 {
-                    "text": "Yes, everyone should believe in God;",
+                    "text": "Yes, everyone should believe there is a God;",
                     "references": [
                         [
                             "Hebrews 11:6"
@@ -663,10 +672,10 @@
 			"originalAnswer": "Christ as our Redeemer executeth the offices of a prophet, of a priest, and of king, both in his estate of humiliation and exaltation."
 		},
 		"27": {
-			"question": "",
+			"question": "How does Christ fulfill the office of a prophet?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Christ fulfills the office of a prophet by revealing to us the will of God for our salvation through His Word and Spirit.",
 					"references": [
 						"John 1:18", "1 Peter 1:10-12", "John 15:15", "John 20:31"
 					]
@@ -679,22 +688,22 @@
 			"originalAnswer": "Christ executeth the office of prophet in revealing to us, by his word and Spirit, the will of God for our salvation."
 		},
 		"28": {
-			"question": "",
+			"question": "How does Christ fulfill the office of a priest?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Christ fulfills the role of a priest by offering Himself as a sacrifice once to satisfy divine justice",
 					"references": [
 						"Hebrews 9:14", "Hebrews 9:28"
 					]
 				},
                 {
-					"text": "",
+					"text": " and reconcile us to God,",
 					"references": [
 						"Hebrews 2:17"
 					]
 				},
                 {
-					"text": "",
+					"text": " and by always interceding for us.",
 					"references": [
 						"Hebrews 7:24-25"
 					]
@@ -704,31 +713,31 @@
 				""
 			],
 			"originalQuestion": "How doth Christ execute the office of a priest?",
-			"originalAnswer": "Christ executeth the office of priest in his once offering up himself a sacrifice to satisfy divine justice 1 and reconcile us to God, 2 and in making continual intercession for us. 3"
+			"originalAnswer": "Christ executeth the office of priest in his once offering up himself a sacrifice to satisfy divine justice and reconcile us to God, and in making continual intercession for us."
 		},
 		"29": {
-			"question": "",
+			"question": "How does Christ fulfill the office of a king?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Christ fulfills the office of a king by bringing us under His authority,",
 					"references": [
 						"Acts 15:14-16"
 					]
 				},
                 {
-					"text": "",
+					"text": " ruling",
 					"references": [
 						"Isaiah 33:22"
 					]
 				},
                 {
-					"text": "",
+					"text": " and defending us,",
 					"references": [
 						"Isaiah 32:1-2"
 					]
 				},
                 {
-					"text": "",
+					"text": " and restraining and conquering all His and our enemies.",
 					"references": [
 						"1 Corinthians 15:25", "Psalm 110"
 					]
@@ -741,46 +750,46 @@
 			"originalAnswer": "Christ executeth the office of a king, in subduing us to himself, 1 in ruling, 2 and defending us, 3 and in restraining and conquering all his and our enemies. 4"
 		},
 		"30": {
-			"question": "",
+			"question": "Of what did Christ's humiliation consist?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Christ's humiliation consisted of being born into a lowly condition",
 					"references": [
 						"Luke 2:7"
 					]
 				},
                 {
-					"text": "",
+					"text": " under the law;",
 					"references": [
 						"Galatians 4:4"
 					]
 				},
                 {
-					"text": "",
+					"text": " enduring the miseries of this life,",
 					"references": [
 						"Hebrews 12:2-3", "Isaiah 53:2-3"
 					]
 				},
                 {
-					"text": "",
+					"text": " God's wrath,",
 					"references": [
 						"Luke 22:44", "Matthew 27:46"
 					]
 				},
                 {
-					"text": "",
+					"text": " and a cursed death on the cross.",
 					"references": [
 						"Philippians 2:8"
 					]
 				},
                 {
-					"text": "",
+					"text": " It also included being buried",
 					"references": [
 						"1 Corinthians 15:3-4"
 					]
 				},
                 {
-					"text": "",
+					"text": " and remaining under the power of death for a time.",
 					"references": [
 						"Acts 2:24-27", "Acts 2:31", "Matthew 12:40"
 					]
