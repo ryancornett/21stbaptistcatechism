@@ -232,7 +232,7 @@
 			"originalAnswer": "All men are not only permitted, but commanded and exhorted to read, hear, and understand the holy scriptures."
 		},
 		"6": {
-			"question": "What are the main teachings of the Bible",
+			"question": "What are the main teachings of the Bible?",
 			"answer": [
 				{
 					"text": "The Bible teaches what we should believe about God and what duties God requires of us.",
@@ -376,7 +376,7 @@
 			"originalAnswer": "God executeth his decrees in the works of creation and providence."
 		},
 		"12": {
-			"question": "What is the work of creation",
+			"question": "What is the work of creation?",
 			"answer": [
 				{
 					"text": "The work of creation is God's making all things of nothing, by the word of his power, in six days, and all of it was very good.",
@@ -668,10 +668,10 @@
 			"originalAnswer": "Christ the Son of God became man by taking to himself a true body, and a reasonable soul; being conceived by the power of the Holy Spirit in the womb of the Virgin Mary, and born of her, yet without sin."
 		},
 		"26": {
-			"question": "What roles does Christ fulfill as our Redeemer?",
+			"question": "What offices does Christ fulfill as our Redeemer?",
 			"answer": [
                 {
-					"text": " As our Redeemer, Christ fulfills the roles of a prophet, priest, and king, both in His state of humiliation and in His exaltation.",
+					"text": " As our Redeemer, Christ fulfills the offices of a prophet, priest, and king, both in His state of humiliation and in His exaltation.",
 					"references": [
 						"Acts 3:22", "Hebrews 12:25", "2 Corinthians 13:3", "Hebrews 5:5-7", "Hebrews 7:25", "Psalm 2:6", "Isaiah 9:6-7", "Matthew 21:5", "Psalm 2:8-11"
 					]
