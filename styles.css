@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Glass+Antiqua&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+    background-color: #fafaf6;
+}
+
+body, body > *, h1, h2, h3, h4, h5, h6, p, span, sup {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Poppins, sans-serif;
+}
+
+header, footer {
+    width: 100%;
+    background-color: #333;
+    color: #fafaf6;
+}
+
+h1 {
+    text-align: center;
+    padding: 3rem 0 0 0;
+    font-size: 3rem;
+}
+
+h2 {
+    text-align: center;
+    padding: 1rem 0 3rem 0;
+}
+
+.data-link {
+    width: 100%;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.data-link > * {
+    margin-top: 1rem;
+}
+
+.container {
+    width: 80vw;
+    margin: auto;
+}
+
+h4 {
+    font-size: 1.4rem;
+    padding-bottom: 0.5rem;
+}
+
+h5 {
+    font-size: 1.2rem;
+    font-weight: unset;
+    padding-bottom: 0.5rem;
+}
+
+.footnote-number {
+    margin: 0 0.3rem 0 0;
+}
+
+span + .reference-list-number {
+    margin: 0 0.2rem 0 0.5rem;
+}
+
+.references {
+    margin-bottom: 3rem;
+    font-size: 0.9rem;
+}
+
+footer {
+    padding: 3rem 0;
+    text-align: center;
+}
+
+footer p {
+    font-size: 1.2rem;
+}
