@@ -20,10 +20,12 @@ async function getData() {
     const jsonData = await fetchJsonData(url);
     
     let content = jsonData.data;
+    const NUMBER_OF_QUESTIONS_UPDATED = 36;
 
-    for (let i = 1; i < 34; i++) {
+    for (let i = 1; i <= NUMBER_OF_QUESTIONS_UPDATED; i++) {
         displayItem(container, content, i);
     }
+    comingSoon.textContent = `Questions ${NUMBER_OF_QUESTIONS_UPDATED + 1}-114 coming soon.`;
 }
 
 getData();
@@ -67,3 +69,5 @@ function displayItem(container, data, key) {
   container.appendChild(answer);
   container.appendChild(references);
 }
+
+const comingSoon = document.getElementById('coming-soon');

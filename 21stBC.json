@@ -5,6 +5,7 @@
 		"original": "Based on The Baptist Catechism 1695. Also known as Keach's Catechism.",
 		"licensing": "This work has been marked as dedicated to the Public Domain under the Creative Commons 1.0 Universal license. All rights to the work worldwide under copyright law are waived, including all related and neighboring rights, to the extent allowed by law.",
 		"topicsList": [
+			"Adoption",
 			"Belief",
 			"Bible",
 			"Creation",
@@ -18,8 +19,9 @@
 			"Holiness",
 			"Holy Spirit",
 			"Humanity",
-			"Judgment",
 			"Jesus",
+			"Judgment",
+			"Justification",
 			"Knowledge",
 			"Law, The",
 			"Obedience",
@@ -29,36 +31,40 @@
 			"Redemption",
 			"Revelation",
 			"Salvation",
+			"Sanctification",
 			"Sin",
 			"Sovereignty",
 			"Trinity"
 		],
 		"topicalIndex": {
+			"Adoption": [35],
 			"Belief": [2, 3],
 			"Bible": [3, 4, 5, 6],
 			"Creation": [3, 12],
 			"Curse, The": [20, 22],
 			"Dual Nature": [30, 31],
 			"Election": [23, 24],
-			"Faith": [4, 33],
+			"Faith": [4, 33, 36],
 			"Fall, The": [16, 18, 19, 20, 21, 22],
 			"Folly": [2],
 			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25],
 			"Goodness": [23],
 			"Holiness": [7, 8],
-			"Holy Spirit": [3, 25, 33],
+			"Holy Spirit": [3, 25, 33, 34],
 			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25],
-			"Judgment": [22],
 			"Jesus": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
+			"Judgment": [22],
+			"Justification": [35, 36],
 			"Knowledge": [5, 6],
 			"Law, The": [17],
 			"Obedience": [4, 6, 17],
 			"Office of Christ": [27, 28, 29],
 			"Providence": [11, 14, 15],
 			"Reason": [3],
-			"Redemption": [24, 26, 32, 33],
+			"Redemption": [24, 26, 32, 33, 36],
 			"Revelation": [3],
-			"Salvation": [23, 33],
+			"Salvation": [23, 33, 34],
+			"Sanctification": [35],
 			"Sin": [16, 17, 18, 19, 20, 21],
 			"Sovereignty": [1, 8, 10, 11, 31],
 			"Trinity": [9]
@@ -892,69 +898,69 @@
 			"originalAnswer": "The Spirit applieth to us the redemption purchased by Christ, by working faith in us, 1 and thereby uniting us to Christ, in our effectual calling. 2"
 		},
 		"34": {
-			"question": "",
+			"question": "What is our effective call?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Our effective call is the work of God's Spirit",
 					"references": [
 						"2 Timothy 1:9", "2 Thessalonians 2:13-14"
 					]
 				},
                 {
-					"text": "",
+					"text": " to convince us of our sin and misery,",
 					"references": [
 						"Acts 2:37"
 					]
 				},
                 {
-					"text": "",
+					"text": " enlighten our minds to know Christ,",
 					"references": [
 						"Acts 26:18"
 					]
 				},
                 {
-					"text": "",
+					"text": " and renew our wills,",
 					"references": [
 						"Ezekiel 36:26-27"
 					]
 				},
                 {
-					"text": "",
+					"text": " thereby persuading and enabling us to embrace Jesus Christ, who is freely offered to us in the gospel.",
 					"references": [
 						"John 6:44-45", "Philippians 2:13"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Holy Spirit", "Salvation"
 			],
 			"originalQuestion": "What is effectual calling?",
 			"originalAnswer": "Effectual calling is the work of God's Spirit, 1 whereby convincing us of our sin and misery, 2 enlightening our minds in the knowledge of Christ, 3 and renewing our wills, 4 he doth persuade and enable us to embrace Jesus Christ freely offered to us in the gospel. 5"
 		},
 		"35": {
-			"question": "",
+			"question": "What benefits do those who are effectively called receive in this life?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Those who are effectually called receive the benefits of justification,",
 					"references": [
 						"Romans 8:30"
 					]
 				},
                 {
-					"text": "",
+					"text": " adoption,",
 					"references": [
 						"Ephesians 1:5"
 					]
 				},
                 {
-					"text": "",
+					"text": " sanctification, and the various blessings that accompany or result from them in this life.",
 					"references": [
 						"1 Corinthians 1:30"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Justification", "Adoption", "Sanctification"
 			],
 			"originalQuestion": "What benefits do they that are effectually called partake of in this life?",
 			"originalAnswer": "They that are effectually called do in this life partake of justification, 1 adoption, 2 sanctification, and the several benefits which in this life do either accompany or flow from them. 3"
@@ -963,32 +969,32 @@
 			"question": "What is justification?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Justification is an act of God's free grace: He forgives all our sins",
 					"references": [
 						"Romans 3:24-25", "Romans 4:6-8"
 					]
 				},
                 {
-					"text": "",
+					"text": " and accepts us as righteous in His sight,",
 					"references": [
 						"2 Corinthians 5:19", "2 Corinthians 5:21"
 					]
 				},
                 {
-					"text": "",
+					"text": " solely because of Christ's righteousness credited to us",
 					"references": [
 						"Romans 5:17-19"
 					]
 				},
                 {
-					"text": "",
+					"text": " and received by faith alone.",
 					"references": [
 						"Galatians 2:16", "Philippians 3:9"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Justification", "Redemption", "Faith"
 			],
 			"originalQuestion": "What is justification?",
 			"originalAnswer": "Justification is an act of God's free grace, wherein he pardoneth all our sins, 1 and accepteth us as righteous in his sight, 2 only for the righteousness of Christ imputed to us, 3 and received by faith alone. 4"

@@ -20,12 +20,13 @@ header, footer {
 h1 {
     text-align: center;
     padding: 3rem 0 0 0;
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 h2 {
     text-align: center;
     padding: 1rem 0 3rem 0;
+    font-size: 1.25rem;
 }
 
 .data-link {
@@ -39,19 +40,23 @@ h2 {
 }
 
 .container {
-    width: 80vw;
+    width: 67vw;
     margin: auto;
 }
 
 h4 {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     padding-bottom: 0.5rem;
 }
 
 h5 {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: unset;
     padding-bottom: 0.5rem;
+}
+
+h5 sup {
+    font-size: 0.8rem;
 }
 
 .footnote-number {
@@ -64,7 +69,10 @@ span + .reference-list-number {
 
 .references {
     margin-bottom: 3rem;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
+    background-color: #333;
+    color: #fafaf6;
+    padding: 0 0.5rem;
 }
 
 footer {
