@@ -20,7 +20,7 @@ async function getData() {
     const jsonData = await fetchJsonData(url);
     
     let content = jsonData.data;
-    const NUMBER_OF_QUESTIONS_UPDATED = 36;
+    const NUMBER_OF_QUESTIONS_UPDATED = 39;
 
     for (let i = 1; i <= NUMBER_OF_QUESTIONS_UPDATED; i++) {
         displayItem(container, content, i);
@@ -32,7 +32,7 @@ getData();
 
 function displayItem(container, data, key) {
   let question = document.createElement('h4');
-  question.textContent = `Q${key}. `;
+  question.textContent = `${key}. `;
   question.textContent += data[key].question;
   container.appendChild(question);
 

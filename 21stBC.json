@@ -37,7 +37,7 @@
 			"Trinity"
 		],
 		"topicalIndex": {
-			"Adoption": [35],
+			"Adoption": [35, 37, 39],
 			"Belief": [2, 3],
 			"Bible": [3, 4, 5, 6],
 			"Creation": [3, 12],
@@ -54,7 +54,7 @@
 			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25],
 			"Jesus": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
 			"Judgment": [22],
-			"Justification": [35, 36],
+			"Justification": [35, 36, 39],
 			"Knowledge": [5, 6],
 			"Law, The": [17],
 			"Obedience": [4, 6, 17],
@@ -64,7 +64,7 @@
 			"Redemption": [24, 26, 32, 33, 36],
 			"Revelation": [3],
 			"Salvation": [23, 33, 34],
-			"Sanctification": [35],
+			"Sanctification": [35, 38, 39],
 			"Sin": [16, 17, 18, 19, 20, 21],
 			"Sovereignty": [1, 8, 10, 11, 31],
 			"Trinity": [9]
@@ -133,7 +133,25 @@
 					31, 32, 33
 				],
 				"notes": [
-					"Initial update to modern English of questions 26-30."
+					"Initial update to modern English of questions 31-33."
+				]
+			},
+			{
+				"date": "09/06/2024",
+				"questions": [
+					34, 35, 36
+				],
+				"notes": [
+					"Initial update to modern English of questions 34-36."
+				]
+			},
+			{
+				"date": "09/09/2024",
+				"questions": [
+					37, 38, 39
+				],
+				"notes": [
+					"Initial update to modern English of questions 37-39."
 				]
 			}
 		]
@@ -1003,85 +1021,85 @@
 			"question": "What is adoption?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Adoption is the act of God's free grace",
 					"references": [
 						"1 John 3:1"
 					]
 				},
                 {
-					"text": "",
+					"text": " by which we are brought into His family and receive the right to all the privileges of God's children.",
 					"references": [
 						"John 1:12", "Romans 8:14-17"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Adoption"
 			],
 			"originalQuestion": "What is adoption?",
-			"originalAnswer": "Adoption is an act of God’s free grace, 1 whereby we are received into the number and have a right to all the privileges of the sons of God. 2"
+			"originalAnswer": "Adoption is an act of God's free grace, 1 whereby we are received into the number and have a right to all the privileges of the sons of God. 2"
 		},
 		"38": {
 			"question": "What is sanctification?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Sanctification is the work of God's free grace",
 					"references": [
 						"2 Thessalonians 2:13"
 					]
 				},
                 {
-					"text": "",
+					"text": " by which we are renewed in every part to reflect the image of God",
 					"references": [
 						"Ephesians 4:23-24"
 					]
 				},
                 {
-					"text": "",
+					"text": " and are increasingly enabled to die to sin and live in righteousness.",
 					"references": [
 						"Romans 6:4", "Romans 6:6", "Romans 8:1"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Sanctification"
 			],
 			"originalQuestion": "What is sanctification?",
-			"originalAnswer": "Sanctification is the work of God’s free grace, 1 whereby we are renewed in the whole man after the image of God, 2 and are enabled more and more to die unto sin, and live unto righteousness. 3"
+			"originalAnswer": "Sanctification is the work of God's free grace, 1 whereby we are renewed in the whole man after the image of God, 2 and are enabled more and more to die unto sin, and live unto righteousness. 3"
 		},
 		"39": {
-			"question": "",
+			"question": "What benefits in this life accompany or flow from justification, adoption, and sanctification?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The benefits in this life that accompany or flow from justification, adoption, and sanctification are assurance of God's love, peace of conscience,",
 					"references": [
 						"Romans 5:1-2", "Romans 5:5"
 					]
 				},
                 {
-					"text": "",
+					"text": " joy in the Holy Spirit,",
 					"references": [
 						"Romans 5:5", "Romans 5:17"
 					]
 				},
                 {
-					"text": "",
+					"text": " growth in grace,",
 					"references": [
 						"Proverbs 4:18"
 					]
 				},
                 {
-					"text": "",
+					"text": " and perseverance in it until the end.",
 					"references": [
 						"1 John 5:13", "1 Peter 1:5"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Sanctification", "Adoption", "Justification"
 			],
 			"originalQuestion": "What are the benefits which in this life do accompany or flow from justification, adoption, and sanctification?",
-			"originalAnswer": "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are assurance of God’s love, peace of conscience, 1 joy in the Holy Spirit, 2 increase of grace, 3 and perseverance therein to the end. 4"
+			"originalAnswer": "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are assurance of God's love, peace of conscience, 1 joy in the Holy Spirit, 2 increase of grace, 3 and perseverance therein to the end. 4"
 		},
 		"40": {
 			"question": "",
