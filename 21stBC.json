@@ -10,7 +10,9 @@
 			"Bible",
 			"Creation",
 			"Curse, The",
+			"Death",
 			"Election",
+			"Eternal Life",
 			"Faith",
 			"Fall, The",
 			"Folly",
@@ -34,6 +36,7 @@
 			"Sanctification",
 			"Sin",
 			"Sovereignty",
+			"Ten Commandments, The",
 			"Trinity"
 		],
 		"topicalIndex": {
@@ -42,22 +45,24 @@
 			"Bible": [3, 4, 5, 6],
 			"Creation": [3, 12],
 			"Curse, The": [20, 22],
+			"Death": [40, 42],
 			"Dual Nature": [30, 31],
 			"Election": [23, 24],
+			"Eternal Life": [40, 41],
 			"Faith": [4, 33, 36],
 			"Fall, The": [16, 18, 19, 20, 21, 22],
 			"Folly": [2],
-			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25],
+			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49],
 			"Goodness": [23],
 			"Holiness": [7, 8],
 			"Holy Spirit": [3, 25, 33, 34],
-			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25],
+			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25, 44],
 			"Jesus": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
-			"Judgment": [22],
+			"Judgment": [22, 42, 43],
 			"Justification": [35, 36, 39],
 			"Knowledge": [5, 6],
 			"Law, The": [17],
-			"Obedience": [4, 6, 17],
+			"Obedience": [4, 6, 17, 44, 45, 47, 49],
 			"Office of Christ": [27, 28, 29],
 			"Providence": [11, 14, 15],
 			"Reason": [3],
@@ -66,7 +71,8 @@
 			"Salvation": [23, 33, 34],
 			"Sanctification": [35, 38, 39],
 			"Sin": [16, 17, 18, 19, 20, 21],
-			"Sovereignty": [1, 8, 10, 11, 31],
+			"Sovereignty": [1, 8, 10, 11, 31, 49],
+			"Ten Commandments, The": [45, 46, 47, 48, 49],
 			"Trinity": [9]
 		},
 		"endorsers": [
@@ -152,6 +158,15 @@
 				],
 				"notes": [
 					"Initial update to modern English of questions 37-39."
+				]
+			},
+			{
+				"date": "09/09/2024",
+				"questions": [
+					40, 41, 42, 43, 44, 45, 46, 47, 48, 49
+				],
+				"notes": [
+					"Initial update to modern English of questions 40-49."
 				]
 			}
 		]
@@ -1102,203 +1117,203 @@
 			"originalAnswer": "The benefits which in this life do accompany or flow from justification, adoption, and sanctification, are assurance of God's love, peace of conscience, 1 joy in the Holy Spirit, 2 increase of grace, 3 and perseverance therein to the end. 4"
 		},
 		"40": {
-			"question": "",
+			"question": "What benefits do believers receive from Christ at their death?",
 			"answer": [
                 {
-					"text": "",
+					"text": "At death, the souls of believers are made perfect in holiness",
 					"references": [
 						"Hebrews 12:23"
 					]
 				},
                 {
-					"text": "",
+					"text": " and immediately enter into glory;",
 					"references": [
 						"2 Corinthians 5:1", "2 Corinthians 5:6", "2 Corinthians 5:8", "Philippians 1:23", "Luke 23:43"
 					]
 				},
                 {
-					"text": "",
+					"text": " their bodies, still united to Christ,",
 					"references": [
 						"1 Thessalonians 4:14"
 					]
 				},
                 {
-					"text": "",
+					"text": " rest in their graves",
 					"references": [
 						"Isaiah 57:2"
 					]
 				},
                 {
-					"text": "",
+					"text": " until the resurrection.",
 					"references": [
 						"Job 19:26-27"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Eternal Life", "Death"
 			],
 			"originalQuestion": "What benefits do believers receive from Christ at their death?",
 			"originalAnswer": "The souls of believers are at their death made perfect in holiness, 1 and do immediately pass into glory; 2 and their bodies being still united to Christ, 3 do rest in their graves 4 till the resurrection. 5"
 		},
 		"41": {
-			"question": "",
+			"question": "What benefits do believers receive from Christ at the resurrection?",
 			"answer": [
                 {
-					"text": "",
+					"text": "At the resurrection, believers will be raised in glory,",
 					"references": [
 						"1 Corinthians 15:43"
 					]
 				},
                 {
-					"text": "",
+					"text": " openly acknowledged and acquitted on the day of judgment,",
 					"references": [
 						"Matthew 25:23", "Matthew 10:32"
 					]
 				},
                 {
-					"text": "",
+					"text": " and perfectly blessed in both soul and body to fully enjoy God",
 					"references": [
 						"1 John 3:2", "1 Corinthians 13:12"
 					]
 				},
                 {
-					"text": "",
+					"text": " for all eternity.",
 					"references": [
 						"1 Thessalonians 4:17-18"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Eternal Life", "God"
 			],
 			"originalQuestion": "What benefits do believers receive from Christ at the resurrection?",
 			"originalAnswer": "At the resurrection believers, being raised up in glory, 1 shall be openly acknowledged, and acquitted in the day of judgment, 2 and made perfectly blessed, both in soul and body, in the full enjoyment of God 3 to all eternity. 4"
 		},
 		"42": {
-			"question": "",
+			"question": "What will happen to the wicked at their death?",
 			"answer": [
                 {
-					"text": "",
+					"text": "At their death, the souls of the wicked will be cast into the torments of hell while their bodies remain in their graves until the resurrection unto judgment on the great day.",
 					"references": [
 						"Luke 16:23-24", "Acts 2:24", "Jude 1:5", "Jude 1:7", "1 Peter 3:19", "Psalm 49:14"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Death", "Judgment"
 			],
 			"originalQuestion": "But what shall be done to the wicked at their death?",
 			"originalAnswer": "The souls of the wicked shall, at their death, be cast into the torments of hell, and their bodies lie in their graves, till the resurrection and judgment of the great day."
 		},
 		"43": {
-			"question": "",
+			"question": "What will happen to the wicked on the day of judgment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "On the day of judgment, the bodies of the wicked will be raised from their graves and, along with their souls, will be sentenced to eternal, unspeakable torments with the devil and his angels.",
 					"references": [
 						"John 5:28-29", "Matthew 25:41", "Matthew 25:46", "2 Thessalonians 1:8-9"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Judgment"
 			],
 			"originalQuestion": "What shall be done to the wicked, at the day of judgment?",
 			"originalAnswer": "At the day of judgment the bodies of the wicked, being raised out of their graves, shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels for ever."
 		},
 		"44": {
-			"question": "",
+			"question": "What duty does God require of humanity?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The duty God requires of humanity is obedience to His revealed will.",
 					"references": [
 						"Micah 6:8", "1 Samuel 15:22"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Obedience", "God", "Humanity"
 			],
 			"originalQuestion": "What is the duty which God requireth of man?",
 			"originalAnswer": "The duty which God requireth of man is, obedience to his revealed will."
 		},
 		"45": {
-			"question": "",
+			"question": "What did God first reveal to humanity as the rule for obedience?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The rule that God first revealed to humanity for obedience was the moral law.",
 					"references": [
 						"Romans 2:14-15", "Romans 10:5"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Obedience", "Ten Commandments, The"
 			],
 			"originalQuestion": "What did God at first reveal to man for the rule of his obedience?",
 			"originalAnswer": "The rule which God at first revealed to man for his obedience, was the moral law."
 		},
 		"46": {
-			"question": "",
+			"question": "Where is the moral law summarized?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The moral law is summarized in the Ten Commandments.",
 					"references": [
 						"Deuteronomy 10:4", "Matthew 19:17"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "Where is the moral law summarily comprehended?",
 			"originalAnswer": "The moral law is summarily comprehended in the ten commandments."
 		},
 		"47": {
-			"question": "",
+			"question": "What is the sum of the ten commandments?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The sum of the Ten Commandments is to love the Lord our God with all our heart, soul, strength, and mind, and to love our neighbor as ourselves.",
 					"references": [
 						"Matthew 22:37-40"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Obedience"
 			],
 			"originalQuestion": "What is the sum of the ten commandments?",
 			"originalAnswer": "The sum of the ten commandments is, to love the Lord our God, with all our heart, with all our soul, with all our strength, and with all our mind; and our neighbour as ourselves."
 		},
 		"48": {
-			"question": "",
+			"question": "What is the preface to the Ten Commandments?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The preface to the Ten Commandments is: \"I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage.\"",
 					"references": [
 						"Exodus 20:2"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God"
 			],
 			"originalQuestion": "What is the preface to the ten commandments?",
 			"originalAnswer": "The preface to the ten commandments is in these words; I am the Lord thy God which have brought thee out of the land of Egypt, out of the house of bondage."
 		},
 		"49": {
-			"question": "",
+			"question": "What does the preface to the Ten Commandments teach us?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The preface to the Ten Commandments teaches us that because God is the Lord, our God and Redeemer, we are therefore obligated to keep all His commandments.",
 					"references": [
 						"Luke 1:74-75", "1 Peter 1:15-19"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Sovereignty", "Obedience"
 			],
 			"originalQuestion": "What doth the preface to the ten commandments teach us?",
 			"originalAnswer": "The preface to the ten commandments teacheth us that because God is the Lord, and our God and redeemer, therefore we are bound to keep all his commandments."
