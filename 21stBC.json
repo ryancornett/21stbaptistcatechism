@@ -32,12 +32,14 @@
 			"Reason",
 			"Redemption",
 			"Revelation",
+			"Reverence",
 			"Salvation",
 			"Sanctification",
 			"Sin",
 			"Sovereignty",
 			"Ten Commandments, The",
-			"Trinity"
+			"Trinity", 
+			"Worship"
 		],
 		"topicalIndex": {
 			"Adoption": [35, 37, 39],
@@ -49,12 +51,12 @@
 			"Dual Nature": [30, 31],
 			"Election": [23, 24],
 			"Eternal Life": [40, 41],
-			"Faith": [4, 33, 36],
+			"Faith": [4, 33, 36, 54],
 			"Fall, The": [16, 18, 19, 20, 21, 22],
 			"Folly": [2],
-			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49],
+			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59],
 			"Goodness": [23],
-			"Holiness": [7, 8],
+			"Holiness": [7, 8, 58, 59],
 			"Holy Spirit": [3, 25, 33, 34],
 			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25, 44],
 			"Jesus": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
@@ -62,18 +64,20 @@
 			"Justification": [35, 36, 39],
 			"Knowledge": [5, 6],
 			"Law, The": [17],
-			"Obedience": [4, 6, 17, 44, 45, 47, 49],
+			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51],
 			"Office of Christ": [27, 28, 29],
 			"Providence": [11, 14, 15],
 			"Reason": [3],
 			"Redemption": [24, 26, 32, 33, 36],
 			"Revelation": [3],
+			"Reverence": [58, 59],
 			"Salvation": [23, 33, 34],
 			"Sanctification": [35, 38, 39],
-			"Sin": [16, 17, 18, 19, 20, 21],
+			"Sin": [16, 17, 18, 19, 20, 21, 53],
 			"Sovereignty": [1, 8, 10, 11, 31, 49],
-			"Ten Commandments, The": [45, 46, 47, 48, 49],
-			"Trinity": [9]
+			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59],
+			"Trinity": [9],
+			"Worship": [51, 52, 53, 54, 55, 56, 57]
 		},
 		"endorsers": [
             {
@@ -161,12 +165,21 @@
 				]
 			},
 			{
-				"date": "09/09/2024",
+				"date": "09/11/2024",
 				"questions": [
 					40, 41, 42, 43, 44, 45, 46, 47, 48, 49
 				],
 				"notes": [
 					"Initial update to modern English of questions 40-49."
+				]
+			},
+			{
+				"date": "09/12/2024",
+				"questions": [
+					50, 51, 52, 53, 54, 55, 56, 57, 58, 59
+				],
+				"notes": [
+					"Initial update to modern English of questions 50-59."
 				]
 			}
 		]
@@ -1319,233 +1332,233 @@
 			"originalAnswer": "The preface to the ten commandments teacheth us that because God is the Lord, and our God and redeemer, therefore we are bound to keep all his commandments."
 		},
 		"50": {
-			"question": "",
+			"question": "What is the first commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The first commandment is: \"You shall have no other gods before Me.\"",
 					"references": [
 						"Exodus 20:3"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God"
 			],
 			"originalQuestion": "Which is the first commandment?",
 			"originalAnswer": "The first commandment is, Thou shalt have no other gods before me."
 		},
 		"51": {
-			"question": "",
+			"question": "What is required in the first commandment?",
 			"answer": [
 				{
-					"text": "",
+					"text": "The first commandment requires us to know and acknowledge God as the only true God and our God,",
 					"references": [
 						"1 Chronicles 28:9", "Deuteronomy 26:17"
 					]
 				},
                 {
-					"text": "",
+					"text": " and to worship and glorify Him accordingly.",
 					"references": [
 						"Matthew 4:10", "Psalm 29:2"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Worship", "Obedience"
 			],
 			"originalQuestion": "What is required in the first commandment?",
 			"originalAnswer": "The first commandment requireth us to know and acknowledge God to be the only true God and our God, 1 and to worship and glorify him accordingly."
 		},
 		"52": {
-			"question": "",
+			"question": "What is forbidden in the first commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The first commandment forbids denying",
 					"references": [
 						"Psalm 14:1"
 					]
 				},
                 {
-					"text": "",
+					"text": " or failing to worship and glorify the true God ",
 					"references": [
 						"Romans 1:21"
 					]
 				},
                 {
-					"text": "",
+					"text": "as our God,",
 					"references": [
 						"Psalm 81:10-11"
 					]
 				},
                 {
-					"text": "",
+					"text": " and giving the worship and glory due to Him to anyone or anything else.",
 					"references": [
 						"Romans 1:25-26"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Worship"
 			],
 			"originalQuestion": "What is forbidden in the first commandment?",
 			"originalAnswer": "The first commandment forbiddeth the denying, 1 or not worshipping and glorifying the true God, 2 as God and our God, 3 and the giving of that worship and glory to any other, which is due unto him alone."
 		},
 		"53": {
-			"question": "",
+			"question": "What do the words \"before me\" in the first commandment teach us?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The words \"before me\" in the first commandment teach us that God, who sees all things, takes notice of and is greatly displeased with the sin of having any other god.",
 					"references": [
 						"Exodus 8:5-32"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Sin", "Worship"
 			],
 			"originalQuestion": "What are we especially taught by these words before me, in the first commandment?",
 			"originalAnswer": "These words before me, in the first commandment teach us, that God, who seeth all things, taketh notice of and is much displeased with the sin of having any other God."
 		},
 		"54": {
-			"question": "",
+			"question": "What is the second commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The second commandment is: \"You shall not make for yourself a carved image, or any likeness of anything in heaven above, or on the earth beneath, or in the waters under the earth. You shall not bow down to them or serve them, for I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate Me, but showing mercy to thousands of those who love Me and keep My commandments.\"",
 					"references": [
-						"Exodus 20:4–6"
+						"Exodus 20:4-6"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Worship", "Faith"
 			],
 			"originalQuestion": "Which is the second commandment?",
 			"originalAnswer": "The second commandment is, Thou shalt not make unto thee any graven image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth; thou shalt not bow down thyself to them, nor serve them; for I the Lord thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me; and shewing mercy unto thousands of them that love me, and keep my commandments."
 		},
 		"55": {
-			"question": "",
+			"question": "What is required in the second commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The second commandment requires us to receive, observe, and keep pure and whole all religious worship and ordinances that God has appointed in His Word.",
 					"references": [
 						"Deuteronomy 32:46", "Matthew 23:20", "Acts 2:42"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "Worship", "God"
 			],
 			"originalQuestion": "What is required in the second commandment?",
 			"originalAnswer": "The second commandment requireth the receiving, observing, and keeping pure and entire all such religious worship and ordinances, as God hath appointed in his word."
 		},
 		"56": {
-			"question": "",
+			"question": "What is forbidden in the second commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The second commandment forbids worshiping God through images",
 					"references": [
 						"Deuteronomy 4:15-19", "Exodus 32:5", "Exodus 32:8"
 					]
 				},
                 {
-					"text": "",
+					"text": " or in any way not appointed in His word.",
 					"references": [
 						"Deuteronomy 12:31-32"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Worship"
 			],
 			"originalQuestion": "What is forbidden in the second commandment?",
 			"originalAnswer": "The second commandment forbiddeth the worshipping of God by images 1 or any other way not appointed in his word. 2"
 		},
 		"57": {
-			"question": "",
+			"question": "What are the reasons attached to the second commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The reasons attached to the second commandment are God's sovereignty over us,",
 					"references": [
 						"Psalm 45:2-3", "Psalm 45:6"
 					]
 				},
                 {
-					"text": "",
+					"text": " His ownership of us,",
 					"references": [
 						"Psalm 45:11"
 					]
 				},
                 {
-					"text": "",
+					"text": " and His zeal for His own worship.",
 					"references": [
 						"Exodus 34:13-14"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Worship"
 			],
 			"originalQuestion": "What are the reasons annexed to the second commandment?",
 			"originalAnswer": "The reasons annexed to the second commandment are, God's sovereignty over us, 1 his propriety in us, 2 and the zeal he hath to his own worship. 3"
 		},
 		"58": {
-			"question": "",
+			"question": "What is the third commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The third commandment is: \"You shall not take the name of the Lord your God in vain, for the Lord will not hold guiltless anyone who takes His name in vain.\"",
 					"references": [
 						"Exodus 20:7"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Holiness", "Reverence"
 			],
 			"originalQuestion": "Which is the third commandment?",
 			"originalAnswer": "The third commandment is, Thou shalt not take the name of the Lord thy God in vain; for the Lord will not hold him guiltless that taketh his name in vain."
 		},
 		"59": {
-			"question": "",
+			"question": "What is required in the third commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The third commandment requires the holy and reverent use of God's names,",
 					"references": [
 						"Matthew 6:9", "Deuteronomy 28:58"
 					]
 				},
                 {
-					"text": "",
+					"text": " titles,",
 					"references": [
 						"Psalm 68:4"
 					]
 				},
                 {
-					"text": "",
+					"text": " attributes,",
 					"references": [
 						"Revelation 15:3-4"
 					]
 				},
                 {
-					"text": "",
+					"text": " ordinances,",
 					"references": [
 						"Malachi 1:11", "Malachi 1:14"
 					]
 				},
                 {
-					"text": "",
+					"text": " Word,",
 					"references": [
 						"Psalm 136:1-2"
 					]
 				},
                 {
-					"text": "",
+					"text": " and works.",
 					"references": [
 						"Job 36:24"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Holiness", "Reverence"
 			],
 			"originalQuestion": "What is required in the third commandment?",
 			"originalAnswer": "The third commandment requireth the holy and reverent use of God's names, 1 titles, 2 attributes, 3 ordinances, 4 word 5 and works. 6"
