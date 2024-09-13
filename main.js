@@ -20,7 +20,7 @@ async function getData() {
     const jsonData = await fetchJsonData(url);
     
     let content = jsonData.data;
-    const NUMBER_OF_QUESTIONS_UPDATED = 59;
+    const NUMBER_OF_QUESTIONS_UPDATED = 62;
 
     for (let i = 1; i <= NUMBER_OF_QUESTIONS_UPDATED; i++) {
         displayItem(container, content, i);

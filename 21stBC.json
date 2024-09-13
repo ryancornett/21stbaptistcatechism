@@ -54,9 +54,9 @@
 			"Faith": [4, 33, 36, 54],
 			"Fall, The": [16, 18, 19, 20, 21, 22],
 			"Folly": [2],
-			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59],
+			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61],
 			"Goodness": [23],
-			"Holiness": [7, 8, 58, 59],
+			"Holiness": [7, 8, 58, 59, 60, 61],
 			"Holy Spirit": [3, 25, 33, 34],
 			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25, 44],
 			"Jesus": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
@@ -75,7 +75,7 @@
 			"Sanctification": [35, 38, 39],
 			"Sin": [16, 17, 18, 19, 20, 21, 53],
 			"Sovereignty": [1, 8, 10, 11, 31, 49],
-			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59],
+			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62],
 			"Trinity": [9],
 			"Worship": [51, 52, 53, 54, 55, 56, 57]
 		},
@@ -177,6 +177,15 @@
 				"date": "09/12/2024",
 				"questions": [
 					50, 51, 52, 53, 54, 55, 56, 57, 58, 59
+				],
+				"notes": [
+					"Initial update to modern English of questions 50-59."
+				]
+			},
+			{
+				"date": "09/13/2024",
+				"questions": [
+					60, 61, 62
 				],
 				"notes": [
 					"Initial update to modern English of questions 50-59."
@@ -1564,49 +1573,49 @@
 			"originalAnswer": "The third commandment requireth the holy and reverent use of God's names, 1 titles, 2 attributes, 3 ordinances, 4 word 5 and works. 6"
 		},
 		"60": {
-			"question": "",
+			"question": "What is forbidden in the third commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The third commandment forbids all profaning and abusing of anything by which God makes Himself known.",
 					"references": [
 						"Malachi 1:6-7", "Malachi 1:12", "Malachi 2:2", "Malachi 3:14"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Holiness"
 			],
 			"originalQuestion": "What is forbidden in the third commandment?",
 			"originalAnswer": "The third commandment forbiddeth all profaning and abusing of any thing whereby God makes himself known."
 		},
 		"61": {
-			"question": "",
+			"question": "What is the reason attached to the third commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The reason attached to the third commandment is that, although those who break it may escape punishment from men, the Lord our God will not allow them to escape His righteous judgment.",
 					"references": [
 						"1 Samuel 2:12", "1 Samuel 2:17", "1 Samuel 2:22", "1 Samuel 2:29", "1 Samuel 3:13", "Deuteronomy 28:58-59"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "God", "Holiness"
 			],
 			"originalQuestion": "What is the reason annexed to the third commandment?",
 			"originalAnswer": "The reason annexed to the third commandment is, that however the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape his righteous judgment."
 		},
 		"62": {
-			"question": "",
+			"question": "What is the fourth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The fourth commandment is: \"Remember the Sabbath day to keep it holy. Six days shall you labor and do all your work, but the seventh day is the Sabbath of the Lord your God. On it, you shall not do any work, neither you, nor your son, nor your daughter, nor your male or female servant, nor your livestock, nor the foreigner within your gates. For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day; therefore, the Lord blessed the Sabbath day and made it holy.\"",
 					"references": [
 						"Exodus 20:8-11"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is the fourth commandment?",
 			"originalAnswer": "The fourth commandment is, Remember the Sabbath day to keep it holy; six days shalt thou labour and do all thy work; but the seventh day is the Sabbath of the Lord thy God, in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thy cattle, nor the stranger that is within thy gates; for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day; wherefore the Lord blessed the Sabbath day and hallowed it."
