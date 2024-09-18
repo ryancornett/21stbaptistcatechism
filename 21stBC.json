@@ -64,7 +64,7 @@
 			"Justification": [35, 36, 39],
 			"Knowledge": [5, 6],
 			"Law, The": [17],
-			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51],
+			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51, 66, 68],
 			"Office of Christ": [27, 28, 29],
 			"Providence": [11, 14, 15],
 			"Reason": [3],
@@ -75,7 +75,7 @@
 			"Sanctification": [35, 38, 39],
 			"Sin": [16, 17, 18, 19, 20, 21, 53],
 			"Sovereignty": [1, 8, 10, 11, 31, 49],
-			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62],
+			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80],
 			"Trinity": [9],
 			"Worship": [51, 52, 53, 54, 55, 56, 57]
 		},
@@ -188,7 +188,16 @@
 					60, 61, 62
 				],
 				"notes": [
-					"Initial update to modern English of questions 50-59."
+					"Initial update to modern English of questions 60-62."
+				]
+			},
+			{
+				"date": "09/18/2024",
+				"questions": [
+					63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80
+				],
+				"notes": [
+					"Initial update to modern English of questions 63-80."
 				]
 			}
 		]
@@ -1621,208 +1630,208 @@
 			"originalAnswer": "The fourth commandment is, Remember the Sabbath day to keep it holy; six days shalt thou labour and do all thy work; but the seventh day is the Sabbath of the Lord thy God, in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy man-servant, nor thy maid-servant, nor thy cattle, nor the stranger that is within thy gates; for in six days the Lord made heaven and earth, the sea, and all that in them is, and rested the seventh day; wherefore the Lord blessed the Sabbath day and hallowed it."
 		},
 		"63": {
-			"question": "",
+			"question": "What is required in the fourth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The fourth commandment requires setting apart one whole day in seven as a holy Sabbath dedicated to God.",
 					"references": [
 						"Exodus 20:8-11", "Deuteronomy 5:12-14"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the fourth commandment?",
 			"originalAnswer": "The fourth commandment requireth the keeping holy to God one whole day in seven to be a Sabbath to Himself."
 		},
 		"64": {
-			"question": "",
+			"question": "Which day of the seven has God appointed to be the weekly Sabbath?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Before Christ's resurrection, God appointed the seventh day of the week as the weekly Sabbath.",
 					"references": [
 						"Exodus 20:8-11; Deuteronomy 5:12-14"
 					]
 				},
                 {
-					"text": "",
+					"text": " Since then, the first day of the week is the Christian Sabbath and shall be until the end of the world.",
 					"references": [
 						"Psalm 118:24", "Matthew 28:1", "Mark 2:27-28", "John 20:19-20", "John 20:26", "Revelation 1:10", "Mark 16:2", "Luke 24:1", "Luke 24:30-36", "John 20:1", "Acts 1:3", "Acts 2:1-2", "Acts 20:7", "1 Corinthians 16:1-2"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "Which day of the seven hath God appointed to be the weekly Sabbath?",
 			"originalAnswer": "Before the resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath; 1 and the first day of the week ever since, to continue to the end of the world, which is the Christian Sabbath. 2"
 		},
 		"65": {
-			"question": "",
+			"question": "How is the Sabbath to be set apart?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The Sabbath is to be set apart by a holy resting the entire day,",
 					"references": [
 						"Exodus 20:8", "Exodus 20:10"
 					]
 				},
                 {
-					"text": "",
+					"text": " even from worldly work and recreation lawful on other days;",
 					"references": [
 						"Exodus 16:25-28; Nehemiah 13:15-22"
 					]
 				},
                 {
-					"text": "",
+					"text": " the whole time is to be spent in public and private worship of God,",
 					"references": [
 						"Luke 4:16", "Acts 20:7", "Psalm 92 (Hebrew Title)", "Isaiah 66:23"
 					]
 				},
                 {
-					"text": "",
+					"text": " except for works of necessity and mercy.",
 					"references": [
 						"Matthew 12:1-13"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "How is the Sabbath to be sanctified?",
 			"originalAnswer": "The Sabbath is to be sanctified by a holy resting all that day, 1 even from such worldly employments and recreations as are lawful on other days; 2 and spending the whole time in the public and private exercises of God's worship, 3 except so much as is to be taken up in the works of necessity and mercy. 4"
 		},
 		"66": {
-			"question": "",
+			"question": "What is forbidden in the fourth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The fourth commandment forbids neglecting or carelessly performing the required duties,",
 					"references": [
 						"Ezekiel 22:26", "Amos 8:5", "Malachi 1:13"
 					]
 				},
                 {
-					"text": "",
+					"text": " profaning the day through idleness",
 					"references": [
 						"Acts 20:7", "Acts 20:9"
 					]
 				},
                 {
-					"text": "",
+					"text": " or engaging in sinful activities,",
 					"references": [
 						"Ezekiel 23:38"
 					]
 				},
                 {
-					"text": "",
+					"text": " and having unnecessary thoughts, words, or actions concerning worldly work or recreation.",
 					"references": [
 						"Jeremiah 17:24-27", "Isaiah 58:13"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "Obedience"
 			],
 			"originalQuestion": "What is forbidden in the fourth commandment?",
 			"originalAnswer": "The fourth commandment forbiddeth the omission or careless performance of the duties required, 1 and the profaning the day by idleness, 2 or doing that which is in itself sinful, 3 or by unnecessary thoughts, words, or works, about worldly employments or recreations. 4"
 		},
 		"67": {
-			"question": "",
+			"question": "What are the reasons attached to the fourth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The reasons attached to the fourth commandment are: God allowing us six days for our own lawful work,",
 					"references": [
 						"Exodus 20:9"
 					]
 				},
                 {
-					"text": "",
+					"text": " His claim to the seventh day as His own, His own example of resting, and His blessing of the Sabbath day.",
 					"references": [
 						"Exodus 20:11"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What are the reasons annexed to the fourth commandment?",
 			"originalAnswer": "The reasons annexed to the fourth commandment, are God's allowing us six days of the week for our own lawful employments, 1 his challenging a special propriety in a seventh, his own example, and his blessing the Sabbath day. 2"
 		},
 		"68": {
-			"question": "",
+			"question": "What is the fifth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The fifth commandment is: \"Honor your father and your mother, that your days may be long in the land the Lord your God is giving you.\"",
 					"references": [
 						"Exodus 20:12"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The", "Obedience"
 			],
 			"originalQuestion": "Which is the fifth commandment?",
 			"originalAnswer": "The fifth commandment is, Honor thy father and thy mother; that thy days may be long in the land which the Lord thy God giveth thee."
 		},
 		"69": {
-			"question": "",
+			"question": "What is required in the fifth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The fifth commandment requires maintaining honor and fulfilling the duties appropriate to everyone in their various roles and relationships, whether as superiors,",
 					"references": [
 						"Ephesians 5:21"
 					]
 				},
                 {
-					"text": "",
+					"text": " subordinates,",
 					"references": [
 						"1 Peter 2:17"
 					]
 				},
                 {
-					"text": "",
+					"text": " or equals.",
 					"references": [
 						"Romans 12:10"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the fifth commandment?",
 			"originalAnswer": "The fifth commandment requireth the preserving the honour and performing the duties belonging to every one in their several places and relations, as superiors, 1 inferiors, 2 or equals. 3"
 		},
 		"70": {
-			"question": "",
+			"question": "What is forbidden in the fifth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The fifth commandment forbids neglecting or acting against the honor and duty owed to everyone in their respective roles and relationships.",
 					"references": [
 						"Matthew 15:4-6", "Ezekiel 34:24", "Romans 13:8"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the fifth commandment?",
 			"originalAnswer": "The fifth commandment forbiddeth the neglect of, or doing any thing against the honour and duty which belongeth to every one in their several places and relations."
 		},
 		"71": {
-			"question": "",
+			"question": "What is the reason attached to the fifth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The reason attached to the fifth commandment is the promise of long life and prosperity—as far as it serves God's glory and their own good—to all who keep this commandment.",
 					"references": [
 						"Deuteronomy 5:16", "Ephesians 6:2-3"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is the reason annexed to the fifth commandment?",
-			"originalAnswer": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve for God’s glory, and their own good) to all such as keep this commandment."
+			"originalAnswer": "The reason annexed to the fifth commandment is a promise of long life and prosperity (as far as it shall serve for God's glory, and their own good) to all such as keep this commandment."
 		},
 		"72": {
 			"question": "What is the sixth commandment?",
@@ -1835,45 +1844,45 @@
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is the sixth commandment?",
 			"originalAnswer": "The sixth commandment is, Thou shalt not kill."
 		},
 		"73": {
-			"question": "",
+			"question": "What is required in the sixth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The sixth commandment requires making every lawful effort to preserve both our own life",
 					"references": [
 						"Ephesians 5:28-29"
 					]
 				},
                 {
-					"text": "",
+					"text": " and the lives of others.",
 					"references": [
 						"1 Kings 18:4"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the sixth commandment?",
 			"originalAnswer": "The sixth commandment requireth all lawful endeavours to preserve our own life 1 and the life of others. 2"
 		},
 		"74": {
-			"question": "",
+			"question": "What is forbidden in the sixth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The sixth commandment forbids taking our own life or the life of anyone unjustly, or anything that leads to such actions.",
 					"references": [
 						"Acts 26:28", "Genesis 9:9"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the sixth commandment?",
 			"originalAnswer": "The sixth commandment absolutely forbiddeth the taking away of our own life, or the life of our neighbour unjustly, or whatsoever tendeth thereunto."
@@ -1882,46 +1891,46 @@
 			"question": "What is the seventh commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The seventh commandment is: \"You shall not commit adultery.\"",
 					"references": [
 						"Exodus 20:14"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "Which is the seventh commandment?",
 			"originalAnswer": "The seventh commandment is, Thou shalt not commit adultery."
 		},
 		"76": {
-			"question": "",
+			"question": "What is required in the seventh commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The seventh commandment requires us to preserve our purity and that of others: in heart, speech, and behavior.",
 					"references": [
 						"1 Corinthians 7:2-3", "1 Corinthians 7:5", "1 Corinthians 7:34", "1 Corinthians 7:36", "Colossians 4:6", "1 Peter 3:2"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the seventh commandment?",
 			"originalAnswer": "The seventh commandment requireth the preservation of our own and our neighbour's chastity, in heart, speech, and behavior."
 		},
 		"77": {
-			"question": "",
+			"question": "What is forbidden in the seventh commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The seventh commandment forbids all impure thoughts, words, and actions.",
 					"references": [
 						"Matthew 15:19", "Matthew 5:28", "Ephesians 5:3-4"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the seventh commandment?",
 			"originalAnswer": "The seventh commandment forbiddeth all unchaste thoughts, words, and actions."
@@ -1930,52 +1939,52 @@
 			"question": "What is the eighth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The eighth commandment is: \"You shall not steal.\"",
 					"references": [
 						"Exodus 20:15"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "Which is the eighth commandment?",
 			"originalAnswer": "The eighth commandment is, Thou shalt not steal."
 		},
 		"79": {
-			"question": "",
+			"question": "What is required in the eighth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The eighth commandment requires us to lawfully pursue and promote the material prosperity and well-being of ourselves and others.",
 					"references": [
 						"Genesis 30:30", "1 Timothy 5:8", "Leviticus 25:35", "Deuteronomy 22:1-5", "Exodus 23:4-5", "Genesis 47:14", "Genesis 47:20"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the eighth commandment?",
 			"originalAnswer": "The eighth commandment requireth the lawful procuring and furthering the wealth and outward estate of ourselves and others."
 		},
 		"80": {
-			"question": "",
+			"question": "What is forbidden in the eighth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The eighth commandment forbids anything that unjustly hinders our own",
 					"references": [
 						"1 Timothy 5:8; Proverbs 28:19"
 					]
 				},
                 {
-					"text": "",
+					"text": " or our neighbor's wealth or material well-being.",
 					"references": [
 						"Proverbs 21:17, 23:20-21; Ephesians 4:28"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the eighth commandment?",
 			"originalAnswer": "The eighth commandment forbiddeth whatsoever doth or may unjustly hinder our own 1 or our neighbour's wealth or outward estate. 2"
