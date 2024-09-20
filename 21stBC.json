@@ -75,7 +75,7 @@
 			"Sanctification": [35, 38, 39],
 			"Sin": [16, 17, 18, 19, 20, 21, 53],
 			"Sovereignty": [1, 8, 10, 11, 31, 49],
-			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80],
+			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85],
 			"Trinity": [9],
 			"Worship": [51, 52, 53, 54, 55, 56, 57]
 		},
@@ -198,6 +198,15 @@
 				],
 				"notes": [
 					"Initial update to modern English of questions 63-80."
+				]
+			},
+			{
+				"date": "09/20/2024",
+				"questions": [
+					81, 82, 83, 84, 85
+				],
+				"notes": [
+					"Initial update to modern English of questions 81-85."
 				]
 			}
 		]
@@ -1993,58 +2002,58 @@
 			"question": "What is the ninth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The ninth commandment is, \"You shall not bear false witness against your neighbor.\"",
 					"references": [
 						"Exodus 20:16"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "Which is the ninth commandment?",
 			"originalAnswer": "The ninth commandment is, Thou shalt not bear false witness against thy neighbour."
 		},
 		"82": {
-			"question": "",
+			"question": "What is required in the ninth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The ninth commandment requires us to maintain and promote truth among people,",
 					"references": [
 						"Zechariah 8:16"
 					]
 				},
                 {
-					"text": "",
+					"text": " and our own and our neighbor's good reputation,",
 					"references": [
 						"John 5:12"
 					]
 				},
                 {
-					"text": "",
+					"text": " especially when giving testimony.",
 					"references": [
 						"Proverbs 14:5", "Proverbs 14:25"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the ninth commandment?",
 			"originalAnswer": "The ninth commandment requireth the maintaining and promoting of truth between man and man, 1 and of our own and our neighbour's good name, 2 especially in witness bearing. 3"
 		},
 		"83": {
-			"question": "",
+			"question": "What is forbidden in the ninth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The ninth commandment forbids anything that harms the truth, or damages our own or our neighbor's reputation.",
 					"references": [
 						"1 Samuel 17:28", "Leviticus 19:16", "Psalm 15:2-3"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the ninth commandment?",
 			"originalAnswer": "The ninth commandment forbiddeth whatsoever is prejudicial to the truth, or injurious to our own or our neighbour’s good name."
@@ -2053,36 +2062,36 @@
 			"question": "What is the tenth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The tenth commandment is, \"You shall not covet your neighbor's house, you shall not covet your neighbor's wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that belongs to your neighbor.\"",
 					"references": [
 						"Exodus 20:17"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is the tenth commandment?",
 			"originalAnswer": "The tenth commandment is Thou shalt not covet thy neighbour's house, thou shalt not covet thy neighbour's wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor anything that is thy neighbour's."
 		},
 		"85": {
-			"question": "",
+			"question": "What is required in the tenth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The tenth commandment requires us to be fully content with our own situation,",
 					"references": [
 						"Hebrews 13:5", "1 Timothy 6:6"
 					]
 				},
                 {
-					"text": "",
+					"text": " and to have a right and charitable attitude toward our neighbors and everything that belongs to them.",
 					"references": [
 						"Job 31:29", "Romans 7:15", "1 Timothy 1:5", "1 Corinthians 8:4", "1 Corinthians 8:7"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is required in the tenth commandment?",
 			"originalAnswer": "The tenth commandment requireth full contentment with our own condition, 1 with a right and charitable frame of spirit toward our neighbour, and all that is his. 2"
