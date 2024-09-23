@@ -46,12 +46,12 @@
 			"Belief": [2, 3],
 			"Bible": [3, 4, 5, 6],
 			"Creation": [3, 12],
-			"Curse, The": [20, 22],
+			"Curse, The": [20, 22, 89],
 			"Death": [40, 42],
 			"Dual Nature": [30, 31],
 			"Election": [23, 24],
 			"Eternal Life": [40, 41],
-			"Faith": [4, 33, 36, 54],
+			"Faith": [4, 33, 36, 54, 90, 91],
 			"Fall, The": [16, 18, 19, 20, 21, 22],
 			"Folly": [2],
 			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61],
@@ -63,19 +63,19 @@
 			"Judgment": [22, 42, 43],
 			"Justification": [35, 36, 39],
 			"Knowledge": [5, 6],
-			"Law, The": [17],
-			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51, 66, 68],
+			"Law, The": [17, 87, 88, 89],
+			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51, 66, 68, 87, 92],
 			"Office of Christ": [27, 28, 29],
 			"Providence": [11, 14, 15],
 			"Reason": [3],
 			"Redemption": [24, 26, 32, 33, 36],
 			"Revelation": [3],
 			"Reverence": [58, 59],
-			"Salvation": [23, 33, 34],
+			"Salvation": [23, 33, 34, 91, 92],
 			"Sanctification": [35, 38, 39],
-			"Sin": [16, 17, 18, 19, 20, 21, 53],
+			"Sin": [16, 17, 18, 19, 20, 21, 53, 87, 88, 89, 90, 92],
 			"Sovereignty": [1, 8, 10, 11, 31, 49],
-			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85],
+			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
 			"Trinity": [9],
 			"Worship": [51, 52, 53, 54, 55, 56, 57]
 		},
@@ -207,6 +207,15 @@
 				],
 				"notes": [
 					"Initial update to modern English of questions 81-85."
+				]
+			},
+			{
+				"date": "09/23/2024",
+				"questions": [
+					86, 87, 88, 89, 90, 91, 92
+				],
+				"notes": [
+					"Initial update to modern English of questions 86-92."
 				]
 			}
 		]
@@ -2097,105 +2106,105 @@
 			"originalAnswer": "The tenth commandment requireth full contentment with our own condition, 1 with a right and charitable frame of spirit toward our neighbour, and all that is his. 2"
 		},
 		"86": {
-			"question": "",
+			"question": "What is forbidden in the tenth commandment?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The tenth commandment forbids all discontent with our own situation,",
 					"references": [
 						"1 Kings 21:4", "Esther 5:13", "1 Corinthians 10:10"
 					]
 				},
                 {
-					"text": "",
+					"text": " envying or resenting the prosperity of our neighbors,",
 					"references": [
 						"Galatians 5:26", "James 3:14", "James 3:16"
 					]
 				},
                 {
-					"text": "",
+					"text": " and any undue desires or feelings toward anything belonging to them.",
 					"references": [
 						"Romans 7:7-8", "Romans 13:9", "Deuteronomy 5:21"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the tenth commandment?",
 			"originalAnswer": "The tenth commandment forbiddeth all discontentment with our own estate, 1 envying or grieving at the good of our neighbour, 2 and all inordinate motions and affections to anything that is his. 3"
 		},
 		"87": {
-			"question": "",
+			"question": "Is anyone perfectly able to keep the commandments of God?",
 			"answer": [
                 {
-					"text": "",
+					"text": "No mere human since the fall is able to perfectly keep the commandments of God in this life,",
 					"references": [
 						"Ecclesiastes 7:20", "1 John 1:8", "1 John 1:10", "Galatians 5:17"
 					]
 				},
                 {
-					"text": "",
+					"text": " but daily breaks them in thought, word, or deed.",
 					"references": [
 						"Genesis 6:5", "Genesis 8:21", "Romans 3:9-21", "James 3:2-13"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Obedience", "Sin", "Law, The"
 			],
 			"originalQuestion": "Is any man able perfectly to keep the commandments of God?",
 			"originalAnswer": "No mere man since the fall is able in this life perfectly to keep the commandments of God, 1 but doth daily break them in thought, word, or deed. 2"
 		},
 		"88": {
-			"question": "",
+			"question": "Are all transgressions of the law equally serious?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Some sins, by their nature and because of their consequences, are more serious in God's eyes than others.",
 					"references": [
 						"Ezekiel 8:6", "Ezekiel 8:13", "Ezekiel 8:15", "1 John 5:16", "Psalm 78:17", "Psalm 78:32", "Psalm 78:56"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Sin", "Law, The"
 			],
 			"originalQuestion": "Are all transgressions of the law equally heinous?",
 			"originalAnswer": "Some sins in themselves, and by reason of several aggravations, are more heinous in the sight of God than others."
 		},
 		"89": {
-			"question": "",
+			"question": "What does every sin deserve",
 			"answer": [
                 {
-					"text": "",
+					"text": "Every sin deserves God's wrath and curse, both in this life and that which is to come.",
 					"references": [
 						"Ephesians 5:6", "Galatians 3:10", "Lamentations 3:39", "Matthew 25:41", "Romans 6:23"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Sin", "Curse, The", "Law, The"
 			],
 			"originalQuestion": "What doth every sin deserve?",
 			"originalAnswer": "Every sin deserveth God's wrath and curse, both in this life and that which is to come."
 		},
 		"90": {
-			"question": "",
+			"question": "What does God require of us to escape His wrath and curse that we deserve for sin?",
 			"answer": [
                 {
-					"text": "",
+					"text": "To escape God's wrath and curse for sin, He requires us to have faith in Jesus Christ, to repent unto life,",
 					"references": [
 						"Acts 20:21"
 					]
 				},
                 {
-					"text": "",
+					"text": " and to diligently use all outward means by which Christ communicates the benefits of redemption to us.",
 					"references": [
 						"Proverbs 2:1-6", "Proverbs 8:33-36", "Isaiah 55:2-3"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Faith", "Sin"
 			],
 			"originalQuestion": "What doth God require of us that we may escape his wrath and curse, due to us for sin?",
 			"originalAnswer": "To escape the wrath and curse of God due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life, 1 with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption. 2"
@@ -2204,20 +2213,20 @@
 			"question": "What is faith in Jesus Christ?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Faith in Jesus Christ is a saving grace,",
 					"references": [
 						"Hebrews 10:39"
 					]
 				},
                 {
-					"text": "",
+					"text": " through which we receive and rely on Him alone for salvation, as He is offered to us in the gospel.",
 					"references": [
 						"John 1:12", "Isaiah 26:3-4", "Philippians 3:9", "Galatians 2:16"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Faith", "Salvation"
 			],
 			"originalQuestion": "What is faith in Jesus Christ?",
 			"originalAnswer": "Faith in Jesus Christ is a saving grace, 1 whereby we receive and rest upon him alone for salvation, as he is offered to us in the gospel. 2"
@@ -2226,38 +2235,38 @@
 			"question": "What is repentance unto life?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Repentance unto life is a saving grace",
 					"references": [
 						"Acts 11:28"
 					]
 				},
                 {
-					"text": "",
+					"text": " in which a sinner, out of a true sense of personal sin",
 					"references": [
 						"Acts 2:37-38"
 					]
 				},
                 {
-					"text": "",
+					"text": " and understanding God's mercy in Christ,",
 					"references": [
 						"Joel 2:12", "Jeremiah 3:22"
 					]
 				},
                 {
-					"text": "",
+					"text": " turns away from sin with genuine sorrow and hatred of it, and turns from it to God",
 					"references": [
 						"Jeremiah 31:18-19", "Ezekiel 36:31"
 					]
 				},
                 {
-					"text": "",
+					"text": " with a sincere commitment to pursue new obedience.",
 					"references": [
 						"2 Corinthians 7:11", "Isaiah 1:16-17"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Salvation", "Sin", "Obedience"
 			],
 			"originalQuestion": "What is repentance unto life?",
 			"originalAnswer": "Repentance unto life is a saving grace, 1 whereby a sinner, out of a true sense of his sin, 2 and apprehension of the mercy of God in Christ, 3 doth, with grief and hatred of his sin, turn from it unto God, 4 with full purpose of and endeavour after new obedience. 5"
