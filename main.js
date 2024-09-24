@@ -20,12 +20,11 @@ async function getData() {
     const jsonData = await fetchJsonData(url);
     
     let content = jsonData.data;
-    const NUMBER_OF_QUESTIONS_UPDATED = 92;
+    const NUMBER_OF_QUESTIONS_UPDATED = 114;
 
     for (let i = 1; i <= NUMBER_OF_QUESTIONS_UPDATED; i++) {
         displayItem(container, content, i);
     }
-    comingSoon.textContent = `Questions ${NUMBER_OF_QUESTIONS_UPDATED + 1}-114 coming soon.`;
 }
 
 getData();
@@ -68,6 +67,33 @@ function displayItem(container, data, key) {
   };
   container.appendChild(answer);
   container.appendChild(references);
+
+  displayTopics(container, data, key);
 }
 
-const comingSoon = document.getElementById('coming-soon');
+function displayTopics(container, data, key) {
+    let topicsWrapper = document.createElement('p');
+    topicsWrapper.classList.add('topics');
+    topicsWrapper.textContent = data[key].topics.length > 1 ? "Topics: " : "Topic: "
+    for (let i = 0; i < data[key].topics.length; i++) {
+        if (i == 0) {
+            let word = checkForTopicWith_The(data[key].topics[0])
+            topicsWrapper.textContent += word;
+        }
+        else {
+            let word = checkForTopicWith_The(data[key].topics[i])
+            topicsWrapper.textContent += `, ${word}`;
+        }
+    }
+    container.appendChild(topicsWrapper);
+}
+
+function checkForTopicWith_The(topic) {
+    let correctedTopic;
+    if (topic.includes(", The")) {
+        correctedTopic = topic.split(", The")[0];
+        correctedTopic = "The " + correctedTopic;
+    }
+    else correctedTopic = topic;
+    return correctedTopic;
+}

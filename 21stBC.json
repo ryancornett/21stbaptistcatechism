@@ -8,6 +8,7 @@
 			"Adoption",
 			"Belief",
 			"Bible",
+			"Church, The",
 			"Creation",
 			"Curse, The",
 			"Death",
@@ -26,8 +27,11 @@
 			"Justification",
 			"Knowledge",
 			"Law, The",
+			"Lord's Prayer, The",
 			"Obedience",
 			"Office of Christ",
+			"Ordinances",
+			"Prayer",
 			"Providence",
 			"Reason",
 			"Redemption",
@@ -44,51 +48,55 @@
 		"topicalIndex": {
 			"Adoption": [35, 37, 39],
 			"Belief": [2, 3],
-			"Bible": [3, 4, 5, 6],
+			"Bible": [3, 4, 5, 6, 94, 95],
+			"Church, The": [101, 107],
 			"Creation": [3, 12],
 			"Curse, The": [20, 22, 89],
 			"Death": [40, 42],
 			"Dual Nature": [30, 31],
 			"Election": [23, 24],
 			"Eternal Life": [40, 41],
-			"Faith": [4, 33, 36, 54, 90, 91],
+			"Faith": [4, 33, 36, 54, 90, 91, 95, 98],
 			"Fall, The": [16, 18, 19, 20, 21, 22],
 			"Folly": [2],
 			"God": [1, 2, 3, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 23, 24, 25, 41, 44, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61],
 			"Goodness": [23],
-			"Holiness": [7, 8, 58, 59, 60, 61],
+			"Holiness": [7, 8, 58, 59, 60, 61, 94],
 			"Holy Spirit": [3, 25, 33, 34],
 			"Humanity": [13, 15, 16, 19, 20, 22, 24, 25, 44],
 			"Jesus": [24, 25, 26, 27, 28, 29, 30, 31, 32, 33],
-			"Judgment": [22, 42, 43],
+			"Judgment": [22, 42, 43, 104],
 			"Justification": [35, 36, 39],
 			"Knowledge": [5, 6],
 			"Law, The": [17, 87, 88, 89],
-			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51, 66, 68, 87, 92],
+			"Lord's Prayer, The": [106, 107, 108, 109, 110, 111, 112, 113, 114],
+			"Obedience": [4, 6, 17, 44, 45, 47, 49, 51, 66, 68, 87, 92, 101, 110],
 			"Office of Christ": [27, 28, 29],
-			"Providence": [11, 14, 15],
+			"Ordinances": [93, 96, 97, 98, 99, 100, 101, 102, 103, 104],
+			"Prayer": [95, 105, 106, 107],
+			"Providence": [11, 14, 15, 111],
 			"Reason": [3],
-			"Redemption": [24, 26, 32, 33, 36],
+			"Redemption": [24, 26, 32, 33, 36, 93],
 			"Revelation": [3],
 			"Reverence": [58, 59],
-			"Salvation": [23, 33, 34, 91, 92],
-			"Sanctification": [35, 38, 39],
-			"Sin": [16, 17, 18, 19, 20, 21, 53, 87, 88, 89, 90, 92],
-			"Sovereignty": [1, 8, 10, 11, 31, 49],
+			"Salvation": [23, 33, 34, 91, 92, 93, 94, 95, 96],
+			"Sanctification": [35, 38, 39, 104],
+			"Sin": [16, 17, 18, 19, 20, 21, 53, 87, 88, 89, 90, 92, 113],
+			"Sovereignty": [1, 8, 10, 11, 31, 49, 108, 109, 114],
 			"Ten Commandments, The": [45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
 			"Trinity": [9],
-			"Worship": [51, 52, 53, 54, 55, 56, 57]
+			"Worship": [51, 52, 53, 54, 55, 56, 57, 95, 96]
 		},
 		"endorsers": [
             {
-                "name": "Ken Bolin",
+                "name": "Last, First",
                 "titles": [
-                    "Lead Pastor"
+                    "Pastor/Elder"
                 ],
                 "organizations": [
-                    "Manchester Baptist Church"
+                    "Manchester Baptist Church", "Southwestern Baptist Theological Seminary"
                 ],
-                "date": "09/01/2024"
+                "date": "MM/DD/YYYY"
             }
         ],
 		"changelog": [
@@ -216,6 +224,15 @@
 				],
 				"notes": [
 					"Initial update to modern English of questions 86-92."
+				]
+			},
+			{
+				"date": "09/24/2024",
+				"questions": [
+					93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114
+				],
+				"notes": [
+					"Initial update to modern English of questions 93-114."
 				]
 			}
 		]
@@ -2272,101 +2289,101 @@
 			"originalAnswer": "Repentance unto life is a saving grace, 1 whereby a sinner, out of a true sense of his sin, 2 and apprehension of the mercy of God in Christ, 3 doth, with grief and hatred of his sin, turn from it unto God, 4 with full purpose of and endeavour after new obedience. 5"
 		},
 		"93": {
-			"question": "",
+			"question": "What are the outward means by which Christ communicates the benefits of redemption to us?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The outward and ordinary means by which Christ communicates the benefits of redemption to us are his ordinances, particularly the Word, baptism, the Lord's Supper, and prayer; all of which are made effective for the salvation of the elect.",
 					"references": [
 						"Matthew 28:19-20", "Acts 2:42", "Acts 2:46-47"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Redemption", "Ordinances", "Salvation"
 			],
 			"originalQuestion": "What are the outward means whereby Christ communicateth to us the benefits of redemption?",
 			"originalAnswer": "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption are his ordinances, especially the word, baptism, the Lord's supper, and prayer; all which means are made effectual to the elect for salvation."
 		},
 		"94": {
-			"question": "",
+			"question": "How is the Word made effective unto salvation?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The Holy Spirit makes the reading, and especially the preaching of the Word, an effective means of convincing and converting sinners, and of building them up in holiness and comfort through faith unto salvation.",
 					"references": [
 						"Nehemiah 8:8", "Acts 26:18", "Psalm 19:8", "Acts 20:32", "Romans 1:15-16", "Romans 10:13-17", "Romans 15:4", "1 Corinthians 14:24-25", "2 Timothy 3:15-17"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Bible", "Salvation", "Holiness"
 			],
 			"originalQuestion": "How is the word made effectual to salvation?",
 			"originalAnswer": "The Spirit of God maketh the reading, but especially the preaching of the word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort through faith unto salvation."
 		},
 		"95": {
-			"question": "",
+			"question": "How should the Word be read and heard in order to become effective for salvation?",
 			"answer": [
                 {
-					"text": "",
+					"text": "For the Word to become effective for salvation, we must approach it with diligence,",
 					"references": [
 						"Proverbs 8:34"
 					]
 				},
                 {
-					"text": "",
+					"text": " preparation,",
 					"references": [
 						"1 Peter 2:1-2"
 					]
 				},
                 {
-					"text": "",
+					"text": " and prayer;",
 					"references": [
 						"Psalm 119:18"
 					]
 				},
                 {
-					"text": "",
+					"text": " receive it with faith and love,",
 					"references": [
 						"Hebrews 4:2", "2 Thessalonians 2:10"
 					]
 				},
                 {
-					"text": "",
+					"text": " store it in our hearts,",
 					"references": [
 						"Psalm 119:18"
 					]
 				},
                 {
-					"text": "",
+					"text": " and put it into practice in our lives.",
 					"references": [
 						"Luke 8:15; James 1:25"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Bible", "Salvation", "Prayer", "Faith", "Worship"
 			],
 			"originalQuestion": "How is the word to be read and heard, that it may become effectual to salvation?",
 			"originalAnswer": "That the word may become effectual to salvation, we must attend thereunto with diligence, 1 preparation, 2 and prayer; 3 receive it with faith and love, 4 lay it up in our hearts, 5 and practice it in our lives. 6"
 		},
 		"96": {
-			"question": "",
+			"question": "How do baptism and the Lord's Supper become effective means of salvation?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Baptism and the Lord's Supper become effective means of salvation, not because of any power in them or in the one who administers them, but through the blessing of Christ",
 					"references": [
 						"1 Peter 3:21", "Matthew 3:11", "1 Corinthians 3:6-7"
 					]
 				},
                 {
-					"text": "",
+					"text": " and the work of the Holy Spirit in those who receive them by faith.",
 					"references": [
 						"1 Corinthians 12:3; Matthew 28:19"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances", "Salvation", "Worship"
 			],
 			"originalQuestion": "How do baptism and the Lord's supper become effectual means of salvation?",
 			"originalAnswer": "Baptism and the Lord's supper become effectual means of salvation, not for any virtue in them, or in him that doth administer them, but only by the blessing of Christ, 1 and the working of the Spirit in those that by faith receive them. 2"
@@ -2375,174 +2392,174 @@
 			"question": "What is baptism?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Baptism is an ordinance of the New Testament instituted by Jesus Christ, serving as a sign for the baptized person of union with Him in His death, burial, and resurrection; of being grafted into Him;",
 					"references": [
 						"Romans 6:3-5", "Colossians 2:12", "Galatians 3:27"
 					]
 				},
                 {
-					"text": "",
+					"text": " of the remission of sins;",
 					"references": [
 						"Mark 1:4", "Acts 2:38", "Acts 22:16"
 					]
 				},
                 {
-					"text": "",
+					"text": " and of giving up oneself to God through Jesus Christ, to live and walk in newness of life.",
 					"references": [
 						"Romans 6:3-4"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances"
 			],
 			"originalQuestion": "What is baptism?",
 			"originalAnswer": "Baptism is an ordinance of the New Testament instituted by Jesus Christ, to be unto the party baptized a sign of his fellowship with him, in his death, burial, and resurrection; of his being ingrafted into him; 1 of remission of sins; 2 and of his giving up himself unto God through Jesus Christ, to live and walk in newness of life. 3"
 		},
 		"98": {
-			"question": "",
+			"question": "To whom is baptism to be administered?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Baptism is to be administered to all those who profess repentance toward God,",
 					"references": [
 						"Acts 2:38", "Matthew 3:6"
 					]
 				},
                 {
-					"text": "",
+					"text": " faith in, and obedience to our Lord Jesus Christ, and to no one else.",
 					"references": [
 						"Acts 8:12", "Acts 8:36-38", "Acts 10:47-48"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances", "Faith"
 			],
 			"originalQuestion": "To whom is baptism to be administered?",
 			"originalAnswer": "Baptism is to be administered to all those who actually profess repentance towards God, 1 faith in and obedience to our Lord Jesus Christ, and to none other. 2"
 		},
 		"99": {
-			"question": "",
+			"question": "Should the infants of professing believers be baptized?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The infants of professing believers should not be baptized, as there is no command, example, or necessary implication from Scripture to support baptizing them.",
 					"references": [
 						"Proverbs 30:6", "Luke 3:7-8"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances"
 			],
 			"originalQuestion": "Are the infants of such as are professing believers to be baptized?",
 			"originalAnswer": "The infants of such as are professing believers are not to be baptized, because there is neither command or example in the holy scriptures, or certain consequence from them to baptize such."
 		},
 		"100": {
-			"question": "",
+			"question": "How is Baptism properly administered?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Baptism is properly administered by immersing the entire body of the person in water, in the name of the Father, the Son, and the Holy Spirit, as Christ instituted and the apostles practiced. It is not to be done by sprinkling or pouring water, or by dipping in water some part of the body, as those are traditions of men.",
 					"references": [
 						"Matthew 3:16", "John 3:23", "4:1-2", "Matthew 28:19-20", "Acts 8:38", "Romans 6:4", "Colossians 2:12"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances"
 			],
 			"originalQuestion": "How is Baptism rightly administered?",
 			"originalAnswer": "Baptism is rightly administered by immersion, or dipping the whole body of the party in water, into the name of the Father, and of the Son, and of the Holy Spirit, according to Christ's institution, and the practice of the apostles, and not by sprinkling or pouring of water, or dipping some part of the body, after the tradition of men."
 		},
 		"101": {
-			"question": "",
+			"question": "What is the responsibility of those who are properly baptized?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Those who are properly baptized have the responsibility to commit themselves to a specific and orderly church of Jesus Christ, so that they may live blamelessly according to all the commandments and ordinances of the Lord.",
 					"references": [
 						"Acts 2:41-42", "Acts 5:13-14", "Acts 9:26", "1 Peter 2:5", "Luke 1:6"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Church, The", "Ordinances", "Obedience"
 			],
 			"originalQuestion": "What is the duty of such who are rightly baptized?",
 			"originalAnswer": "It is the duty of such who are rightly baptized to give up themselves to some particular and orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blameless."
 		},
 		"102": {
-			"question": "",
+			"question": "What is the Lord's supper?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ; by the giving and receiving of bread and wine as He instructed, Christ's death is remembered. Those who in a faithfully receive this meal do so not in a physical or carnal sense, but spiritually, partaking of His body and blood with all His benefits, to their spiritual nourishment and growth in grace.",
 					"references": [
 						"Matthew 26:26-28", "1 Corinthians 11:23-26", "1 Corinthians 10:16"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances"
 			],
 			"originalQuestion": "What is the Lord's supper?",
 			"originalAnswer": "The Lord's supper is an ordinance of the New Testament, instituted by Jesus Christ; wherein by giving and receiving bread and wine, according to his appointment, his death is shown forth, and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment and growth in grace."
 		},
 		"103": {
-			"question": "",
+			"question": "Who are the proper partakers of the Lord's Supper?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The proper partakers of the Lord's Supper are those who have been baptized based on their personal profession of faith in Jesus Christ and repentance from sin.",
 					"references": [
 						"Acts 2:41-42"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances"
 			],
 			"originalQuestion": "Who are the proper subjects of this ordinance?",
 			"originalAnswer": "They who have been baptized upon a personal profession of their faith in Jesus Christ, and repentance from dead works."
 		},
 		"104": {
-			"question": "",
+			"question": "What is required to partake of the Lord's Supper in a worthy manner?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Those who would partake of the Lord's Supper in a worthy manner must examine themselves regarding their understanding of the Lord's body,",
 					"references": [
 						"1 Corinthians 11:28-29"
 					]
 				},
                 {
-					"text": "",
+					"text": " their faith to feed on Him,",
 					"references": [
 						"2 Corinthians 13:5"
 					]
 				},
                 {
-					"text": "",
+					"text": " their repentance,",
 					"references": [
 						"1 Corinthians 11:31"
 					]
 				},
                 {
-					"text": "",
+					"text": " love,",
 					"references": [
 						"1 Corinthians 10:16-17"
 					]
 				},
                 {
-					"text": "",
+					"text": " and new obedience.",
 					"references": [
 						"1 Corinthians 5:7-8"
 					]
 				},
                 {
-					"text": "",
+					"text": " They who partake unworthily eat and drink judgment upon themselves.",
 					"references": [
 						"1 Corinthians 11:28-29"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Ordinances", "Sanctification", "Judgment"
 			],
 			"originalQuestion": "What is required to the worthy receiving of the Lord's supper?",
 			"originalAnswer": "It is required of them that would worthily partake of the Lord's supper, that they examine themselves of their knowledge to discern the Lord's body, 1 of their faith to feed upon him, 2 of their repentance, 3 love, 4 and new obedience, 5 lest coming unworthily they eat and drink judgment to themselves. 6"
@@ -2551,308 +2568,308 @@
 			"question": "What is prayer?",
 			"answer": [
                 {
-					"text": "",
+					"text": "Prayer is the act of offering up our desires to God,",
 					"references": [
 						"Psalm 62:8"
 					]
 				},
                 {
-					"text": "",
+					"text": " helped by the Holy Spirit,",
 					"references": [
 						"Romans 8:26"
 					]
 				},
                 {
-					"text": "",
+					"text": " for things acceptable to His will.",
 					"references": [
 						"1 John 5:14", "Romans 8:27"
 					]
 				},
                 {
-					"text": "",
+					"text": " We do so in the name of Christ",
 					"references": [
 						"John 16:23"
 					]
 				},
                 {
-					"text": "",
+					"text": " with faith,",
 					"references": [
 						"Matthew 21:22", "James 1:6"
 					]
 				},
                 {
-					"text": "",
+					"text": " confession of our sins,",
 					"references": [
 						"Psalm 32:5-6", "Daniel 9:4"
 					]
 				},
                 {
-					"text": "",
+					"text": " and thankfulness for His mercies.",
 					"references": [
 						"Philippians 4:6"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Prayer"
 			],
 			"originalQuestion": "What is prayer?",
 			"originalAnswer": "Prayer is an offering up our desires to God, 1 by the assistance of the Holy Spirit, 2 for things agreeable to his will, 3 in the name of Christ, 4 believing, 5 with confession of our sins, 6 and thankful acknowledgments of his mercies. 7"
 		},
 		"106": {
-			"question": "",
+			"question": "What guide has God provided for our direction in prayer?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The whole Word of God guides us in prayer,",
 					"references": [
 						"1 John 5:14"
 					]
 				},
                 {
-					"text": "",
+					"text": " but the specific direction is the prayer that Christ taught His disciples, commonly known as the Lord's Prayer.",
 					"references": [
 						"Matthew 6:9-13", "Luke 11:2-4"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Prayer"
 			],
 			"originalQuestion": "What rule hath God given for our direction in prayer?",
 			"originalAnswer": "The whole word of God is of use to direct us in prayer; 1 but the special rule of direction is that prayer which Christ taught his disciples, commonly called the Lord's prayer. 2"
 		},
 		"107": {
-			"question": "",
+			"question": "What does the preface of the Lord's Prayer teach us?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The preface of the Lord's Prayer, \"Our Father in heaven,\"",
 					"references": [
 						"Matthew 6:9"
 					]
 				},
                 {
-					"text": "",
+					"text": "teaches us to approach God with holy reverence and confidence, like children to a father who is able and ready to help us.",
 					"references": [
 						"Romans 8:15", "Luke 11:13", "Isaiah 24:8"
 					]
 				},
                 {
-					"text": "",
+					"text": " It also instructs us to pray with and for others.",
 					"references": [
 						"Acts 12:5", "1 Timothy 2:1-2"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Prayer", "Church, The"
 			],
 			"originalQuestion": "What doth the preface of the Lord's prayer teach us?",
 			"originalAnswer": "The preface of the Lord's prayer, which is Our Father which art in heaven, 1 teacheth us to draw near to God with all holy reverence and confidence, as children to a father, able and ready to help us; 2 and that we should pray with and for others. 3"
 		},
 		"108": {
-			"question": "",
+			"question": "For what do we pray in the first petition?",
 			"answer": [
                 {
-					"text": "",
+					"text": "In the first petition, \"hallowed be Your name,\"",
 					"references": [
 						"Matthew 6:9"
 					]
 				},
                 {
-					"text": "",
+					"text": " we pray that God would enable us and others to glorify Him in everything by which He makes Himself known,",
 					"references": [
 						"Psalm 67:2-3"
 					]
 				},
                 {
-					"text": "",
+					"text": " and that He would arrange all things for His own glory.",
 					"references": [
 						"Psalm 83:1-18", "Romans 11:36"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Sovereignty"
 			],
 			"originalQuestion": "What do we pray for in the first petition?",
 			"originalAnswer": "In the first petition, which is, Hallowed be thy name, 1 we pray that God would enable us and others to glorify him in all that whereby he maketh himself known, 2 and that he would dispose all things to his own glory. 3"
 		},
 		"109": {
-			"question": "",
+			"question": "For what do we pray in the second petition?",
 			"answer": [
                 {
-					"text": "",
+					"text": "In the second petition, \"Your kingdom come,\"",
 					"references": [
 						"Matthew 6:10"
 					]
 				},
                 {
-					"text": "",
+					"text": " we pray that Satan's kingdom may be destroyed,",
 					"references": [
 						"Psalm 68:1", "Psalm 68:18"
 					]
 				},
                 {
-					"text": "",
+					"text": " that the kingdom of grace may grow,",
 					"references": [
 						"Revelation 12:10-11"
 					]
 				},
                 {
-					"text": "",
+					"text": " that we and others are brought into and remain in it,",
 					"references": [
 						"2 Thessalonians 3:1", "Romans 10:1", "John 17:19-20"
 					]
 				},
                 {
-					"text": "",
+					"text": " and that the kingdom of glory may come quickly.",
 					"references": [
 						"Revelation 22:10"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Sovereignty"
 			],
 			"originalQuestion": "What do we pray for in the second petition?",
-			"originalAnswer": "In the second petition, which is, Thy kingdom come, 1 we pray that Satan's kingdom may be destroyed, 2 and that the kingdom of grace may be advanced 3 ourselves and others brought into it and kept in it, 4 and that the kingdom of glory may be hastened. 5"
+			"originalAnswer": "In the second petition, which is, Thy kingdom come, 1 we pray that Satan's kingdom may be destroyed, 2 and that the kingdom of grace may be advanced; 3 ourselves and others brought into it and kept in it, 4 and that the kingdom of glory may be hastened. 5"
 		},
 		"110": {
-			"question": "",
+			"question": "For what do we pray in the third petition?",
 			"answer": [
                 {
-					"text": "",
+					"text": "In the third petition, \"Your will be done, on earth as it is in heaven,\"",
 					"references": [
 						"Matthew 6:10"
 					]
 				},
                 {
-					"text": "",
+					"text": " we pray that God, by his grace, would make us willing and able to know, obey, and submit to his will in all things,",
 					"references": [
 						"Psalm 67:1-6", "Psalm 119:36", "2 Samuel 15:25", "Job 1:21"
 					]
 				},
                 {
-					"text": "",
+					"text": " just as the angels do in heaven.",
 					"references": [
 						"Psalm 103:20-21"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Obedience"
 			],
 			"originalQuestion": "What do we pray for in the third petition?",
 			"originalAnswer": "In the third petition, which is, Thy will be done on earth as it is in heaven 1 we pray that God by his grace would make us able and willing to know, obey, and submit to his will in all things, 2 as the angels do in heaven. 3"
 		},
 		"111": {
-			"question": "",
+			"question": "For what do we pray in the fourth petition?",
 			"answer": [
                 {
-					"text": "",
+					"text": "In the fourth petition, \"Give us this day our daily bread,\"",
 					"references": [
 						"Matthew 6:11"
 					]
 				},
                 {
-					"text": "",
+					"text": " we pray that by God's free gift, we may receive a sufficient portion of the good things of this life and enjoy His blessing along with them.",
 					"references": [
 						"Proverbs 30:8", "Genesis 28:20", "1 Timothy 4:4-5"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Providence"
 			],
 			"originalQuestion": "What do we pray for in the fourth petition?",
 			"originalAnswer": "In the fourth petition, which is, Give us this day our daily bread, 1 we pray that of God's free gift we may receive a competent portion of the good things of this life, and enjoy his blessing with them. 2"
 		},
 		"112": {
-			"question": "",
+			"question": "For what do we pray in the fifth petition?",
 			"answer": [
                 {
-					"text": "",
+					"text": "In the fifth petition, \"And forgive us our debts, as we also have forgiven our debtors,\"",
 					"references": [
 						"Matthew 6:12"
 					]
 				},
                 {
-					"text": "",
+					"text": " we pray that God, for Christ's sake, would freely pardon all our sins.",
 					"references": [
 						"Psalm 51:1-2", "Psalm 51:7", "Psalm 51:9", "Daniel 9:17-19"
 					]
 				},
                 {
-					"text": "",
+					"text": " We are encouraged to ask this because, by His grace, we are enabled to forgive others from the heart.",
 					"references": [
 						"Luke 11:4", "Matthew 18:35"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The"
 			],
 			"originalQuestion": "What do we pray for in the fifth petition?",
-			"originalAnswer": "In the fifth petition, which is, And forgive us our debts as we forgive our debtors, 1 we pray that God, for Christ’s sake, would freely pardon all our sins 2 which we are rather encouraged to ask because of his grace we are enabled from the heart to forgive others. 3"
+			"originalAnswer": "In the fifth petition, which is, And forgive us our debts as we forgive our debtors, 1 we pray that God, for Christ's sake, would freely pardon all our sins 2 which we are rather encouraged to ask because of his grace we are enabled from the heart to forgive others. 3"
 		},
 		"113": {
-			"question": "",
+			"question": "For what do we pray in the sixth petition?",
 			"answer": [
                 {
-					"text": "",
+					"text": "In the sixth petition, \"And lead us not into temptation, but deliver us from the evil one,\"",
 					"references": [
 						"Matthew 6:13"
 					]
 				},
                 {
-					"text": "",
+					"text": " we pray that God would either keep us from being tempted to sin",
 					"references": [
 						"Matthew 26:31"
 					]
 				},
                 {
-					"text": "",
+					"text": " or support and deliver us when we are tempted.",
 					"references": [
 						"2 Corinthians 12:8"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Sin"
 			],
 			"originalQuestion": "What do we pray for in the sixth petition?",
 			"originalAnswer": "In the sixth petition, which is, And lead us not into temptation but deliver us from evil, 1 we pray that God would either keep us from being tempted to sin, 2 or support and deliver us when we are tempted. 3"
 		},
 		"114": {
-			"question": "",
+			"question": "What does the conclusion of the Lord's prayer teach?",
 			"answer": [
                 {
-					"text": "",
+					"text": "The conclusion of the Lord's prayer, \"For Yours is the kingdom, and the power, and the glory, forever. Amen,\"",
 					"references": [
 						"Matthew 6:13"
 					]
 				},
                 {
-					"text": "",
+					"text": " teaches us to draw our encouragement in prayer from God alone",
 					"references": [
 						"Daniel 9:4", "Daniel 9:7-9", "Daniel 9:16-19"
 					]
 				},
                 {
-					"text": "",
+					"text": " and in our prayers to praise Him, acknowledging His kingdom, power, and glory.",
 					"references": [
 						"1 Chronicles 29:10-13"
 					]
 				},
                 {
-					"text": "",
+					"text": " By saying \"Amen,\" we express our desire and assurance that our prayers are heard.",
 					"references": [
 						"1 Corinthians 4:16", "Revelation 22:20-21"
 					]
 				}
             ],
 			"topics": [
-				""
+				"Lord's Prayer, The", "Sovereignty"
 			],
 			"originalQuestion": "What doth the conclusion of the Lord's prayer teach?",
 			"originalAnswer": "The conclusion of the Lord's prayer, which is, For Thine is the kingdom, and the power, and the glory, forever. Amen, 1 teacheth us to take our encouragement in prayer from God only, 2 and in our prayers to praise Him, ascribing kingdom, power, and glory, to Him. 3 And in testimony of our desire and assurance to be heard, we say, Amen. 4"

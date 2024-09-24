@@ -68,11 +68,15 @@ span + .reference-list-number {
 }
 
 .references {
-    margin-bottom: 3rem;
     font-size: 0.8rem;
     background-color: #333;
     color: #fafaf6;
     padding: 0 0.5rem;
+}
+
+.topics {
+    margin: 0.75rem 0 3rem 0;
+    font-size: 0.9rem;
 }
 
 footer {
@@ -81,5 +85,6 @@ footer {
 }
 
 footer p {
-    font-size: 1.2rem;
+    padding: 2rem;
+    font-size: 1.0rem;
 }
