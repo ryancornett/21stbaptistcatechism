@@ -234,6 +234,27 @@
 				"notes": [
 					"Initial update to modern English of questions 93-114."
 				]
+			},
+			{
+				"date": "09/25/2024",
+				"questions": [
+					28, 47, 48, 52, 54, 58, 62, 68, 84, 89, 92, 102, 103
+				],
+				"notes": [
+					"28: \"role\" in answer changed to\"office\" for consistency and fidelity.",
+					"47: Changed \"heart, soul, strength, and mind\" to \"heart, soul, mind, and strength\" in answer to match the Berean Standard Bible (BSB) and many other modern translations' order of words in Mark 12:30.",
+					"48: Changed \"bondage\" to \"slavery\" so whole quote is BSB verbatim.",
+					"52: \"to\" removed from \"due to Him\" in answer for style and ease of expression.",
+					"54: Changed Scripture quote in answer to BSB verbatim.",
+					"58: Changed Scripture quote in answer to BSB verbatim.",
+					"62: Changed Scripture quote in answer to BSB verbatim.",
+					"68: Changed Scripture quote in answer to BSB verbatim.",
+					"84: Changed Scripture quote in answer to BSB verbatim.",
+					"89: Added missing question mark in question.",
+					"92: Changed \"and turns from it to God\" \"and turns to God\" for style and ease of expression. \"turns away from sin\" was used in the preceding phrase, therefore \"from it\" is redundant.",
+					"102: Fixed typo.",
+					"103: Improved language of question and answer—made less cumbersome."
+				]
 			}
 		]
 	},
@@ -808,7 +829,7 @@
 			"question": "How does Christ fulfill the office of a priest?",
 			"answer": [
                 {
-					"text": "Christ fulfills the role of a priest by offering Himself as a sacrifice once to satisfy divine justice",
+					"text": "Christ fulfills the office of a priest by offering Himself as a sacrifice once to satisfy divine justice",
 					"references": [
 						"Hebrews 9:14", "Hebrews 9:28"
 					]
@@ -1340,7 +1361,7 @@
 			"question": "What is the sum of the ten commandments?",
 			"answer": [
                 {
-					"text": "The sum of the Ten Commandments is to love the Lord our God with all our heart, soul, strength, and mind, and to love our neighbor as ourselves.",
+					"text": "The sum of the Ten Commandments is to love the Lord our God with all our heart, soul, mind, and strength, and to love our neighbor as ourselves.",
 					"references": [
 						"Matthew 22:37-40"
 					]
@@ -1356,7 +1377,7 @@
 			"question": "What is the preface to the Ten Commandments?",
 			"answer": [
                 {
-					"text": "The preface to the Ten Commandments is: \"I am the Lord your God, who brought you out of the land of Egypt, out of the house of bondage.\"",
+					"text": "The preface to the Ten Commandments is: \"I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.\"",
 					"references": [
 						"Exodus 20:2"
 					]
@@ -1444,7 +1465,7 @@
 					]
 				},
                 {
-					"text": " and giving the worship and glory due to Him to anyone or anything else.",
+					"text": " and giving the worship and glory due Him to anyone or anything else.",
 					"references": [
 						"Romans 1:25-26"
 					]
@@ -1476,7 +1497,7 @@
 			"question": "What is the second commandment?",
 			"answer": [
                 {
-					"text": "The second commandment is: \"You shall not make for yourself a carved image, or any likeness of anything in heaven above, or on the earth beneath, or in the waters under the earth. You shall not bow down to them or serve them, for I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate Me, but showing mercy to thousands of those who love Me and keep My commandments.\"",
+					"text": "The second commandment is: \"You shall not make for yourself an idol in the form of anything in the heavens above, on the earth below, or in the waters beneath. You shall not bow down to them or worship them; for I, the LORD your God, am a jealous God, visiting the iniquity of the fathers on their children to the third and fourth generations of those who hate Me, but showing loving devotion to a thousand generations of those who love Me and keep My commandments.\"",
 					"references": [
 						"Exodus 20:4-6"
 					]
@@ -1558,7 +1579,7 @@
 			"question": "What is the third commandment?",
 			"answer": [
                 {
-					"text": "The third commandment is: \"You shall not take the name of the Lord your God in vain, for the Lord will not hold guiltless anyone who takes His name in vain.\"",
+					"text": "The third commandment is: \"You shall not take the name of the LORD your God in vain, for the LORD will not leave anyone unpunished who takes His name in vain.\"",
 					"references": [
 						"Exodus 20:7"
 					]
@@ -1652,7 +1673,7 @@
 			"question": "What is the fourth commandment?",
 			"answer": [
                 {
-					"text": "The fourth commandment is: \"Remember the Sabbath day to keep it holy. Six days shall you labor and do all your work, but the seventh day is the Sabbath of the Lord your God. On it, you shall not do any work, neither you, nor your son, nor your daughter, nor your male or female servant, nor your livestock, nor the foreigner within your gates. For in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day; therefore, the Lord blessed the Sabbath day and made it holy.\"",
+					"text": "The fourth commandment is: \"Remember the Sabbath day by keeping it holy. Six days you shall labor and do all your work, but the seventh day is a Sabbath to the LORD your God, on which you must not do any work—neither you, nor your son or daughter, nor your manservant or maidservant or livestock, nor the foreigner within your gates. For in six days the LORD made the heavens and the earth and the sea and all that is in them, but on the seventh day He rested. Therefore the LORD blessed the Sabbath day and set it apart as holy.\"",
 					"references": [
 						"Exodus 20:8-11"
 					]
@@ -1796,7 +1817,7 @@
 			"question": "What is the fifth commandment?",
 			"answer": [
                 {
-					"text": "The fifth commandment is: \"Honor your father and your mother, that your days may be long in the land the Lord your God is giving you.\"",
+					"text": "The fifth commandment is: \"Honor your father and mother, so that your days may be long in the land that the LORD your God is giving you.\"",
 					"references": [
 						"Exodus 20:12"
 					]
@@ -2088,7 +2109,7 @@
 			"question": "What is the tenth commandment?",
 			"answer": [
                 {
-					"text": "The tenth commandment is, \"You shall not covet your neighbor's house, you shall not covet your neighbor's wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that belongs to your neighbor.\"",
+					"text": "The tenth commandment is, \"You shall not covet your neighbor's house. You shall not covet your neighbor's wife, or his manservant or maidservant, or his ox or donkey, or anything that belongs to your neighbor.\"",
 					"references": [
 						"Exodus 20:17"
 					]
@@ -2189,7 +2210,7 @@
 			"originalAnswer": "Some sins in themselves, and by reason of several aggravations, are more heinous in the sight of God than others."
 		},
 		"89": {
-			"question": "What does every sin deserve",
+			"question": "What does every sin deserve?",
 			"answer": [
                 {
 					"text": "Every sin deserves God's wrath and curse, both in this life and that which is to come.",
@@ -2270,7 +2291,7 @@
 					]
 				},
                 {
-					"text": " turns away from sin with genuine sorrow and hatred of it, and turns from it to God",
+					"text": " turns away from sin with genuine sorrow and hatred of it, and turns to God",
 					"references": [
 						"Jeremiah 31:18-19", "Ezekiel 36:31"
 					]
@@ -2490,7 +2511,7 @@
 			"question": "What is the Lord's supper?",
 			"answer": [
                 {
-					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ; by the giving and receiving of bread and wine as He instructed, Christ's death is remembered. Those who in a faithfully receive this meal do so not in a physical or carnal sense, but spiritually, partaking of His body and blood with all His benefits, to their spiritual nourishment and growth in grace.",
+					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ; by the giving and receiving of bread and wine as He instructed, Christ's death is remembered. Those who faithfully receive this meal do so not in a physical or carnal sense, but spiritually, partaking of His body and blood with all His benefits, to their spiritual nourishment and growth in grace.",
 					"references": [
 						"Matthew 26:26-28", "1 Corinthians 11:23-26", "1 Corinthians 10:16"
 					]
@@ -2503,10 +2524,10 @@
 			"originalAnswer": "The Lord's supper is an ordinance of the New Testament, instituted by Jesus Christ; wherein by giving and receiving bread and wine, according to his appointment, his death is shown forth, and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment and growth in grace."
 		},
 		"103": {
-			"question": "Who are the proper partakers of the Lord's Supper?",
+			"question": "Who should partake of the Lord's Supper?",
 			"answer": [
                 {
-					"text": "The proper partakers of the Lord's Supper are those who have been baptized based on their personal profession of faith in Jesus Christ and repentance from sin.",
+					"text": "Partakers of the Lord's Supper are those who have been baptized based on their personal profession of faith in Jesus Christ and repentance from sin.",
 					"references": [
 						"Acts 2:41-42"
 					]
