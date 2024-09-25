@@ -23,22 +23,31 @@ async function getData() {
     const NUMBER_OF_QUESTIONS_UPDATED = 114;
 
     for (let i = 1; i <= NUMBER_OF_QUESTIONS_UPDATED; i++) {
-        displayItem(container, content, i);
+        let item = document.createElement('div');
+        item.classList.add('item');
+        item.id = `item-${i}`;
+        displayUpdatedVersion(item, content, i);
+        displayOriginalVersion(item, content, i);
+        container.appendChild(item);
+
     }
 }
 
 getData();
 
-function displayItem(container, data, key) {
-  let question = document.createElement('h4');
-  question.textContent = `${key}. `;
-  question.textContent += data[key].question;
-  container.appendChild(question);
+function displayUpdatedVersion(container, data, key) {
+    let updatedContainer = document.createElement('div');
+    updatedContainer.classList.add('updated-container');
+    
+    let question = document.createElement('h4');
+    question.textContent = `${key}. `;
+    question.textContent += data[key].question;
+    updatedContainer.appendChild(question);
 
-  let answer = document.createElement('h5');
-  answer.textContent = "A. ";
-  let references = document.createElement('div');
-  references.classList.add('references');
+    let answer = document.createElement('h5');
+    answer.textContent = "A. ";
+    let references = document.createElement('div');
+    references.classList.add('references');
 
   for (let i = 0; i < data[key].answer.length; i++) {
     let phrase = document.createElement('span');
@@ -65,10 +74,25 @@ function displayItem(container, data, key) {
     answer.appendChild(phrase);
     references.appendChild(referenceLine);
   };
-  container.appendChild(answer);
-  container.appendChild(references);
 
-  displayTopics(container, data, key);
+  updatedContainer.appendChild(answer);
+  updatedContainer.appendChild(references);
+  container.appendChild(updatedContainer);
+
+  displayTopics(updatedContainer, data, key);
+}
+
+function displayOriginalVersion(container, data, key) {
+    let originalContainer = document.createElement('div');
+    let originalQuestion = document.createElement('h4');
+    originalQuestion.textContent = `${key}. `;
+    originalQuestion.textContent += data[key].originalQuestion;
+    originalContainer.appendChild(originalQuestion);
+    let originalAnswer = document.createElement('h5');
+    originalAnswer.textContent = "A. ";
+    originalAnswer.textContent += data[key].originalAnswer;
+    originalContainer.appendChild(originalAnswer);
+    container.appendChild(originalContainer);
 }
 
 function displayTopics(container, data, key) {

@@ -40,8 +40,24 @@ h2 {
 }
 
 .container {
-    width: 67vw;
+    width: 80vw;
     margin: auto;
+}
+
+.catechism-divider {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.catechism-divider > h2 {
+    font-size: 2rem;
+}
+
+.item {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3rem;
+    margin-bottom: 1.5rem;
 }
 
 h4 {
