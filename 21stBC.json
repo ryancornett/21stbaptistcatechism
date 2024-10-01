@@ -257,12 +257,12 @@
 				]
 			},
 			{
-				"date": "09/25/2024",
+				"date": "10/01/2024",
 				"questions": [
-					1
+					1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30
 				],
 				"notes": [
-					""
+					"Edited to retain as much original language as possible while accounting for modern punctuation and sentence structure."
 				]
 			}
 		]
@@ -270,10 +270,10 @@
 	
 	"data": {
 		"1": {
-			"question": "Who is the first and highest being?",
+			"question": "Who is the first and chief being?",
 			"answer": [
                 {
-                    "text": "God is the first and highest being.",
+                    "text": "God is the first and chief being.",
                     "references": [
                         "Isaiah 44:6", "Isaiah 48:12", "Psalm 97:9"
                     ]
@@ -297,7 +297,7 @@
                     ]
                 },
                 {
-                    "text": "it is a great sin and foolish not to.",
+                    "text": "it is a great sin and foolish not to believe.",
                     "references": [
                         [
                             "Psalm 14:1"
@@ -316,13 +316,13 @@
 			"question": "How do we know God is real?",
 			"answer": [
 				{
-					"text": "Human reason and all creation clearly show that there is a God,",
+					"text": "Human reason and the works of God plainly declare that there is a God,",
 					"references": [
                     "Romans 1:19-20", "Psalm 19:1-3", "Acts 17:24"
 					]
 				},
 				{
-					"text": "but only God's Word and Holy Spirit reveal to sinners they must be saved.",
+					"text": "but only God's Word and Holy Spirit do so fully and effectively for the salvation of sinners.",
 					"references": [
                     "1 Corinthians 2:10", "2 Timothy 3:15-16"
                 	]
@@ -338,7 +338,7 @@
 			"question": "What is the Word of God?",
 			"answer": [
 				{
-					"text": "God's Word is the Holy Bible: the Old and New Testaments which are the only sure guide for faith and how we should live.",
+					"text": "God's Word is the Holy Bible: the Old and New Testaments, which are the only certain rule of faith and obedience.",
 					"references": [
 						"2 Timothy 3:16", "Ephesians 2:20"
 					]
@@ -351,10 +351,10 @@
 			"originalAnswer": "The holy scriptures of the Old and New Testament are the word of God, and the only certain rule of faith and obedience."
 		},
 		"5": {
-			"question": "Is everyone allowed to use the Bible?",
+			"question": "Is everyone permitted to use the Bible?",
 			"answer": [
 				{
-					"text": "Everyone is not only allowed but also commanded and encouraged to read, listen to, and understand the Bible.",
+					"text": "Everyone is not only permitted but also commanded and encouraged to read, hear, and understand the Bible.",
 					"references": [
 						"John 5:38", "John 17:17-18", "Revelation 1:3", "Acts 8:30"
 					]
@@ -367,10 +367,10 @@
 			"originalAnswer": "All men are not only permitted, but commanded and exhorted to read, hear, and understand the holy scriptures."
 		},
 		"6": {
-			"question": "What are the main teachings of the Bible?",
+			"question": "What are the main subjects of the Bible?",
 			"answer": [
 				{
-					"text": "The Bible teaches what we should believe about God and what duties God requires of us.",
+					"text": "The main subjects of the Bible are what we should believe about God and what duties God requires of us.",
 					"references": [
 						"2 Timothy 1:13", "2 Timothy 3:15-16"
 					]
@@ -410,7 +410,7 @@
 					]
 				},
 				{
-					"text": "in His nature,",
+					"text": "in His being,",
 					"references": [
 						"Exodus 3:14"
 					]
@@ -447,10 +447,10 @@
 			"originalAnswer": "God is a Spirit, infinite, eternal, and unchangeable in his being, wisdom, power, holiness, justice, goodness, and truth."
 		},
 		"8": {
-			"question": "Are there any more gods?",
+			"question": "Is there more than one god?",
 			"answer": [
 				{
-					"text": "There is only one: the true and living God.",
+					"text": "There is only one: the living and true God.",
 					"references": [
 						"Deuteronomy 6:4", "Jeremiah 10:10"
 					]
@@ -463,10 +463,10 @@
 			"originalAnswer": "There is but one only, the living and true God."
 		},
 		"9": {
-			"question": "How many persons are there in God?",
+			"question": "How many persons are there in the Godhead?",
 			"answer": [
 				{
-					"text": "There are three Persons in God: Father, Son, and Holy Spirit. These three are one God, the same in essence, power, and glory.",
+					"text": "There are three Persons in the Godhead: Father, Son, and Holy Spirit. These three are one God, the same in essence, equal in power and glory.",
 					"references": [
 						"1 John 5:7", "Matthew 28:19"
 					]
@@ -482,7 +482,7 @@
 			"question": "What are God's decrees?",
 			"answer": [
 				{
-					"text": "God's decrees are the eternal plans He willed for His own glory, in which He has determined everything that happens.",
+					"text": "God's decrees are his eternal purpose according to the counsel of his will, by which, for His own glory, He has foreordained whatsoever comes to pass.",
 					"references": [
 						"Ephesians 1:4", "Ephesians1:11", "Romans 9:22-23", "Isaiah 46:10", "Lamentations 3:37"
 					]
@@ -498,7 +498,7 @@
 			"question": "How does God carry out His decrees?",
 			"answer": [
 				{
-					"text": "God carries out His decrees through acts of creation and His ongoing care for the world called providence.",
+					"text": "God carries out His decrees in the works of creation and providence—His ongoing care for the world.",
 					"references": [
 						"Isaiah 45:10", "Revelation 4:11", "Daniel 4:35"
 					]
@@ -527,10 +527,10 @@
 			"originalAnswer": "The work of creation is God's making all things of nothing, by the word of his power, in the space of six days, and all very good."
 		},
 		"13": {
-			"question": "In what ways did God create humanity?",
+			"question": "How did God create man?",
 			"answer": [
 				{
-					"text": "God created humanity male and female, in His image, with dominion over creatures and wholly different from them in knowledge, righteousness, and holiness.",
+					"text": "God created man, male and female, in His image; in knowledge, righteousness, and holiness; with dominion over creatures.",
 					"references": [
 						"Genesis 1:26-28", "Colossians 3:10", "Ephesians 4:24"
 					]
@@ -558,13 +558,13 @@
 					]
 				},
 				{
-					"text": " and powerful acts of preserving",
+					"text": " and powerful preservation",
 					"references": [
 						"Hebrews 1:3"
 					]
 				},
 				{
-					"text": " and governing all His creatures and everything they do.",
+					"text": " and governing of all His creatures and all their actions.",
 					"references": [
 						"Psalm 103:19", "Matthew 10:29-31"
 					]
@@ -578,10 +578,10 @@
 			"originalAnswer": "God's works of providence are his most holy, wise, and powerful preserving and governing all his creatures, and all their actions."
 		},
 		"15": {
-			"question": "What special act of providence did God perform toward man in the original, created state?",
+			"question": "What special act of providence did God exercise toward man in the state in which he was created?",
 			"answer": [
 				{
-					"text": "After creating man, God made a covenant of life with him on the condition of perfect obedience. He forbade man to eat from the tree of the knowledge of good and evil, warning that disobedience would result in death.",
+					"text": "When God had created man, he entered into a covenant of life with him upon condition of perfect obedience, forbidding him to eat of the tree of the knowledge of good and evil upon pain of death.",
 					"references": [
 						"Galatians 3:12", "Genesis 2:17"
 					]
@@ -595,10 +595,10 @@
 			"originalAnswer": "When God had created man, he entered into a covenant of life with him upon condition of perfect obedience; forbidding him to eat of the tree of the knowledge of good and evil, upon pain of death."
 		},
 		"16": {
-			"question": "Did our first parents remain in the state in which they were created?",
+			"question": "Did our first parents continue in the state in which they were created?",
 			"answer": [
 				{
-					"text": "No, our first parents, given the freedom of their own will, fell from the state in which they were created by sinning against God.",
+					"text": "No, our first parents, being left to the freedom of their own will, fell from the state in which they were created by sinning against God.",
 					"references": [
 						"Genesis 3:6-8", "Genesis 3:13", "Ecclesiastes 7:29"
 					]
@@ -614,7 +614,7 @@
 			"question": "What is sin?",
 			"answer": [
 				{
-					"text": "Sin is any failure to follow, or any violation of, God's law.",
+					"text": "Sin is any lack of obedience to, or any transgression of, the law of God.",
 					"references": [
 						"1 John 3:4"
 					]
@@ -627,10 +627,10 @@
 			"originalAnswer": "Sin is any want of conformity unto, or transgression of, the law of God."
 		},
 		"18": {
-			"question": "What was the sin that caused our first parents to fall from the state in which they were created?",
+			"question": "What was the sin by which our first parents fell from the state in which they were created?",
 			"answer": [
 				{
-					"text": "The sin that caused our first parents to fall was their eating of the forbidden fruit.",
+					"text": "The sin by which our first parents fell from the state in which they were created was their eating of the forbidden fruit.",
 					"references": [
 						"Genesis 3:6", "Genesis 3:12", "Genesis 3:16-17"
 					]
@@ -643,10 +643,10 @@
 			"originalAnswer": "The sin whereby our first parents fell from the estate wherein they were created, was their eating the forbidden fruit."
 		},
 		"19": {
-			"question": "Did all humanity fall with Adam in his first sin?",
+			"question": "Did all mankind fall with Adam in his first transgression?",
 			"answer": [
 				{
-					"text": "Yes, since the covenant was made with Adam not only for himself but for his descendants, all of humanity born through ordinary means sinned in Adam and fell with him in his first transgression.",
+					"text": "Yes, since the covenant was made with Adam not only for himself but for his descendants, all mankind descending from him by ordinary means sinned in him and fell with him in his first transgression.",
 					"references": [
 						"Genesis 2:16-17; Romans 5:12; 1 Corinthians 15:21-22"
 					]
@@ -659,10 +659,10 @@
 			"originalAnswer": "The covenant being made with Adam, not only for himself but for his posterity, all mankind descending from him by ordinary generation sinned in him, and fell with him in his first transgression."
 		},
 		"20": {
-			"question": "Into what state did the fall bring humanity?",
+			"question": "Into what state did the fall bring mankind?",
 			"answer": [
 				{
-					"text": "The fall brought humanity into a state of sin and misery.",
+					"text": "The fall brought mankind into a state of sin and misery.",
 					"references": [
 						"Romans 5:12"
 					]
@@ -675,10 +675,10 @@
 			"originalAnswer": "The fall brought mankind into an estate of sin and misery."
 		},
 		"21": {
-			"question": "What is the sinfulness of the state into which humanity fell?",
+			"question": "Of what does the sinfulness of the state into which man fell consist?",
 			"answer": [
                 {
-					"text": "The sinfulness of the state humanity fell into consists of the guilt of Adam's first sin, the loss of original righteousness, and the corruption of our entire nature—commonly called original sin—along with all actual sins that come from it.",
+					"text": "The sinfulness of the state into which man fell consists of the guilt of Adam's first sin, the lack of original righteousness, and the corruption of his whole nature—commonly called original sin—together with all actual transgressions that proceed from it.",
 					"references": [
 						"Romans 5:12", "Ephesians 2:1-3", "James 1:14-15", "Matthew 15:19"
 					]
@@ -691,22 +691,22 @@
 			"originalAnswer": "The sinfulness of that estate whereinto man fell, consists in the guilt of Adam's first sin, the want of original righteousness, and the corruption of his whole nature, which is commonly called original sin; together with all actual transgressions which proceed from it."
 		},
 		"22": {
-			"question": "What is the misery of the state into which humanity fell?",
+			"question": "What is the misery of the state into which man fell?",
 			"answer": [
                 {
-					"text": "Through the fall, all humanity lost communion with God,",
+					"text": "All mankind by their fall lost communion with God,",
 					"references": [
 						"Genesis 3:8", "Genesis 3:10", "Genesis 3:24"
 					]
 				},
                 {
-					"text": " came under His wrath and curse,",
+					"text": " are under His wrath and curse,",
 					"references": [
 						"Ephesians 2:2-3", "Galatians 3:10"
 					]
 				},
                 {
-					"text": " and became subject to all the miseries of this life, death itself, and the eternal pains of hell.",
+					"text": " and so became subject to all miseries in this life, death itself, and the pains of hell for ever.",
 					"references": [
 						"Lamentations 3:39", "Romans 6:23", "Matthew 25:41", "Matthew 25:46"
 					]
@@ -719,16 +719,16 @@
 			"originalAnswer": "All mankind by their fall lost communion with God, are under his wrath and curse, and so made liable to all miseries in this life, to death itself, and to the pains of hell for ever."
 		},
 		"23": {
-			"question": "Did God leave all humanity to perish in a state of sin and misery?",
+			"question": "Did God leave all mankind to perish in the state of sin and misery?",
 			"answer": [
                 {
-					"text": "Out of His goodness and for His delight, God from eternity chose some for everlasting life.",
+					"text": "God having, out of His mere good pleasure, from all eternity, elected some to everlasting life.",
 					"references": [
 						"Ephesians 1:4-5"
 					]
 				},
                 {
-					"text": " He made a covenant of grace to rescue them from their state of sin and misery and bring them into a state of salvation through a Redeemer.",
+					"text": " did enter into a covenant of grace to deliver them out of the state of sin and misery and bring them into a state of salvation by a Redeemer.",
 					"references": [
 						"Romans 3:20-22; Galatians 3:21-22"
 					]
@@ -741,22 +741,22 @@
 			"originalAnswer": "God having out of his mere good pleasure, from all eternity, elected some to everlasting life, did enter into a covenant of grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer."
 		},
 		"24": {
-			"question": "Who is the Redeemer of God's chosen people?",
+			"question": "Who is the Redeemer of God's elect?",
 			"answer": [
                 {
-					"text": "The only Redeemer of God's chosen people is the Lord Jesus Christ,",
+					"text": "The only Redeemer of God's elect is the Lord Jesus Christ,",
 					"references": [
 						"1 Timothy 2:5-6"
 					]
 				},
                 {
-					"text": " who, being the eternal Son of God, became human",
+					"text": " who, being the eternal Son of God, became man",
 					"references": [
 						"John 1:14", "Galatians 4:4"
 					]
 				},
                 {
-					"text": " and remains both fully God and fully man: two distinct natures but one person forever.",
+					"text": " and so was and continues to be God and man in two distinct natures, and one person forever.",
 					"references": [
 						"Romans 9:5; Luke 1:35; Colossians 2:9; Hebrews 7:24-25"
 					]
@@ -769,10 +769,10 @@
 			"originalAnswer": "The only Redeemer of God's elect is the Lord Jesus Christ; who, being the eternal Son of God, became man, and so was and continueth to be God and man in two distinct natures, and one person for ever."
 		},
 		"25": {
-			"question": "How did Christ, the Son of God, become human?",
+			"question": "How did Christ, being the Son of God, become man?",
 			"answer": [
                 {
-					"text": "Christ, the Son of God, became human by taking on a real body",
+					"text": "Christ, the Son of God, became man by taking to himself a real body",
 					"references": [
 						"Hebrews 2:14", "Hebrews 2:17", "Hebrews 2:10:5"
 					]
@@ -806,7 +806,7 @@
 			"question": "What offices does Christ fulfill as our Redeemer?",
 			"answer": [
                 {
-					"text": " As our Redeemer, Christ fulfills the offices of a prophet, priest, and king, both in His state of humiliation and in His exaltation.",
+					"text": "Christ, as our Redeemer, fulfills the offices of a prophet, priest, and king, both in His state of humiliation and exaltation.",
 					"references": [
 						"Acts 3:22", "Hebrews 12:25", "2 Corinthians 13:3", "Hebrews 5:5-7", "Hebrews 7:25", "Psalm 2:6", "Isaiah 9:6-7", "Matthew 21:5", "Psalm 2:8-11"
 					]
@@ -822,7 +822,7 @@
 			"question": "How does Christ fulfill the office of a prophet?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of a prophet by revealing to us the will of God for our salvation through His Word and Spirit.",
+					"text": "Christ fulfills the office of prophet in revealing to us, by his word and Spirit, the will of God for our salvation.",
 					"references": [
 						"John 1:18", "1 Peter 1:10-12", "John 15:15", "John 20:31"
 					]
@@ -838,7 +838,7 @@
 			"question": "How does Christ fulfill the office of a priest?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of a priest by offering Himself as a sacrifice once to satisfy divine justice",
+					"text": "Christ fulfills the office of priest in his once offering up Himself as a sacrifice to satisfy divine justice",
 					"references": [
 						"Hebrews 9:14", "Hebrews 9:28"
 					]
@@ -850,7 +850,7 @@
 					]
 				},
                 {
-					"text": " and by always interceding for us.",
+					"text": " and in making continual intercession for us.",
 					"references": [
 						"Hebrews 7:24-25"
 					]
@@ -866,13 +866,13 @@
 			"question": "How does Christ fulfill the office of a king?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of a king by bringing us under His authority,",
+					"text": "Christ fulfills the office of king in subduing us to himself,",
 					"references": [
 						"Acts 15:14-16"
 					]
 				},
                 {
-					"text": " ruling",
+					"text": " in ruling",
 					"references": [
 						"Isaiah 33:22"
 					]
@@ -884,7 +884,7 @@
 					]
 				},
                 {
-					"text": " and restraining and conquering all His and our enemies.",
+					"text": " and in restraining and conquering all His and our enemies.",
 					"references": [
 						"1 Corinthians 15:25", "Psalm 110"
 					]
@@ -900,43 +900,43 @@
 			"question": "Of what did Christ's humiliation consist?",
 			"answer": [
                 {
-					"text": "Christ's humiliation consisted of being born into a lowly condition",
+					"text": "Christ's humiliation consisted of His being born, even in a lowly condition;",
 					"references": [
 						"Luke 2:7"
 					]
 				},
                 {
-					"text": " under the law;",
+					"text": " made under the law,",
 					"references": [
 						"Galatians 4:4"
 					]
 				},
                 {
-					"text": " enduring the miseries of this life,",
+					"text": " undergoing the miseries of this life,",
 					"references": [
 						"Hebrews 12:2-3", "Isaiah 53:2-3"
 					]
 				},
                 {
-					"text": " God's wrath,",
+					"text": " the wrath of God,",
 					"references": [
 						"Luke 22:44", "Matthew 27:46"
 					]
 				},
                 {
-					"text": " and a cursed death on the cross.",
+					"text": " and the cursed death on the cross.",
 					"references": [
 						"Philippians 2:8"
 					]
 				},
                 {
-					"text": " It also included being buried",
+					"text": " Of also being buried",
 					"references": [
 						"1 Corinthians 15:3-4"
 					]
 				},
                 {
-					"text": " and remaining under the power of death for a time.",
+					"text": " and continuing under the power of death for a time.",
 					"references": [
 						"Acts 2:24-27", "Acts 2:31", "Matthew 12:40"
 					]
