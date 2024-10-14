@@ -264,6 +264,24 @@
 				"notes": [
 					"Edited to retain as much original language as possible while accounting for modern punctuation and sentence structure."
 				]
+			},
+			{
+				"date": "10/13/2024",
+				"questions": [
+					31, 32, 33
+				],
+				"notes": [
+					"Edited to retain as much original language as possible while accounting for modern punctuation and sentence structure."
+				]
+			},
+			{
+				"date": "10/14/2024",
+				"questions": [
+					34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 47, 49, 52, 53, 55
+				],
+				"notes": [
+					"Edited to retain as much original language as possible while accounting for modern punctuation and sentence structure."
+				]
 			}
 		]
 	},
@@ -322,7 +340,7 @@
 					]
 				},
 				{
-					"text": "but only God's Word and Holy Spirit do so fully and effectively for the salvation of sinners.",
+					"text": "but only God's Word and Holy Spirit do so fully and effectually for the salvation of sinners.",
 					"references": [
                     "1 Corinthians 2:10", "2 Timothy 3:15-16"
                 	]
@@ -338,7 +356,7 @@
 			"question": "What is the Word of God?",
 			"answer": [
 				{
-					"text": "God's Word is the Holy Bible: the Old and New Testaments, which are the only certain rule of faith and obedience.",
+					"text": "The holy scriptures of the Old and New Testaments are the Word of God and the only certain rule of faith and obedience.",
 					"references": [
 						"2 Timothy 3:16", "Ephesians 2:20"
 					]
@@ -354,7 +372,7 @@
 			"question": "Is everyone permitted to use the Bible?",
 			"answer": [
 				{
-					"text": "Everyone is not only permitted but also commanded and encouraged to read, hear, and understand the Bible.",
+					"text": "Everyone is not only permitted but commanded and encouraged to read, hear, and understand the Bible.",
 					"references": [
 						"John 5:38", "John 17:17-18", "Revelation 1:3", "Acts 8:30"
 					]
@@ -370,7 +388,7 @@
 			"question": "What are the main subjects of the Bible?",
 			"answer": [
 				{
-					"text": "The main subjects of the Bible are what we should believe about God and what duties God requires of us.",
+					"text": "The main subjects of the Bible are what we should believe concerning God and what duty God requires of man.",
 					"references": [
 						"2 Timothy 1:13", "2 Timothy 3:15-16"
 					]
@@ -498,7 +516,7 @@
 			"question": "How does God carry out His decrees?",
 			"answer": [
 				{
-					"text": "God carries out His decrees in the works of creation and providence—His ongoing care for the world.",
+					"text": "God carries out His decrees in the works of creation and providence.",
 					"references": [
 						"Isaiah 45:10", "Revelation 4:11", "Daniel 4:35"
 					]
@@ -614,7 +632,7 @@
 			"question": "What is sin?",
 			"answer": [
 				{
-					"text": "Sin is any lack of obedience to, or any transgression of, the law of God.",
+					"text": "Sin is any lack of conformity to, or any transgression of, the law of God.",
 					"references": [
 						"1 John 3:4"
 					]
@@ -643,7 +661,7 @@
 			"originalAnswer": "The sin whereby our first parents fell from the estate wherein they were created, was their eating the forbidden fruit."
 		},
 		"19": {
-			"question": "Did all mankind fall with Adam in his first transgression?",
+			"question": "Did all mankind fall in Adam's first transgression?",
 			"answer": [
 				{
 					"text": "Yes, since the covenant was made with Adam not only for himself but for his descendants, all mankind descending from him by ordinary means sinned in him and fell with him in his first transgression.",
@@ -722,7 +740,7 @@
 			"question": "Did God leave all mankind to perish in the state of sin and misery?",
 			"answer": [
                 {
-					"text": "God having, out of His mere good pleasure, from all eternity, elected some to everlasting life.",
+					"text": "God having, out of His mere good pleasure, from all eternity, elected some to everlasting life,",
 					"references": [
 						"Ephesians 1:4-5"
 					]
@@ -750,13 +768,13 @@
 					]
 				},
                 {
-					"text": " who, being the eternal Son of God, became man",
+					"text": " who, being the eternal Son of God, became man.",
 					"references": [
 						"John 1:14", "Galatians 4:4"
 					]
 				},
                 {
-					"text": " and so was and continues to be God and man in two distinct natures, and one person forever.",
+					"text": " He was and continues to be God and man in two distinct natures, and one person forever.",
 					"references": [
 						"Romans 9:5; Luke 1:35; Colossians 2:9; Hebrews 7:24-25"
 					]
@@ -806,7 +824,7 @@
 			"question": "What offices does Christ fulfill as our Redeemer?",
 			"answer": [
                 {
-					"text": "Christ, as our Redeemer, fulfills the offices of a prophet, priest, and king, both in His state of humiliation and exaltation.",
+					"text": "Christ, as our Redeemer, fulfills the offices of prophet, priest, and king, both in His state of humiliation and exaltation.",
 					"references": [
 						"Acts 3:22", "Hebrews 12:25", "2 Corinthians 13:3", "Hebrews 5:5-7", "Hebrews 7:25", "Psalm 2:6", "Isaiah 9:6-7", "Matthew 21:5", "Psalm 2:8-11"
 					]
@@ -822,7 +840,7 @@
 			"question": "How does Christ fulfill the office of a prophet?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of prophet in revealing to us, by his word and Spirit, the will of God for our salvation.",
+					"text": "Christ fulfills the office of prophet in revealing to us, by his Word and Spirit, the will of God for our salvation.",
 					"references": [
 						"John 1:18", "1 Peter 1:10-12", "John 15:15", "John 20:31"
 					]
@@ -906,7 +924,7 @@
 					]
 				},
                 {
-					"text": " made under the law,",
+					"text": " made under the law;",
 					"references": [
 						"Galatians 4:4"
 					]
@@ -924,13 +942,13 @@
 					]
 				},
                 {
-					"text": " and the cursed death on the cross.",
+					"text": " and the cursed death on the cross;",
 					"references": [
 						"Philippians 2:8"
 					]
 				},
                 {
-					"text": " Of also being buried",
+					"text": " of being buried",
 					"references": [
 						"1 Corinthians 15:3-4"
 					]
@@ -952,7 +970,7 @@
 			"question": "Of what does Christ's exaltation consist?",
 			"answer": [
                 {
-					"text": "Christ's exaltation consists of His rising from the dead on the third day,",
+					"text": "Christ's exaltation consists of His rising again from the dead on the third day,",
 					"references": [
 						"1 Corinthians 15:4"
 					]
@@ -970,7 +988,7 @@
 					]
 				},
                 {
-					"text": " and returning to judge the world on the last day.",
+					"text": " and in coming to judge the world on the last day.",
 					"references": [
 						"Acts 1:11", "Acts 17:31"
 					]
@@ -983,10 +1001,10 @@
 			"originalAnswer": "Christ's exaltation consisteth in his rising again from the dead on the third day, 1 in ascending up into heaven, 2 in sitting at the right hand of God the Father, 3 and in coming to judge the world at the last day. 4"
 		},
 		"32": {
-			"question": "How do we share in the redemption purchased by Christ?",
+			"question": "How are we made partakers of the redemption purchased by Christ?",
 			"answer": [
                 {
-					"text": "We share in the redemption purchased by Christ through the effective application of it to us",
+					"text": "We are made partakers of the redemption purchased by Christ through the effectual application of it to us",
 					"references": [
 						"John 1:11-12"
 					]
@@ -1005,16 +1023,16 @@
 			"originalAnswer": "We are made partakers of the redemption purchased by Christ, by the effectual application of it to us 1 by his Holy Spirit. 2"
 		},
 		"33": {
-			"question": "How does the Spirit apply the redemption purchased by Christ to us?",
+			"question": "How does the Spirit apply to us the redemption purchased by Christ?",
 			"answer": [
                 {
-					"text": "The Spirit applies the redemption purchased by Christ to us by creating faith in us,",
+					"text": "The Spirit applies to us the redemption purchased by Christ by working faith in us,",
 					"references": [
 						"Ephesians 1:13-14", "John 6:37", "John 6:39", "Ephesians 2:8"
 					]
 				},
                 {
-					"text": " thereby uniting us to Christ in our effective call to follow Him.",
+					"text": " and in doing so uniting us to Christ in our effectual calling.",
 					"references": [
 						"Ephesians 3:17", "1 Corinthians 1:9"
 					]
@@ -1027,34 +1045,34 @@
 			"originalAnswer": "The Spirit applieth to us the redemption purchased by Christ, by working faith in us, 1 and thereby uniting us to Christ, in our effectual calling. 2"
 		},
 		"34": {
-			"question": "What is our effective call?",
+			"question": "What is our effectual calling?",
 			"answer": [
                 {
-					"text": "Our effective call is the work of God's Spirit",
+					"text": "Effectual calling is the work of God's Spirit;",
 					"references": [
 						"2 Timothy 1:9", "2 Thessalonians 2:13-14"
 					]
 				},
                 {
-					"text": " to convince us of our sin and misery,",
+					"text": " by convincing us of our sin and misery,",
 					"references": [
 						"Acts 2:37"
 					]
 				},
                 {
-					"text": " enlighten our minds to know Christ,",
+					"text": " enlightening our minds in the knowledge of Christ,",
 					"references": [
 						"Acts 26:18"
 					]
 				},
                 {
-					"text": " and renew our wills,",
+					"text": " and renewing our wills,",
 					"references": [
 						"Ezekiel 36:26-27"
 					]
 				},
                 {
-					"text": " thereby persuading and enabling us to embrace Jesus Christ, who is freely offered to us in the gospel.",
+					"text": " He persuades and enables us to embrace Jesus Christ, who is freely offered to us in the gospel.",
 					"references": [
 						"John 6:44-45", "Philippians 2:13"
 					]
@@ -1067,10 +1085,10 @@
 			"originalAnswer": "Effectual calling is the work of God's Spirit, 1 whereby convincing us of our sin and misery, 2 enlightening our minds in the knowledge of Christ, 3 and renewing our wills, 4 he doth persuade and enable us to embrace Jesus Christ freely offered to us in the gospel. 5"
 		},
 		"35": {
-			"question": "What benefits do those who are effectively called receive in this life?",
+			"question": "What benefits do those who are effectually called partake of in this life?",
 			"answer": [
                 {
-					"text": "Those who are effectually called receive the benefits of justification,",
+					"text": "Those who are effectually called do in this life partake of justification,",
 					"references": [
 						"Romans 8:30"
 					]
@@ -1082,7 +1100,7 @@
 					]
 				},
                 {
-					"text": " sanctification, and the various blessings that accompany or result from them in this life.",
+					"text": " sanctification, and the several benefits which in this life either accompany or flow from them.",
 					"references": [
 						"1 Corinthians 1:30"
 					]
@@ -1098,7 +1116,7 @@
 			"question": "What is justification?",
 			"answer": [
                 {
-					"text": "Justification is an act of God's free grace: He forgives all our sins",
+					"text": "Justification is an act of God's free grace by which He pardons all our sins",
 					"references": [
 						"Romans 3:24-25", "Romans 4:6-8"
 					]
@@ -1110,7 +1128,7 @@
 					]
 				},
                 {
-					"text": " solely because of Christ's righteousness credited to us",
+					"text": " solely because of the righteousness of Christ imputed to us",
 					"references": [
 						"Romans 5:17-19"
 					]
@@ -1138,7 +1156,7 @@
 					]
 				},
                 {
-					"text": " by which we are brought into His family and receive the right to all the privileges of God's children.",
+					"text": " by which we are received into the number and have the right to all the privileges of the sons of God.",
 					"references": [
 						"John 1:12", "Romans 8:14-17"
 					]
@@ -1160,13 +1178,13 @@
 					]
 				},
                 {
-					"text": " by which we are renewed in every part to reflect the image of God",
+					"text": " by which we are renewed in every part after the image of God",
 					"references": [
 						"Ephesians 4:23-24"
 					]
 				},
                 {
-					"text": " and are increasingly enabled to die to sin and live in righteousness.",
+					"text": " and enabled more and more to die to sin and live unto righteousness.",
 					"references": [
 						"Romans 6:4", "Romans 6:6", "Romans 8:1"
 					]
@@ -1194,13 +1212,13 @@
 					]
 				},
                 {
-					"text": " growth in grace,",
+					"text": " increase of grace,",
 					"references": [
 						"Proverbs 4:18"
 					]
 				},
                 {
-					"text": " and perseverance in it until the end.",
+					"text": " and perseverance in it to the end.",
 					"references": [
 						"1 John 5:13", "1 Peter 1:5"
 					]
@@ -1222,13 +1240,13 @@
 					]
 				},
                 {
-					"text": " and immediately enter into glory;",
+					"text": " and immediately pass into glory.",
 					"references": [
 						"2 Corinthians 5:1", "2 Corinthians 5:6", "2 Corinthians 5:8", "Philippians 1:23", "Luke 23:43"
 					]
 				},
                 {
-					"text": " their bodies, still united to Christ,",
+					"text": " Their bodies, still united to Christ,",
 					"references": [
 						"1 Thessalonians 4:14"
 					]
@@ -1256,19 +1274,19 @@
 			"question": "What benefits do believers receive from Christ at the resurrection?",
 			"answer": [
                 {
-					"text": "At the resurrection, believers will be raised in glory,",
+					"text": "At the resurrection, believers, being raised up in glory,",
 					"references": [
 						"1 Corinthians 15:43"
 					]
 				},
                 {
-					"text": " openly acknowledged and acquitted on the day of judgment,",
+					"text": " shall be openly acknowledged and acquitted on the day of judgment,",
 					"references": [
 						"Matthew 25:23", "Matthew 10:32"
 					]
 				},
                 {
-					"text": " and perfectly blessed in both soul and body to fully enjoy God",
+					"text": " and made perfectly blessed both in soul and body, in the full enjoyment of God",
 					"references": [
 						"1 John 3:2", "1 Corinthians 13:12"
 					]
@@ -1287,10 +1305,10 @@
 			"originalAnswer": "At the resurrection believers, being raised up in glory, 1 shall be openly acknowledged, and acquitted in the day of judgment, 2 and made perfectly blessed, both in soul and body, in the full enjoyment of God 3 to all eternity. 4"
 		},
 		"42": {
-			"question": "What will happen to the wicked at their death?",
+			"question": "What shall be done to the wicked at their death?",
 			"answer": [
                 {
-					"text": "At their death, the souls of the wicked will be cast into the torments of hell while their bodies remain in their graves until the resurrection unto judgment on the great day.",
+					"text": "At their death, the souls of the wicked shall be cast into the torments of hell while their bodies lie in their graves until the resurrection and judgment on the great day.",
 					"references": [
 						"Luke 16:23-24", "Acts 2:24", "Jude 1:5", "Jude 1:7", "1 Peter 3:19", "Psalm 49:14"
 					]
@@ -1303,10 +1321,10 @@
 			"originalAnswer": "The souls of the wicked shall, at their death, be cast into the torments of hell, and their bodies lie in their graves, till the resurrection and judgment of the great day."
 		},
 		"43": {
-			"question": "What will happen to the wicked on the day of judgment?",
+			"question": "What shall be done to the wicked on the day of judgment?",
 			"answer": [
                 {
-					"text": "On the day of judgment, the bodies of the wicked will be raised from their graves and, along with their souls, will be sentenced to eternal, unspeakable torments with the devil and his angels.",
+					"text": "On the day of judgment, the bodies of the wicked, being raised out of their graves, shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels for ever.",
 					"references": [
 						"John 5:28-29", "Matthew 25:41", "Matthew 25:46", "2 Thessalonians 1:8-9"
 					]
@@ -1319,10 +1337,10 @@
 			"originalAnswer": "At the day of judgment the bodies of the wicked, being raised out of their graves, shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels for ever."
 		},
 		"44": {
-			"question": "What duty does God require of humanity?",
+			"question": "What is the duty God requires of man?",
 			"answer": [
                 {
-					"text": "The duty God requires of humanity is obedience to His revealed will.",
+					"text": "The duty God requires of man is obedience to His revealed will.",
 					"references": [
 						"Micah 6:8", "1 Samuel 15:22"
 					]
@@ -1335,10 +1353,10 @@
 			"originalAnswer": "The duty which God requireth of man is, obedience to his revealed will."
 		},
 		"45": {
-			"question": "What did God first reveal to humanity as the rule for obedience?",
+			"question": "What did God at first reveal to man for the rule of his obedience?",
 			"answer": [
                 {
-					"text": "The rule that God first revealed to humanity for obedience was the moral law.",
+					"text": "The rule that God at first revealed to man for his obedience was the moral law.",
 					"references": [
 						"Romans 2:14-15", "Romans 10:5"
 					]
@@ -1370,7 +1388,7 @@
 			"question": "What is the sum of the ten commandments?",
 			"answer": [
                 {
-					"text": "The sum of the Ten Commandments is to love the Lord our God with all our heart, soul, mind, and strength, and to love our neighbor as ourselves.",
+					"text": "The sum of the Ten Commandments is to love the Lord our God with all our heart, soul, mind, and strength; and to love our neighbor as ourselves.",
 					"references": [
 						"Matthew 22:37-40"
 					]
@@ -1402,7 +1420,7 @@
 			"question": "What does the preface to the Ten Commandments teach us?",
 			"answer": [
                 {
-					"text": "The preface to the Ten Commandments teaches us that because God is the Lord, our God and Redeemer, we are therefore obligated to keep all His commandments.",
+					"text": "The preface to the Ten Commandments teaches us that because God is the Lord, and our God and Redeemer, we are therefore bound to keep all His commandments.",
 					"references": [
 						"Luke 1:74-75", "1 Peter 1:15-19"
 					]
@@ -1462,19 +1480,19 @@
 					]
 				},
                 {
-					"text": " or failing to worship and glorify the true God ",
+					"text": " or not worshipping and glorifying the true God ",
 					"references": [
 						"Romans 1:21"
 					]
 				},
                 {
-					"text": "as our God,",
+					"text": "as God and our God,",
 					"references": [
 						"Psalm 81:10-11"
 					]
 				},
                 {
-					"text": " and giving the worship and glory due Him to anyone or anything else.",
+					"text": " and giving the worship and glory to any other which is due unto Him alone.",
 					"references": [
 						"Romans 1:25-26"
 					]
@@ -1487,10 +1505,10 @@
 			"originalAnswer": "The first commandment forbiddeth the denying, 1 or not worshipping and glorifying the true God, 2 as God and our God, 3 and the giving of that worship and glory to any other, which is due unto him alone."
 		},
 		"53": {
-			"question": "What do the words \"before me\" in the first commandment teach us?",
+			"question": "What do the words \"before me\" in the first commandment especially teach us?",
 			"answer": [
                 {
-					"text": "The words \"before me\" in the first commandment teach us that God, who sees all things, takes notice of and is greatly displeased with the sin of having any other god.",
+					"text": "The words \"before me\" in the first commandment teach us that God, who sees all things, takes notice of and is much displeased with the sin of having any other god.",
 					"references": [
 						"Exodus 8:5-32"
 					]
@@ -1522,7 +1540,7 @@
 			"question": "What is required in the second commandment?",
 			"answer": [
                 {
-					"text": "The second commandment requires us to receive, observe, and keep pure and whole all religious worship and ordinances that God has appointed in His Word.",
+					"text": "The second commandment requires us to receive, observe, and keep pure and whole all such religious worship and ordinances as God has appointed in His Word.",
 					"references": [
 						"Deuteronomy 32:46", "Matthew 23:20", "Acts 2:42"
 					]
