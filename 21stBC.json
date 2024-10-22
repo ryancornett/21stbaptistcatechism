@@ -282,6 +282,15 @@
 				"notes": [
 					"Edited to retain as much original language as possible while accounting for modern punctuation and sentence structure."
 				]
+			},
+			{
+				"date": "10/22/2024",
+				"questions": [
+					56, 57, 61, 63, 64, 65, 66, 67, 69, 70, 73, 74, 76, 79, 80, 82, 83, 85, 86, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 114
+				],
+				"notes": [
+					"Edited to retain as much original language as possible while accounting for modern punctuation and sentence structure conventions."
+				]
 			}
 		]
 	},
@@ -307,7 +316,7 @@
 			"question": "Should everyone believe there is a God?",
 			"answer": [
                 {
-                    "text": "Yes, everyone should believe there is a God;",
+                    "text": "Everyone ought to believe there is a God;",
                     "references": [
                         [
                             "Hebrews 11:6"
@@ -315,7 +324,7 @@
                     ]
                 },
                 {
-                    "text": "it is a great sin and foolish not to believe.",
+                    "text": "it is their great sin and foolishness who do not believe.",
                     "references": [
                         [
                             "Psalm 14:1"
@@ -331,7 +340,7 @@
 		},
 		"3": {
 			"number": 3,
-			"question": "How do we know God is real?",
+			"question": "How may we know there is a God?",
 			"answer": [
 				{
 					"text": "Human reason and the works of God plainly declare that there is a God,",
@@ -356,7 +365,7 @@
 			"question": "What is the Word of God?",
 			"answer": [
 				{
-					"text": "The holy scriptures of the Old and New Testaments are the Word of God and the only certain rule of faith and obedience.",
+					"text": "The Holy Scriptures of the Old and New Testaments are the Word of God and the only certain rule of faith and obedience.",
 					"references": [
 						"2 Timothy 3:16", "Ephesians 2:20"
 					]
@@ -369,10 +378,10 @@
 			"originalAnswer": "The holy scriptures of the Old and New Testament are the word of God, and the only certain rule of faith and obedience."
 		},
 		"5": {
-			"question": "Is everyone permitted to use the Bible?",
+			"question": "Are all permitted to use the Holy Scriptures?",
 			"answer": [
 				{
-					"text": "Everyone is not only permitted but commanded and encouraged to read, hear, and understand the Bible.",
+					"text": "All are not only permitted but commanded and encouraged to read, hear, and understand the Holy Scriptures.",
 					"references": [
 						"John 5:38", "John 17:17-18", "Revelation 1:3", "Acts 8:30"
 					]
@@ -385,10 +394,10 @@
 			"originalAnswer": "All men are not only permitted, but commanded and exhorted to read, hear, and understand the holy scriptures."
 		},
 		"6": {
-			"question": "What are the main subjects of the Bible?",
+			"question": "What are the main subjects of the Holy Scriptures?",
 			"answer": [
 				{
-					"text": "The main subjects of the Bible are what we should believe concerning God and what duty God requires of man.",
+					"text": "The main subjects of the Holy Scriptures are what man ought to believe concerning God, and what duty God requires of man.",
 					"references": [
 						"2 Timothy 1:13", "2 Timothy 3:15-16"
 					]
@@ -404,7 +413,7 @@
 			"question": "What is God?",
 			"answer": [
 				{
-					"text": "God is a Spirit;",
+					"text": "God is: a Spirit,",
 					"references": [
 						"John 4:24"
 					]
@@ -422,7 +431,7 @@
 					]
 				},
 				{
-					"text": "and unchanging",
+					"text": "and unchangeable",
 					"references": [
 						"James 1:17"
 					]
@@ -481,10 +490,10 @@
 			"originalAnswer": "There is but one only, the living and true God."
 		},
 		"9": {
-			"question": "How many persons are there in the Godhead?",
+			"question": "How many persons are in the Godhead?",
 			"answer": [
 				{
-					"text": "There are three Persons in the Godhead: Father, Son, and Holy Spirit. These three are one God, the same in essence, equal in power and glory.",
+					"text": "There are three Persons in the Godhead: Father, Son, and Holy Spirit. These three are one God—the same in essence, equal in power and glory.",
 					"references": [
 						"1 John 5:7", "Matthew 28:19"
 					]
@@ -497,10 +506,10 @@
 			"originalAnswer": "There are three persons in the godhead, the Father, the Son, and the Holy Spirit; and these three are one God, the same in essence, equal in power and glory."
 		},
 		"10": {
-			"question": "What are God's decrees?",
+			"question": "What are the decrees of God?",
 			"answer": [
 				{
-					"text": "God's decrees are his eternal purpose according to the counsel of his will, by which, for His own glory, He has foreordained whatsoever comes to pass.",
+					"text": "The decrees of God are his eternal purpose according to the counsel of His will, by which, for His own glory, He has foreordained whatsoever comes to pass.",
 					"references": [
 						"Ephesians 1:4", "Ephesians1:11", "Romans 9:22-23", "Isaiah 46:10", "Lamentations 3:37"
 					]
@@ -532,7 +541,7 @@
 			"question": "What is the work of creation?",
 			"answer": [
 				{
-					"text": "The work of creation is God's making all things of nothing, by the word of his power, in six days, and all of it was very good.",
+					"text": "The work of creation is God's making all things of nothing, by the word of His power, in the span of six days, and all of it was very good.",
 					"references": [
 						"Genesis 1", "Hebrews 11:3"
 					]
@@ -548,7 +557,7 @@
 			"question": "How did God create man?",
 			"answer": [
 				{
-					"text": "God created man, male and female, in His image; in knowledge, righteousness, and holiness; with dominion over creatures.",
+					"text": "God created man: male and female; in His image; in knowledge, righteousness, and holiness; with dominion over creatures.",
 					"references": [
 						"Genesis 1:26-28", "Colossians 3:10", "Ephesians 4:24"
 					]
@@ -576,7 +585,7 @@
 					]
 				},
 				{
-					"text": " and powerful preservation",
+					"text": " and powerful preserving",
 					"references": [
 						"Hebrews 1:3"
 					]
@@ -616,7 +625,7 @@
 			"question": "Did our first parents continue in the state in which they were created?",
 			"answer": [
 				{
-					"text": "No, our first parents, being left to the freedom of their own will, fell from the state in which they were created by sinning against God.",
+					"text": "Our first parents, being left to the freedom of their own will, fell from the state in which they were created by sinning against God.",
 					"references": [
 						"Genesis 3:6-8", "Genesis 3:13", "Ecclesiastes 7:29"
 					]
@@ -664,7 +673,7 @@
 			"question": "Did all mankind fall in Adam's first transgression?",
 			"answer": [
 				{
-					"text": "Yes, since the covenant was made with Adam not only for himself but for his descendants, all mankind descending from him by ordinary means sinned in him and fell with him in his first transgression.",
+					"text": "Since the covenant was made with Adam not only for himself but for his descendants, all mankind descending from him by ordinary means sinned in him and fell with him in his first transgression.",
 					"references": [
 						"Genesis 2:16-17; Romans 5:12; 1 Corinthians 15:21-22"
 					]
@@ -693,7 +702,7 @@
 			"originalAnswer": "The fall brought mankind into an estate of sin and misery."
 		},
 		"21": {
-			"question": "Of what does the sinfulness of the state into which man fell consist?",
+			"question": "Of what consists the sinfulness of the state into which man fell?",
 			"answer": [
                 {
 					"text": "The sinfulness of the state into which man fell consists of the guilt of Adam's first sin, the lack of original righteousness, and the corruption of his whole nature—commonly called original sin—together with all actual transgressions that proceed from it.",
@@ -712,19 +721,19 @@
 			"question": "What is the misery of the state into which man fell?",
 			"answer": [
                 {
-					"text": "All mankind by their fall lost communion with God,",
+					"text": "All mankind by their fall lost communion with God;",
 					"references": [
 						"Genesis 3:8", "Genesis 3:10", "Genesis 3:24"
 					]
 				},
                 {
-					"text": " are under His wrath and curse,",
+					"text": " are under His wrath and curse;",
 					"references": [
 						"Ephesians 2:2-3", "Galatians 3:10"
 					]
 				},
                 {
-					"text": " and so became subject to all miseries in this life, death itself, and the pains of hell for ever.",
+					"text": " and so became subject to all miseries in this life, death itself, and the pains of hell forever.",
 					"references": [
 						"Lamentations 3:39", "Romans 6:23", "Matthew 25:41", "Matthew 25:46"
 					]
@@ -746,7 +755,7 @@
 					]
 				},
                 {
-					"text": " did enter into a covenant of grace to deliver them out of the state of sin and misery and bring them into a state of salvation by a Redeemer.",
+					"text": " did enter into a covenant of grace to deliver them out of the state of sin and misery, and bring them into a state of salvation by a Redeemer.",
 					"references": [
 						"Romans 3:20-22; Galatians 3:21-22"
 					]
@@ -824,7 +833,7 @@
 			"question": "What offices does Christ fulfill as our Redeemer?",
 			"answer": [
                 {
-					"text": "Christ, as our Redeemer, fulfills the offices of prophet, priest, and king, both in His state of humiliation and exaltation.",
+					"text": "Christ, as our Redeemer, fulfills the offices of prophet, priest, and king—both in His state of humiliation and exaltation.",
 					"references": [
 						"Acts 3:22", "Hebrews 12:25", "2 Corinthians 13:3", "Hebrews 5:5-7", "Hebrews 7:25", "Psalm 2:6", "Isaiah 9:6-7", "Matthew 21:5", "Psalm 2:8-11"
 					]
@@ -840,7 +849,7 @@
 			"question": "How does Christ fulfill the office of a prophet?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of prophet in revealing to us, by his Word and Spirit, the will of God for our salvation.",
+					"text": "Christ fulfills the office of prophet in revealing to us, by His Word and Spirit, the will of God for our salvation.",
 					"references": [
 						"John 1:18", "1 Peter 1:10-12", "John 15:15", "John 20:31"
 					]
@@ -856,7 +865,7 @@
 			"question": "How does Christ fulfill the office of a priest?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of priest in his once offering up Himself as a sacrifice to satisfy divine justice",
+					"text": "Christ fulfills the office of priest in His offering up Himself once as a sacrifice to satisfy divine justice",
 					"references": [
 						"Hebrews 9:14", "Hebrews 9:28"
 					]
@@ -884,25 +893,25 @@
 			"question": "How does Christ fulfill the office of a king?",
 			"answer": [
                 {
-					"text": "Christ fulfills the office of king in subduing us to himself,",
+					"text": "Christ fulfills the office of king in: subduing us to Himself,",
 					"references": [
 						"Acts 15:14-16"
 					]
 				},
                 {
-					"text": " in ruling",
+					"text": " ruling",
 					"references": [
 						"Isaiah 33:22"
 					]
 				},
                 {
-					"text": " and defending us,",
+					"text": " defending us,",
 					"references": [
 						"Isaiah 32:1-2"
 					]
 				},
                 {
-					"text": " and in restraining and conquering all His and our enemies.",
+					"text": " and restraining and conquering all His and our enemies.",
 					"references": [
 						"1 Corinthians 15:25", "Psalm 110"
 					]
@@ -918,13 +927,13 @@
 			"question": "Of what did Christ's humiliation consist?",
 			"answer": [
                 {
-					"text": "Christ's humiliation consisted of His being born, even in a lowly condition;",
+					"text": "Christ's humiliation consisted of His: being born, even in a lowly condition;",
 					"references": [
 						"Luke 2:7"
 					]
 				},
                 {
-					"text": " made under the law;",
+					"text": " being placed under the law;",
 					"references": [
 						"Galatians 4:4"
 					]
@@ -970,19 +979,19 @@
 			"question": "Of what does Christ's exaltation consist?",
 			"answer": [
                 {
-					"text": "Christ's exaltation consists of His rising again from the dead on the third day,",
+					"text": "Christ's exaltation consists of His: rising again from the dead on the third day;",
 					"references": [
 						"1 Corinthians 15:4"
 					]
 				},
                 {
-					"text": " ascending into heaven,",
+					"text": " ascending up into heaven",
 					"references": [
 						"Mark 16:19"
 					]
 				},
                 {
-					"text": " sitting at the right hand of God the Father,",
+					"text": " sitting at the right hand of God the Father;",
 					"references": [
 						"Ephesians 1:20"
 					]
@@ -1004,7 +1013,7 @@
 			"question": "How are we made partakers of the redemption purchased by Christ?",
 			"answer": [
                 {
-					"text": "We are made partakers of the redemption purchased by Christ through the effectual application of it to us",
+					"text": "We are made partakers of the redemption purchased by Christ by the effectual application of it to us",
 					"references": [
 						"John 1:11-12"
 					]
@@ -1054,7 +1063,7 @@
 					]
 				},
                 {
-					"text": " by convincing us of our sin and misery,",
+					"text": " by which convincing us of our sin and misery,",
 					"references": [
 						"Acts 2:37"
 					]
@@ -1085,10 +1094,10 @@
 			"originalAnswer": "Effectual calling is the work of God's Spirit, 1 whereby convincing us of our sin and misery, 2 enlightening our minds in the knowledge of Christ, 3 and renewing our wills, 4 he doth persuade and enable us to embrace Jesus Christ freely offered to us in the gospel. 5"
 		},
 		"35": {
-			"question": "What benefits do those who are effectually called partake of in this life?",
+			"question": "Of what benefits do those who are effectually called partake in this life?",
 			"answer": [
                 {
-					"text": "Those who are effectually called do in this life partake of justification,",
+					"text": "They who are effectually called do in this life partake of justification,",
 					"references": [
 						"Romans 8:30"
 					]
@@ -1156,7 +1165,7 @@
 					]
 				},
                 {
-					"text": " by which we are received into the number and have the right to all the privileges of the sons of God.",
+					"text": " by which we are received into the number of and have a right to all the privileges of the family of God.",
 					"references": [
 						"John 1:12", "Romans 8:14-17"
 					]
@@ -1184,7 +1193,7 @@
 					]
 				},
                 {
-					"text": " and enabled more and more to die to sin and live unto righteousness.",
+					"text": " and enabled more and more to die unto sin and live unto righteousness.",
 					"references": [
 						"Romans 6:4", "Romans 6:6", "Romans 8:1"
 					]
@@ -1200,7 +1209,7 @@
 			"question": "What benefits in this life accompany or flow from justification, adoption, and sanctification?",
 			"answer": [
                 {
-					"text": "The benefits in this life that accompany or flow from justification, adoption, and sanctification are assurance of God's love, peace of conscience,",
+					"text": "The benefits in this life that accompany or flow from justification, adoption, and sanctification are: assurance of God's love, peace of conscience,",
 					"references": [
 						"Romans 5:1-2", "Romans 5:5"
 					]
@@ -1246,7 +1255,7 @@
 					]
 				},
                 {
-					"text": " Their bodies, still united to Christ,",
+					"text": " Their bodies, being still united to Christ,",
 					"references": [
 						"1 Thessalonians 4:14"
 					]
@@ -1324,7 +1333,7 @@
 			"question": "What shall be done to the wicked on the day of judgment?",
 			"answer": [
                 {
-					"text": "On the day of judgment, the bodies of the wicked, being raised out of their graves, shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels for ever.",
+					"text": "On the day of judgment, the bodies of the wicked—being raised out of their graves—shall be sentenced, together with their souls, to unspeakable torments with the devil and his angels forever.",
 					"references": [
 						"John 5:28-29", "Matthew 25:41", "Matthew 25:46", "2 Thessalonians 1:8-9"
 					]
@@ -1369,10 +1378,10 @@
 			"originalAnswer": "The rule which God at first revealed to man for his obedience, was the moral law."
 		},
 		"46": {
-			"question": "Where is the moral law summarized?",
+			"question": "Where is the moral law readily understood?",
 			"answer": [
                 {
-					"text": "The moral law is summarized in the Ten Commandments.",
+					"text": "The moral law is readily understood in the Ten Commandments.",
 					"references": [
 						"Deuteronomy 10:4", "Matthew 19:17"
 					]
@@ -1388,7 +1397,7 @@
 			"question": "What is the sum of the ten commandments?",
 			"answer": [
                 {
-					"text": "The sum of the Ten Commandments is to love the Lord our God with all our heart, soul, mind, and strength; and to love our neighbor as ourselves.",
+					"text": "The sum of the Ten Commandments is: love the Lord our God with all our heart, soul, mind, and strength; and our neighbor as ourselves.",
 					"references": [
 						"Matthew 22:37-40"
 					]
@@ -1420,7 +1429,7 @@
 			"question": "What does the preface to the Ten Commandments teach us?",
 			"answer": [
                 {
-					"text": "The preface to the Ten Commandments teaches us that because God is the Lord, and our God and Redeemer, we are therefore bound to keep all His commandments.",
+					"text": "The preface to the Ten Commandments teaches us that because God is the Lord—and our God and Redeemer—we are therefore bound to keep all His commandments.",
 					"references": [
 						"Luke 1:74-75", "1 Peter 1:15-19"
 					]
@@ -1452,7 +1461,7 @@
 			"question": "What is required in the first commandment?",
 			"answer": [
 				{
-					"text": "The first commandment requires us to know and acknowledge God as the only true God and our God,",
+					"text": "The first commandment requires us to know and acknowledge God to be the only true God and our God,",
 					"references": [
 						"1 Chronicles 28:9", "Deuteronomy 26:17"
 					]
@@ -1492,7 +1501,7 @@
 					]
 				},
                 {
-					"text": " and giving the worship and glory to any other which is due unto Him alone.",
+					"text": " and giving the worship and glory to any other that is due unto Him alone.",
 					"references": [
 						"Romans 1:25-26"
 					]
@@ -1556,13 +1565,13 @@
 			"question": "What is forbidden in the second commandment?",
 			"answer": [
                 {
-					"text": "The second commandment forbids worshiping God through images",
+					"text": "The second commandment forbids the worshiping of God through images",
 					"references": [
 						"Deuteronomy 4:15-19", "Exodus 32:5", "Exodus 32:8"
 					]
 				},
                 {
-					"text": " or in any way not appointed in His word.",
+					"text": " or any other way not appointed in His Word.",
 					"references": [
 						"Deuteronomy 12:31-32"
 					]
@@ -1578,19 +1587,19 @@
 			"question": "What are the reasons attached to the second commandment?",
 			"answer": [
                 {
-					"text": "The reasons attached to the second commandment are God's sovereignty over us,",
+					"text": "The reasons attached to the second commandment are: God's sovereignty over us,",
 					"references": [
 						"Psalm 45:2-3", "Psalm 45:6"
 					]
 				},
                 {
-					"text": " His ownership of us,",
+					"text": " His respectability in us,",
 					"references": [
 						"Psalm 45:11"
 					]
 				},
                 {
-					"text": " and His zeal for His own worship.",
+					"text": " and the zeal He has toward His own worship.",
 					"references": [
 						"Exodus 34:13-14"
 					]
@@ -1684,7 +1693,7 @@
 			"question": "What is the reason attached to the third commandment?",
 			"answer": [
                 {
-					"text": "The reason attached to the third commandment is that, although those who break it may escape punishment from men, the Lord our God will not allow them to escape His righteous judgment.",
+					"text": "The reason attached to the third commandment is this: the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape His righteous judgment.",
 					"references": [
 						"1 Samuel 2:12", "1 Samuel 2:17", "1 Samuel 2:22", "1 Samuel 2:29", "1 Samuel 3:13", "Deuteronomy 28:58-59"
 					]
@@ -1716,7 +1725,7 @@
 			"question": "What is required in the fourth commandment?",
 			"answer": [
                 {
-					"text": "The fourth commandment requires setting apart one whole day in seven as a holy Sabbath dedicated to God.",
+					"text": "The fourth commandment requires keeping holy to God one whole day in seven to be a holy Sabbath to Himself.",
 					"references": [
 						"Exodus 20:8-11", "Deuteronomy 5:12-14"
 					]
@@ -1732,13 +1741,13 @@
 			"question": "Which day of the seven has God appointed to be the weekly Sabbath?",
 			"answer": [
                 {
-					"text": "Before Christ's resurrection, God appointed the seventh day of the week as the weekly Sabbath.",
+					"text": "Before the resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath;",
 					"references": [
 						"Exodus 20:8-11; Deuteronomy 5:12-14"
 					]
 				},
                 {
-					"text": " Since then, the first day of the week is the Christian Sabbath and shall be until the end of the world.",
+					"text": " the first day of the week ever since, to continue to the end of the world, which is the Christian Sabbath.",
 					"references": [
 						"Psalm 118:24", "Matthew 28:1", "Mark 2:27-28", "John 20:19-20", "John 20:26", "Revelation 1:10", "Mark 16:2", "Luke 24:1", "Luke 24:30-36", "John 20:1", "Acts 1:3", "Acts 2:1-2", "Acts 20:7", "1 Corinthians 16:1-2"
 					]
@@ -1751,28 +1760,28 @@
 			"originalAnswer": "Before the resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath; 1 and the first day of the week ever since, to continue to the end of the world, which is the Christian Sabbath. 2"
 		},
 		"65": {
-			"question": "How is the Sabbath to be set apart?",
+			"question": "How is the Sabbath to be sanctified?",
 			"answer": [
                 {
-					"text": "The Sabbath is to be set apart by a holy resting the entire day,",
+					"text": "The Sabbath is to be sanctified by a holy resting all that day—",
 					"references": [
 						"Exodus 20:8", "Exodus 20:10"
 					]
 				},
                 {
-					"text": " even from worldly work and recreation lawful on other days;",
+					"text": " even from worldly employments and recreation lawful on other days—",
 					"references": [
 						"Exodus 16:25-28; Nehemiah 13:15-22"
 					]
 				},
                 {
-					"text": " the whole time is to be spent in public and private worship of God,",
+					"text": " spending the whole time in the public and private exercises of God's worship,",
 					"references": [
 						"Luke 4:16", "Acts 20:7", "Psalm 92 (Hebrew Title)", "Isaiah 66:23"
 					]
 				},
                 {
-					"text": " except for works of necessity and mercy.",
+					"text": " except for what is to be taken up in the work of necessity and mercy.",
 					"references": [
 						"Matthew 12:1-13"
 					]
@@ -1788,25 +1797,25 @@
 			"question": "What is forbidden in the fourth commandment?",
 			"answer": [
                 {
-					"text": "The fourth commandment forbids neglecting or carelessly performing the required duties,",
+					"text": "The fourth commandment forbids the omission or careless performance of the duties required;",
 					"references": [
 						"Ezekiel 22:26", "Amos 8:5", "Malachi 1:13"
 					]
 				},
                 {
-					"text": " profaning the day through idleness",
+					"text": " profaning the day by idleness,",
 					"references": [
 						"Acts 20:7", "Acts 20:9"
 					]
 				},
                 {
-					"text": " or engaging in sinful activities,",
+					"text": " or doing that which is in itself sinful,",
 					"references": [
 						"Ezekiel 23:38"
 					]
 				},
                 {
-					"text": " and having unnecessary thoughts, words, or actions concerning worldly work or recreation.",
+					"text": " or by unnecessary thoughts, words, or works about worldly employments or recreation.",
 					"references": [
 						"Jeremiah 17:24-27", "Isaiah 58:13"
 					]
@@ -1822,13 +1831,13 @@
 			"question": "What are the reasons attached to the fourth commandment?",
 			"answer": [
                 {
-					"text": "The reasons attached to the fourth commandment are: God allowing us six days for our own lawful work,",
+					"text": "The reasons attached to the fourth commandment are: God's allowing us six days of the week for our own lawful employments,",
 					"references": [
 						"Exodus 20:9"
 					]
 				},
                 {
-					"text": " His claim to the seventh day as His own, His own example of resting, and His blessing of the Sabbath day.",
+					"text": " His challenging a special respectability in a seventh day, His own example of resting, and His blessing of the Sabbath day.",
 					"references": [
 						"Exodus 20:11"
 					]
@@ -1860,7 +1869,7 @@
 			"question": "What is required in the fifth commandment?",
 			"answer": [
                 {
-					"text": "The fifth commandment requires maintaining honor and fulfilling the duties appropriate to everyone in their various roles and relationships, whether as superiors,",
+					"text": "The fifth commandment requires preserving the honor and performing the duties belonging to everyone in their various roles and relationships, whether as superiors,",
 					"references": [
 						"Ephesians 5:21"
 					]
@@ -1888,7 +1897,7 @@
 			"question": "What is forbidden in the fifth commandment?",
 			"answer": [
                 {
-					"text": "The fifth commandment forbids neglecting or acting against the honor and duty owed to everyone in their respective roles and relationships.",
+					"text": "The fifth commandment forbids neglecting or acting against the honor and duty that belong to everyone in their various places and relationships.",
 					"references": [
 						"Matthew 15:4-6", "Ezekiel 34:24", "Romans 13:8"
 					]
@@ -1936,7 +1945,7 @@
 			"question": "What is required in the sixth commandment?",
 			"answer": [
                 {
-					"text": "The sixth commandment requires making every lawful effort to preserve both our own life",
+					"text": "The sixth commandment requires all lawful endeavors to preserve both our own life",
 					"references": [
 						"Ephesians 5:28-29"
 					]
@@ -1958,7 +1967,7 @@
 			"question": "What is forbidden in the sixth commandment?",
 			"answer": [
                 {
-					"text": "The sixth commandment forbids taking our own life or the life of anyone unjustly, or anything that leads to such actions.",
+					"text": "The sixth commandment absolutely forbids taking our own life or the life of our neighbor unjustly, or whatsoever leads to such acts.",
 					"references": [
 						"Acts 26:28", "Genesis 9:9"
 					]
@@ -1990,7 +1999,7 @@
 			"question": "What is required in the seventh commandment?",
 			"answer": [
                 {
-					"text": "The seventh commandment requires us to preserve our purity and that of others: in heart, speech, and behavior.",
+					"text": "The seventh commandment requires the preservation of our own and our neighbor's purity in heart, speech, and behavior.",
 					"references": [
 						"1 Corinthians 7:2-3", "1 Corinthians 7:5", "1 Corinthians 7:34", "1 Corinthians 7:36", "Colossians 4:6", "1 Peter 3:2"
 					]
@@ -2038,7 +2047,7 @@
 			"question": "What is required in the eighth commandment?",
 			"answer": [
                 {
-					"text": "The eighth commandment requires us to lawfully pursue and promote the material prosperity and well-being of ourselves and others.",
+					"text": "The eighth commandment requires the lawful procuring and furthering of the wealth and well-being of ourselves and others.",
 					"references": [
 						"Genesis 30:30", "1 Timothy 5:8", "Leviticus 25:35", "Deuteronomy 22:1-5", "Exodus 23:4-5", "Genesis 47:14", "Genesis 47:20"
 					]
@@ -2054,13 +2063,13 @@
 			"question": "What is forbidden in the eighth commandment?",
 			"answer": [
                 {
-					"text": "The eighth commandment forbids anything that unjustly hinders our own",
+					"text": "The eighth commandment forbids whatsoever does or might unjustly hinder our own",
 					"references": [
 						"1 Timothy 5:8; Proverbs 28:19"
 					]
 				},
                 {
-					"text": " or our neighbor's wealth or material well-being.",
+					"text": " or our neighbor's wealth or well-being.",
 					"references": [
 						"Proverbs 21:17, 23:20-21; Ephesians 4:28"
 					]
@@ -2092,19 +2101,19 @@
 			"question": "What is required in the ninth commandment?",
 			"answer": [
                 {
-					"text": "The ninth commandment requires us to maintain and promote truth among people,",
+					"text": "The ninth commandment requires the maintaining and promoting of truth among men,",
 					"references": [
 						"Zechariah 8:16"
 					]
 				},
                 {
-					"text": " and our own and our neighbor's good reputation,",
+					"text": " and of our own and our neighbor's reputation—",
 					"references": [
 						"John 5:12"
 					]
 				},
                 {
-					"text": " especially when giving testimony.",
+					"text": "especially in bearing witness.",
 					"references": [
 						"Proverbs 14:5", "Proverbs 14:25"
 					]
@@ -2120,7 +2129,7 @@
 			"question": "What is forbidden in the ninth commandment?",
 			"answer": [
                 {
-					"text": "The ninth commandment forbids anything that harms the truth, or damages our own or our neighbor's reputation.",
+					"text": "The ninth commandment forbids whatsoever harms the truth, or damages our own or our neighbor's reputation.",
 					"references": [
 						"1 Samuel 17:28", "Leviticus 19:16", "Psalm 15:2-3"
 					]
@@ -2130,7 +2139,7 @@
 				"Ten Commandments, The"
 			],
 			"originalQuestion": "What is forbidden in the ninth commandment?",
-			"originalAnswer": "The ninth commandment forbiddeth whatsoever is prejudicial to the truth, or injurious to our own or our neighbour’s good name."
+			"originalAnswer": "The ninth commandment forbiddeth whatsoever is prejudicial to the truth, or injurious to our own or our neighbour's good name."
 		},
 		"84": {
 			"question": "What is the tenth commandment?",
@@ -2152,13 +2161,13 @@
 			"question": "What is required in the tenth commandment?",
 			"answer": [
                 {
-					"text": "The tenth commandment requires us to be fully content with our own situation,",
+					"text": "The tenth commandment requires full contentment with our own condition,",
 					"references": [
 						"Hebrews 13:5", "1 Timothy 6:6"
 					]
 				},
                 {
-					"text": " and to have a right and charitable attitude toward our neighbors and everything that belongs to them.",
+					"text": " having a right and charitable attitude toward our neighbor and all that is his.",
 					"references": [
 						"Job 31:29", "Romans 7:15", "1 Timothy 1:5", "1 Corinthians 8:4", "1 Corinthians 8:7"
 					]
@@ -2174,19 +2183,19 @@
 			"question": "What is forbidden in the tenth commandment?",
 			"answer": [
                 {
-					"text": "The tenth commandment forbids all discontent with our own situation,",
+					"text": "The tenth commandment forbids all discontentment with our own estate,",
 					"references": [
 						"1 Kings 21:4", "Esther 5:13", "1 Corinthians 10:10"
 					]
 				},
                 {
-					"text": " envying or resenting the prosperity of our neighbors,",
+					"text": " envying or grieving at the good of our neighbor,",
 					"references": [
 						"Galatians 5:26", "James 3:14", "James 3:16"
 					]
 				},
                 {
-					"text": " and any undue desires or feelings toward anything belonging to them.",
+					"text": " and any undue desires or affections toward anything that is his.",
 					"references": [
 						"Romans 7:7-8", "Romans 13:9", "Deuteronomy 5:21"
 					]
@@ -2221,10 +2230,10 @@
 			"originalAnswer": "No mere man since the fall is able in this life perfectly to keep the commandments of God, 1 but doth daily break them in thought, word, or deed. 2"
 		},
 		"88": {
-			"question": "Are all transgressions of the law equally serious?",
+			"question": "Are all transgressions of the law equally wicked?",
 			"answer": [
                 {
-					"text": "Some sins, by their nature and because of their consequences, are more serious in God's eyes than others.",
+					"text": "Some sins, in themselves and by reason of their consequences, are more wicked in the sight of God than others.",
 					"references": [
 						"Ezekiel 8:6", "Ezekiel 8:13", "Ezekiel 8:15", "1 John 5:16", "Psalm 78:17", "Psalm 78:32", "Psalm 78:56"
 					]
@@ -2253,16 +2262,16 @@
 			"originalAnswer": "Every sin deserveth God's wrath and curse, both in this life and that which is to come."
 		},
 		"90": {
-			"question": "What does God require of us to escape His wrath and curse that we deserve for sin?",
+			"question": "What does God require of us that we may escape His wrath and curse due to us for sin?",
 			"answer": [
                 {
-					"text": "To escape God's wrath and curse for sin, He requires us to have faith in Jesus Christ, to repent unto life,",
+					"text": "To escape the wrath and curse of God due to us for sin, He requires of us faith in Jesus Christ and repentance unto life,",
 					"references": [
 						"Acts 20:21"
 					]
 				},
                 {
-					"text": " and to diligently use all outward means by which Christ communicates the benefits of redemption to us.",
+					"text": " with the diligent use of all the outward means by which Christ communicates to us the benefits of redemption.",
 					"references": [
 						"Proverbs 2:1-6", "Proverbs 8:33-36", "Isaiah 55:2-3"
 					]
@@ -2278,13 +2287,13 @@
 			"question": "What is faith in Jesus Christ?",
 			"answer": [
                 {
-					"text": "Faith in Jesus Christ is a saving grace,",
+					"text": "Faith in Jesus Christ is a saving grace",
 					"references": [
 						"Hebrews 10:39"
 					]
 				},
                 {
-					"text": " through which we receive and rely on Him alone for salvation, as He is offered to us in the gospel.",
+					"text": " by which we receive and rest upon Him alone for salvation, as He is offered to us in the gospel.",
 					"references": [
 						"John 1:12", "Isaiah 26:3-4", "Philippians 3:9", "Galatians 2:16"
 					]
@@ -2306,25 +2315,25 @@
 					]
 				},
                 {
-					"text": " in which a sinner, out of a true sense of personal sin",
+					"text": " by which a sinner, out of a true sense of his sin",
 					"references": [
 						"Acts 2:37-38"
 					]
 				},
                 {
-					"text": " and understanding God's mercy in Christ,",
+					"text": " and understanding of the mercy of God in Christ,",
 					"references": [
 						"Joel 2:12", "Jeremiah 3:22"
 					]
 				},
                 {
-					"text": " turns away from sin with genuine sorrow and hatred of it, and turns to God",
+					"text": " does, with grief and hatred of his sin, turn from it unto God",
 					"references": [
 						"Jeremiah 31:18-19", "Ezekiel 36:31"
 					]
 				},
                 {
-					"text": " with a sincere commitment to pursue new obedience.",
+					"text": " with complete commitment to pursue new obedience.",
 					"references": [
 						"2 Corinthians 7:11", "Isaiah 1:16-17"
 					]
@@ -2337,10 +2346,10 @@
 			"originalAnswer": "Repentance unto life is a saving grace, 1 whereby a sinner, out of a true sense of his sin, 2 and apprehension of the mercy of God in Christ, 3 doth, with grief and hatred of his sin, turn from it unto God, 4 with full purpose of and endeavour after new obedience. 5"
 		},
 		"93": {
-			"question": "What are the outward means by which Christ communicates the benefits of redemption to us?",
+			"question": "What are the outward means by which Christ communicates to us the benefits of redemption?",
 			"answer": [
                 {
-					"text": "The outward and ordinary means by which Christ communicates the benefits of redemption to us are his ordinances, particularly the Word, baptism, the Lord's Supper, and prayer; all of which are made effective for the salvation of the elect.",
+					"text": "The outward and ordinary means by which Christ communicates to us the benefits of redemption are his ordinances, especially the Word, baptism, the Lord's Supper, and prayer; all of which are made effectual to the elect for salvation.",
 					"references": [
 						"Matthew 28:19-20", "Acts 2:42", "Acts 2:46-47"
 					]
@@ -2353,10 +2362,10 @@
 			"originalAnswer": "The outward and ordinary means whereby Christ communicateth to us the benefits of redemption are his ordinances, especially the word, baptism, the Lord's supper, and prayer; all which means are made effectual to the elect for salvation."
 		},
 		"94": {
-			"question": "How is the Word made effective unto salvation?",
+			"question": "How is the Word made effectual unto salvation?",
 			"answer": [
                 {
-					"text": "The Holy Spirit makes the reading, and especially the preaching of the Word, an effective means of convincing and converting sinners, and of building them up in holiness and comfort through faith unto salvation.",
+					"text": "The Holy Spirit makes the reading, but especially the preaching, of the Word an effectual means of convincing and converting sinners, and of building them up in holiness and comfort through faith unto salvation.",
 					"references": [
 						"Nehemiah 8:8", "Acts 26:18", "Psalm 19:8", "Acts 20:32", "Romans 1:15-16", "Romans 10:13-17", "Romans 15:4", "1 Corinthians 14:24-25", "2 Timothy 3:15-17"
 					]
@@ -2369,10 +2378,10 @@
 			"originalAnswer": "The Spirit of God maketh the reading, but especially the preaching of the word, an effectual means of convincing and converting sinners, and of building them up in holiness and comfort through faith unto salvation."
 		},
 		"95": {
-			"question": "How should the Word be read and heard in order to become effective for salvation?",
+			"question": "How is the Word to be read and heard that it may become effectual unto salvation?",
 			"answer": [
                 {
-					"text": "For the Word to become effective for salvation, we must approach it with diligence,",
+					"text": "That the Word may become effectual unto salvation, we must approach it with diligence,",
 					"references": [
 						"Proverbs 8:34"
 					]
@@ -2402,7 +2411,7 @@
 					]
 				},
                 {
-					"text": " and put it into practice in our lives.",
+					"text": " and practice it in our lives.",
 					"references": [
 						"Luke 8:15; James 1:25"
 					]
@@ -2415,16 +2424,16 @@
 			"originalAnswer": "That the word may become effectual to salvation, we must attend thereunto with diligence, 1 preparation, 2 and prayer; 3 receive it with faith and love, 4 lay it up in our hearts, 5 and practice it in our lives. 6"
 		},
 		"96": {
-			"question": "How do baptism and the Lord's Supper become effective means of salvation?",
+			"question": "How do baptism and the Lord's Supper become effectual means of salvation?",
 			"answer": [
                 {
-					"text": "Baptism and the Lord's Supper become effective means of salvation, not because of any power in them or in the one who administers them, but through the blessing of Christ",
+					"text": "Baptism and the Lord's Supper become effectual means of salvation, not because of any virtue in them or in him who administers them, but only by the blessing of Christ",
 					"references": [
 						"1 Peter 3:21", "Matthew 3:11", "1 Corinthians 3:6-7"
 					]
 				},
                 {
-					"text": " and the work of the Holy Spirit in those who receive them by faith.",
+					"text": " and the working of the Holy Spirit in those who by faith receive them.",
 					"references": [
 						"1 Corinthians 12:3; Matthew 28:19"
 					]
@@ -2440,19 +2449,19 @@
 			"question": "What is baptism?",
 			"answer": [
                 {
-					"text": "Baptism is an ordinance of the New Testament instituted by Jesus Christ, serving as a sign for the baptized person of union with Him in His death, burial, and resurrection; of being grafted into Him;",
+					"text": "Baptism is an ordinance of the New Testament instituted by Jesus Christ, to be unto the person baptized a sign of His fellowship with him, in His death, burial, and resurrection; of his being ingrafted into Christ;",
 					"references": [
 						"Romans 6:3-5", "Colossians 2:12", "Galatians 3:27"
 					]
 				},
                 {
-					"text": " of the remission of sins;",
+					"text": " of remission of sins;",
 					"references": [
 						"Mark 1:4", "Acts 2:38", "Acts 22:16"
 					]
 				},
                 {
-					"text": " and of giving up oneself to God through Jesus Christ, to live and walk in newness of life.",
+					"text": " and of his giving up himself unto God through Jesus Christ, to live and walk in newness of life.",
 					"references": [
 						"Romans 6:3-4"
 					]
@@ -2468,13 +2477,13 @@
 			"question": "To whom is baptism to be administered?",
 			"answer": [
                 {
-					"text": "Baptism is to be administered to all those who profess repentance toward God,",
+					"text": "Baptism is to be administered to all those who actually profess: repentance toward God;",
 					"references": [
 						"Acts 2:38", "Matthew 3:6"
 					]
 				},
                 {
-					"text": " faith in, and obedience to our Lord Jesus Christ, and to no one else.",
+					"text": " faith in, and obedience to, our Lord Jesus Christ and to none other.",
 					"references": [
 						"Acts 8:12", "Acts 8:36-38", "Acts 10:47-48"
 					]
@@ -2487,10 +2496,10 @@
 			"originalAnswer": "Baptism is to be administered to all those who actually profess repentance towards God, 1 faith in and obedience to our Lord Jesus Christ, and to none other. 2"
 		},
 		"99": {
-			"question": "Should the infants of professing believers be baptized?",
+			"question": "Are the infants of such as are professing believers to be baptized?",
 			"answer": [
                 {
-					"text": "The infants of professing believers should not be baptized, as there is no command, example, or necessary implication from Scripture to support baptizing them.",
+					"text": "The infants of such as are professing believers are not to be baptized because there is neither command nor example in the Holy Scriptures, or certain consequence from them, to baptize such.",
 					"references": [
 						"Proverbs 30:6", "Luke 3:7-8"
 					]
@@ -2503,10 +2512,10 @@
 			"originalAnswer": "The infants of such as are professing believers are not to be baptized, because there is neither command or example in the holy scriptures, or certain consequence from them to baptize such."
 		},
 		"100": {
-			"question": "How is Baptism properly administered?",
+			"question": "How is Baptism rightly administered?",
 			"answer": [
                 {
-					"text": "Baptism is properly administered by immersing the entire body of the person in water, in the name of the Father, the Son, and the Holy Spirit, as Christ instituted and the apostles practiced. It is not to be done by sprinkling or pouring water, or by dipping in water some part of the body, as those are traditions of men.",
+					"text": "Baptism is rightly administered by immersion, or dipping the whole body of the person in water, in the name of the Father, the Son, and the Holy Spirit, according to Christ's institution and the practice of the apostles. It is not to be by sprinkling or pouring of water, or dipping some part of the body after the tradition of men.",
 					"references": [
 						"Matthew 3:16", "John 3:23", "4:1-2", "Matthew 28:19-20", "Acts 8:38", "Romans 6:4", "Colossians 2:12"
 					]
@@ -2519,10 +2528,10 @@
 			"originalAnswer": "Baptism is rightly administered by immersion, or dipping the whole body of the party in water, into the name of the Father, and of the Son, and of the Holy Spirit, according to Christ's institution, and the practice of the apostles, and not by sprinkling or pouring of water, or dipping some part of the body, after the tradition of men."
 		},
 		"101": {
-			"question": "What is the responsibility of those who are properly baptized?",
+			"question": "What is the duty of such who are rightly baptized?",
 			"answer": [
                 {
-					"text": "Those who are properly baptized have the responsibility to commit themselves to a specific and orderly church of Jesus Christ, so that they may live blamelessly according to all the commandments and ordinances of the Lord.",
+					"text": "It is the duty of such who are rightly baptized to give up themselves to a local, orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blamelessly.",
 					"references": [
 						"Acts 2:41-42", "Acts 5:13-14", "Acts 9:26", "1 Peter 2:5", "Luke 1:6"
 					]
@@ -2538,7 +2547,7 @@
 			"question": "What is the Lord's supper?",
 			"answer": [
                 {
-					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ; by the giving and receiving of bread and wine as He instructed, Christ's death is remembered. Those who faithfully receive this meal do so not in a physical or carnal sense, but spiritually, partaking of His body and blood with all His benefits, to their spiritual nourishment and growth in grace.",
+					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ; by which in giving and receiving bread and wine according to his appointment, Christ's death is shown forth. The worthy receivers are, not in a physical or carnal manner, but by faith, made partakers of His body and blood, with all His benefits, to their spiritual nourishment and growth in grace.",
 					"references": [
 						"Matthew 26:26-28", "1 Corinthians 11:23-26", "1 Corinthians 10:16"
 					]
@@ -2551,10 +2560,10 @@
 			"originalAnswer": "The Lord's supper is an ordinance of the New Testament, instituted by Jesus Christ; wherein by giving and receiving bread and wine, according to his appointment, his death is shown forth, and the worthy receivers are, not after a corporal and carnal manner, but by faith, made partakers of his body and blood, with all his benefits, to their spiritual nourishment and growth in grace."
 		},
 		"103": {
-			"question": "Who should partake of the Lord's Supper?",
+			"question": "Who are the proper partakers of the Lord's Supper?",
 			"answer": [
                 {
-					"text": "Partakers of the Lord's Supper are those who have been baptized based on their personal profession of faith in Jesus Christ and repentance from sin.",
+					"text": "They who have been baptized upon a personal profession of their faith in Jesus Christ, and upon repentance from dead works.",
 					"references": [
 						"Acts 2:41-42"
 					]
@@ -2567,16 +2576,16 @@
 			"originalAnswer": "They who have been baptized upon a personal profession of their faith in Jesus Christ, and repentance from dead works."
 		},
 		"104": {
-			"question": "What is required to partake of the Lord's Supper in a worthy manner?",
+			"question": "What is required for the worthy receiving of the Lord's Supper?",
 			"answer": [
                 {
-					"text": "Those who would partake of the Lord's Supper in a worthy manner must examine themselves regarding their understanding of the Lord's body,",
+					"text": "It is required of them who would worthily partake of the Lord's Supper examine themselves of: their knowledge to discern the Lord's body;",
 					"references": [
 						"1 Corinthians 11:28-29"
 					]
 				},
                 {
-					"text": " their faith to feed on Him,",
+					"text": " their faith to feed upon Him;",
 					"references": [
 						"2 Corinthians 13:5"
 					]
@@ -2594,13 +2603,13 @@
 					]
 				},
                 {
-					"text": " and new obedience.",
+					"text": " and new obedience—",
 					"references": [
 						"1 Corinthians 5:7-8"
 					]
 				},
                 {
-					"text": " They who partake unworthily eat and drink judgment upon themselves.",
+					"text": " lest coming unworthily they eat and drink judgment upon themselves.",
 					"references": [
 						"1 Corinthians 11:28-29"
 					]
@@ -2616,43 +2625,43 @@
 			"question": "What is prayer?",
 			"answer": [
                 {
-					"text": "Prayer is the act of offering up our desires to God,",
+					"text": "Prayer is the act of: offering up our desires to God,",
 					"references": [
 						"Psalm 62:8"
 					]
 				},
                 {
-					"text": " helped by the Holy Spirit,",
+					"text": " by the assistance of the Holy Spirit,",
 					"references": [
 						"Romans 8:26"
 					]
 				},
                 {
-					"text": " for things acceptable to His will.",
+					"text": " for things acceptable to His will;",
 					"references": [
 						"1 John 5:14", "Romans 8:27"
 					]
 				},
                 {
-					"text": " We do so in the name of Christ",
+					"text": " done in the name of Christ,",
 					"references": [
 						"John 16:23"
 					]
 				},
                 {
-					"text": " with faith,",
+					"text": " believing,",
 					"references": [
 						"Matthew 21:22", "James 1:6"
 					]
 				},
                 {
-					"text": " confession of our sins,",
+					"text": " with confession of our sins,",
 					"references": [
 						"Psalm 32:5-6", "Daniel 9:4"
 					]
 				},
                 {
-					"text": " and thankfulness for His mercies.",
+					"text": " and thankful acknowledgments of His mercies.",
 					"references": [
 						"Philippians 4:6"
 					]
@@ -2665,16 +2674,16 @@
 			"originalAnswer": "Prayer is an offering up our desires to God, 1 by the assistance of the Holy Spirit, 2 for things agreeable to his will, 3 in the name of Christ, 4 believing, 5 with confession of our sins, 6 and thankful acknowledgments of his mercies. 7"
 		},
 		"106": {
-			"question": "What guide has God provided for our direction in prayer?",
+			"question": "What guide has God given for our direction in prayer?",
 			"answer": [
                 {
-					"text": "The whole Word of God guides us in prayer,",
+					"text": "The whole Word of God is of use to direct us in prayer,",
 					"references": [
 						"1 John 5:14"
 					]
 				},
                 {
-					"text": " but the specific direction is the prayer that Christ taught His disciples, commonly known as the Lord's Prayer.",
+					"text": " but the special guide for direction is the prayer that Christ taught His disciples, commonly known as the Lord's Prayer.",
 					"references": [
 						"Matthew 6:9-13", "Luke 11:2-4"
 					]
@@ -2696,13 +2705,13 @@
 					]
 				},
                 {
-					"text": "teaches us to approach God with holy reverence and confidence, like children to a father who is able and ready to help us.",
+					"text": "teaches us to draw near to God with all holy reverence and confidence, as children to a father who is able and ready to help us;",
 					"references": [
 						"Romans 8:15", "Luke 11:13", "Isaiah 24:8"
 					]
 				},
                 {
-					"text": " It also instructs us to pray with and for others.",
+					"text": " and that we should pray with and for others.",
 					"references": [
 						"Acts 12:5", "1 Timothy 2:1-2"
 					]
@@ -2724,7 +2733,7 @@
 					]
 				},
                 {
-					"text": " we pray that God would enable us and others to glorify Him in everything by which He makes Himself known,",
+					"text": " we pray that God would enable us and others to glorify Him in all by which He makes Himself known,",
 					"references": [
 						"Psalm 67:2-3"
 					]
@@ -2752,19 +2761,19 @@
 					]
 				},
                 {
-					"text": " we pray that Satan's kingdom may be destroyed,",
+					"text": " we pray: that Satan's kingdom may be destroyed,",
 					"references": [
 						"Psalm 68:1", "Psalm 68:18"
 					]
 				},
                 {
-					"text": " that the kingdom of grace may grow,",
+					"text": " that the kingdom of grace may advance;",
 					"references": [
 						"Revelation 12:10-11"
 					]
 				},
                 {
-					"text": " that we and others are brought into and remain in it,",
+					"text": " that ourselves and others are brought into and kept in it,",
 					"references": [
 						"2 Thessalonians 3:1", "Romans 10:1", "John 17:19-20"
 					]
@@ -2792,7 +2801,7 @@
 					]
 				},
                 {
-					"text": " we pray that God, by his grace, would make us willing and able to know, obey, and submit to his will in all things,",
+					"text": " we pray that God, by His grace, would make us willing and able to know, obey, and submit to His will in all things,",
 					"references": [
 						"Psalm 67:1-6", "Psalm 119:36", "2 Samuel 15:25", "Job 1:21"
 					]
@@ -2820,7 +2829,7 @@
 					]
 				},
                 {
-					"text": " we pray that by God's free gift, we may receive a sufficient portion of the good things of this life and enjoy His blessing along with them.",
+					"text": " we pray that, by God's free gift, we may receive a sufficient portion of the good things of this life, and enjoy His blessing with them.",
 					"references": [
 						"Proverbs 30:8", "Genesis 28:20", "1 Timothy 4:4-5"
 					]
@@ -2848,7 +2857,7 @@
 					]
 				},
                 {
-					"text": " We are encouraged to ask this because, by His grace, we are enabled to forgive others from the heart.",
+					"text": " We are rather encouraged to ask this, because by His grace we are enabled from the heart to forgive others.",
 					"references": [
 						"Luke 11:4", "Matthew 18:35"
 					]
@@ -2904,13 +2913,13 @@
 					]
 				},
                 {
-					"text": " and in our prayers to praise Him, acknowledging His kingdom, power, and glory.",
+					"text": " and in our prayers to praise Him: ascribing kingdom, power, and glory to Him.",
 					"references": [
 						"1 Chronicles 29:10-13"
 					]
 				},
                 {
-					"text": " By saying \"Amen,\" we express our desire and assurance that our prayers are heard.",
+					"text": " In testimony of our desire and assurance to be heard, we say, \"Amen.\"",
 					"references": [
 						"1 Corinthians 4:16", "Revelation 22:20-21"
 					]
