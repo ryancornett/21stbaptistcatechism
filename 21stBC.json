@@ -394,10 +394,10 @@
 			"originalAnswer": "All men are not only permitted, but commanded and exhorted to read, hear, and understand the holy scriptures."
 		},
 		"6": {
-			"question": "What are the main subjects of the Holy Scriptures?",
+			"question": "What are the primary contents of the Holy Scriptures?",
 			"answer": [
 				{
-					"text": "The main subjects of the Holy Scriptures are: what man ought to believe concerning God, and what duty God requires of man.",
+					"text": "The primary contents of the Holy Scriptures are what man ought to believe concerning God and what duty God requires of man.",
 					"references": [
 						"2 Timothy 1:13", "2 Timothy 3:15-16"
 					]
@@ -413,19 +413,19 @@
 			"question": "What is God?",
 			"answer": [
 				{
-					"text": "God is: a Spirit,",
+					"text": "God is a Spirit;",
 					"references": [
 						"John 4:24"
 					]
 				},
 				{
-					"text": "infinite,",
+					"text": "infinite;",
 					"references": [
 						"Job 11:7-9"
 					]
 				},
 				{
-					"text": "eternal,",
+					"text": "eternal;",
 					"references": [
 						"Psalm 90:2"
 					]
@@ -493,7 +493,7 @@
 			"question": "How many persons are in the Godhead?",
 			"answer": [
 				{
-					"text": "There are three Persons in the Godhead: Father, Son, and Holy Spirit. These three are one God—the same in essence, equal in power and glory.",
+					"text": "There are three Persons in the Godhead: the Father, the Son, and the Holy Spirit. These three are one God—the same in essence, equal in power and glory.",
 					"references": [
 						"1 John 5:7", "Matthew 28:19"
 					]
@@ -541,7 +541,7 @@
 			"question": "What is the work of creation?",
 			"answer": [
 				{
-					"text": "The work of creation is God's making all things of nothing—by the word of His power—in the span of six days, and all was very good.",
+					"text": "The work of creation is God's making all things of nothing, by the word of His power, in the span of six days—and all was very good.",
 					"references": [
 						"Genesis 1", "Hebrews 11:3"
 					]
@@ -721,7 +721,7 @@
 			"question": "What is the misery of the state into which man fell?",
 			"answer": [
                 {
-					"text": "All mankind by their fall lost communion with God;",
+					"text": "All mankind by their fall: lost communion with God;",
 					"references": [
 						"Genesis 3:8", "Genesis 3:10", "Genesis 3:24"
 					]
@@ -985,7 +985,7 @@
 					]
 				},
                 {
-					"text": " ascending up into heaven",
+					"text": " ascending up into heaven;",
 					"references": [
 						"Mark 16:19"
 					]

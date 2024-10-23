@@ -37,20 +37,20 @@ const question13 = data.data["13"];
 Each value in the data object is constructed like so:
 ```
 "13": {
-    "question": "In what ways did God create mankind?",
-    "answer": [
-        {
-            "text": God created mankind male and female, in His image, with dominion over creatures and wholly different from them in knowledge, righteousness, and holiness.",
-            "references": [
-                "Genesis 1:26-28", "Colossians 3:10", "Ephesians 4:24"
-            ]
-        }
-    ],
-    "topics": [
-        "Humanity", "God"
-    ],
-    "originalQuestion": "How did God create man?",
-    "originalAnswer": "God created man, male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures.",
+        "question": "How did God create man?",
+        "answer": [
+            {
+                "text": "God created man: male and female; in His image; in knowledge, righteousness, and holiness; with dominion over creatures.",
+                "references": [
+                    "Genesis 1:26-28", "Colossians 3:10", "Ephesians 4:24"
+                ]
+            }
+        ],
+        "topics": [
+            "Humanity", "God"
+        ],
+        "originalQuestion": "How did God create man?",
+        "originalAnswer": "God created man, male and female, after his own image, in knowledge, righteousness, and holiness, with dominion over the creatures."
 }
 ```
 1. question (string)
@@ -62,4 +62,4 @@ Each value in the data object is constructed like so:
 5. originalAnswer (string) *The corresponding answer from the 1695 original*
 
 ### Question #65 Quirk
-In the third scripture reference array for the answer to #65, the proof is not from a verse but from the Psalm title supplied by ancien Hebrew editors. This is noted in that reference array as **"Psalm 92 (Hebrew Title)"**.
+In the third scripture reference array for the answer to #65, the proof is not from a verse but from the Psalm title supplied by ancient Hebrew editors. This is noted in that reference array as **"Psalm 92 (Hebrew Title)"**.
