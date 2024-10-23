@@ -297,10 +297,10 @@
 	
 	"data": {
 		"1": {
-			"question": "Who is the first and chief being?",
+			"question": "Who is the first and chiefest being?",
 			"answer": [
                 {
-                    "text": "God is the first and chief being.",
+                    "text": "God is the first and chiefest being.",
                     "references": [
                         "Isaiah 44:6", "Isaiah 48:12", "Psalm 97:9"
                     ]
@@ -324,7 +324,7 @@
                     ]
                 },
                 {
-                    "text": "it is their great sin and foolishness who do not believe.",
+                    "text": "it is their great sin and folly who do not believe.",
                     "references": [
                         [
                             "Psalm 14:1"
@@ -397,7 +397,7 @@
 			"question": "What are the main subjects of the Holy Scriptures?",
 			"answer": [
 				{
-					"text": "The main subjects of the Holy Scriptures are what man ought to believe concerning God, and what duty God requires of man.",
+					"text": "The main subjects of the Holy Scriptures are: what man ought to believe concerning God, and what duty God requires of man.",
 					"references": [
 						"2 Timothy 1:13", "2 Timothy 3:15-16"
 					]
@@ -509,7 +509,7 @@
 			"question": "What are the decrees of God?",
 			"answer": [
 				{
-					"text": "The decrees of God are his eternal purpose according to the counsel of His will, by which, for His own glory, He has foreordained whatsoever comes to pass.",
+					"text": "The decrees of God are his eternal purpose according to the counsel of His will by which, for His own glory, He has foreordained whatsoever comes to pass.",
 					"references": [
 						"Ephesians 1:4", "Ephesians1:11", "Romans 9:22-23", "Isaiah 46:10", "Lamentations 3:37"
 					]
@@ -541,7 +541,7 @@
 			"question": "What is the work of creation?",
 			"answer": [
 				{
-					"text": "The work of creation is God's making all things of nothing, by the word of His power, in the span of six days, and all of it was very good.",
+					"text": "The work of creation is God's making all things of nothing—by the word of His power—in the span of six days, and all was very good.",
 					"references": [
 						"Genesis 1", "Hebrews 11:3"
 					]
@@ -749,13 +749,13 @@
 			"question": "Did God leave all mankind to perish in the state of sin and misery?",
 			"answer": [
                 {
-					"text": "God having, out of His mere good pleasure, from all eternity, elected some to everlasting life,",
+					"text": "God, having out of His mere good pleasure, from all eternity, elected some to everlasting life,",
 					"references": [
 						"Ephesians 1:4-5"
 					]
 				},
                 {
-					"text": " did enter into a covenant of grace to deliver them out of the state of sin and misery, and bring them into a state of salvation by a Redeemer.",
+					"text": " entered into a covenant of grace to deliver them out of the state of sin and misery and bring them into a state of salvation by a Redeemer.",
 					"references": [
 						"Romans 3:20-22; Galatians 3:21-22"
 					]
@@ -771,7 +771,7 @@
 			"question": "Who is the Redeemer of God's elect?",
 			"answer": [
                 {
-					"text": "The only Redeemer of God's elect is the Lord Jesus Christ,",
+					"text": "The only Redeemer of God's elect is the Lord Jesus Christ",
 					"references": [
 						"1 Timothy 2:5-6"
 					]
@@ -1593,7 +1593,7 @@
 					]
 				},
                 {
-					"text": " His respectability in us,",
+					"text": " His ownership of us,",
 					"references": [
 						"Psalm 45:11"
 					]
@@ -1693,7 +1693,7 @@
 			"question": "What is the reason attached to the third commandment?",
 			"answer": [
                 {
-					"text": "The reason attached to the third commandment is this: the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape His righteous judgment.",
+					"text": "The reason attached to the third commandment is thus: the breakers of this commandment may escape punishment from men, yet the Lord our God will not suffer them to escape His righteous judgment.",
 					"references": [
 						"1 Samuel 2:12", "1 Samuel 2:17", "1 Samuel 2:22", "1 Samuel 2:29", "1 Samuel 3:13", "Deuteronomy 28:58-59"
 					]
@@ -1725,7 +1725,7 @@
 			"question": "What is required in the fourth commandment?",
 			"answer": [
                 {
-					"text": "The fourth commandment requires keeping holy to God one whole day in seven to be a holy Sabbath to Himself.",
+					"text": "The fourth commandment requires keeping holy to God one whole day in seven to be a Sabbath to Himself.",
 					"references": [
 						"Exodus 20:8-11", "Deuteronomy 5:12-14"
 					]
@@ -1747,7 +1747,7 @@
 					]
 				},
                 {
-					"text": " the first day of the week ever since, to continue to the end of the world, which is the Christian Sabbath.",
+					"text": " ever since, the first day of the week is the Christian Sabbath—it shall be until the end of the world.",
 					"references": [
 						"Psalm 118:24", "Matthew 28:1", "Mark 2:27-28", "John 20:19-20", "John 20:26", "Revelation 1:10", "Mark 16:2", "Luke 24:1", "Luke 24:30-36", "John 20:1", "Acts 1:3", "Acts 2:1-2", "Acts 20:7", "1 Corinthians 16:1-2"
 					]
@@ -1763,19 +1763,19 @@
 			"question": "How is the Sabbath to be sanctified?",
 			"answer": [
                 {
-					"text": "The Sabbath is to be sanctified by a holy resting all that day—",
+					"text": "The Sabbath is to be sanctified by a holy resting all that day,",
 					"references": [
 						"Exodus 20:8", "Exodus 20:10"
 					]
 				},
                 {
-					"text": " even from worldly employments and recreation lawful on other days—",
+					"text": " even from worldly employments and recreation lawful on other days;",
 					"references": [
 						"Exodus 16:25-28; Nehemiah 13:15-22"
 					]
 				},
                 {
-					"text": " spending the whole time in the public and private exercises of God's worship,",
+					"text": " and spending the whole time in the public and private exercises of God's worship,",
 					"references": [
 						"Luke 4:16", "Acts 20:7", "Psalm 92 (Hebrew Title)", "Isaiah 66:23"
 					]
@@ -1797,7 +1797,7 @@
 			"question": "What is forbidden in the fourth commandment?",
 			"answer": [
                 {
-					"text": "The fourth commandment forbids the omission or careless performance of the duties required;",
+					"text": "The fourth commandment forbids: the omission or careless performance of the duties required;",
 					"references": [
 						"Ezekiel 22:26", "Amos 8:5", "Malachi 1:13"
 					]
@@ -1837,7 +1837,7 @@
 					]
 				},
                 {
-					"text": " His challenging a special respectability in a seventh day, His own example of resting, and His blessing of the Sabbath day.",
+					"text": " His deserved exclusive possession of a seventh day, His own example, and His blessing of the Sabbath day.",
 					"references": [
 						"Exodus 20:11"
 					]
@@ -1869,7 +1869,7 @@
 			"question": "What is required in the fifth commandment?",
 			"answer": [
                 {
-					"text": "The fifth commandment requires preserving the honor and performing the duties belonging to everyone in their various roles and relationships, whether as superiors,",
+					"text": "The fifth commandment requires preserving the honor of and performing the duties belonging to everyone in their various roles and relationships—whether as superiors,",
 					"references": [
 						"Ephesians 5:21"
 					]
@@ -1951,7 +1951,7 @@
 					]
 				},
                 {
-					"text": " and the lives of others.",
+					"text": " and the life of others.",
 					"references": [
 						"1 Kings 18:4"
 					]
@@ -2113,7 +2113,7 @@
 					]
 				},
                 {
-					"text": "especially in bearing witness.",
+					"text": "especially when bearing witness.",
 					"references": [
 						"Proverbs 14:5", "Proverbs 14:25"
 					]
@@ -2129,7 +2129,7 @@
 			"question": "What is forbidden in the ninth commandment?",
 			"answer": [
                 {
-					"text": "The ninth commandment forbids whatsoever harms the truth, or damages our own or our neighbor's reputation.",
+					"text": "The ninth commandment forbids whatsoever harms the truth or damages our own or our neighbor's reputation.",
 					"references": [
 						"1 Samuel 17:28", "Leviticus 19:16", "Psalm 15:2-3"
 					]
@@ -2211,7 +2211,7 @@
 			"question": "Is anyone perfectly able to keep the commandments of God?",
 			"answer": [
                 {
-					"text": "No mere human since the fall is able to perfectly keep the commandments of God in this life,",
+					"text": "Since the fall, no mere human is able in this life to perfectly keep the commandments of God,",
 					"references": [
 						"Ecclesiastes 7:20", "1 John 1:8", "1 John 1:10", "Galatians 5:17"
 					]
@@ -2249,7 +2249,7 @@
 			"question": "What does every sin deserve?",
 			"answer": [
                 {
-					"text": "Every sin deserves God's wrath and curse, both in this life and that which is to come.",
+					"text": "Every sin deserves God's wrath and curse both in this life and that which is to come.",
 					"references": [
 						"Ephesians 5:6", "Galatians 3:10", "Lamentations 3:39", "Matthew 25:41", "Romans 6:23"
 					]
@@ -2349,7 +2349,7 @@
 			"question": "What are the outward means by which Christ communicates to us the benefits of redemption?",
 			"answer": [
                 {
-					"text": "The outward and ordinary means by which Christ communicates to us the benefits of redemption are his ordinances, especially the Word, baptism, the Lord's Supper, and prayer; all of which are made effectual to the elect for salvation.",
+					"text": "The outward and ordinary means by which Christ communicates to us the benefits of redemption are his ordinances, especially the Word, baptism, the Lord's Supper, and prayer—all of which are made effectual to the elect for salvation.",
 					"references": [
 						"Matthew 28:19-20", "Acts 2:42", "Acts 2:46-47"
 					]
@@ -2381,7 +2381,7 @@
 			"question": "How is the Word to be read and heard that it may become effectual unto salvation?",
 			"answer": [
                 {
-					"text": "That the Word may become effectual unto salvation, we must approach it with diligence,",
+					"text": "That the Word may become effectual unto salvation, we must: approach it with diligence,",
 					"references": [
 						"Proverbs 8:34"
 					]
@@ -2399,13 +2399,13 @@
 					]
 				},
                 {
-					"text": " receive it with faith and love,",
+					"text": " receive it with faith and love;",
 					"references": [
 						"Hebrews 4:2", "2 Thessalonians 2:10"
 					]
 				},
                 {
-					"text": " store it in our hearts,",
+					"text": " store it in our hearts;",
 					"references": [
 						"Psalm 119:18"
 					]
@@ -2427,7 +2427,7 @@
 			"question": "How do baptism and the Lord's Supper become effectual means of salvation?",
 			"answer": [
                 {
-					"text": "Baptism and the Lord's Supper become effectual means of salvation, not because of any virtue in them or in him who administers them, but only by the blessing of Christ",
+					"text": "Baptism and the Lord's Supper become effectual means of salvation not from any virtue in them or in him who administers them, but only by the blessing of Christ",
 					"references": [
 						"1 Peter 3:21", "Matthew 3:11", "1 Corinthians 3:6-7"
 					]
@@ -2449,7 +2449,7 @@
 			"question": "What is baptism?",
 			"answer": [
                 {
-					"text": "Baptism is an ordinance of the New Testament instituted by Jesus Christ, to be unto the person baptized a sign of His fellowship with him, in His death, burial, and resurrection; of his being ingrafted into Christ;",
+					"text": "Baptism is an ordinance of the New Testament instituted by Jesus Christ to be unto the person baptized: a sign of his fellowship with Christ in His death, burial, and resurrection; of his being ingrafted into Christ;",
 					"references": [
 						"Romans 6:3-5", "Colossians 2:12", "Galatians 3:27"
 					]
@@ -2461,7 +2461,7 @@
 					]
 				},
                 {
-					"text": " and of his giving up himself unto God through Jesus Christ, to live and walk in newness of life.",
+					"text": " and of his giving up himself unto God through Jesus Christ to live and walk in newness of life.",
 					"references": [
 						"Romans 6:3-4"
 					]
@@ -2477,13 +2477,13 @@
 			"question": "To whom is baptism to be administered?",
 			"answer": [
                 {
-					"text": "Baptism is to be administered to all those who actually profess: repentance toward God;",
+					"text": "Baptism is to be administered to all those who actually profess repentance toward God",
 					"references": [
 						"Acts 2:38", "Matthew 3:6"
 					]
 				},
                 {
-					"text": " faith in, and obedience to, our Lord Jesus Christ and to none other.",
+					"text": " and faith in, with obedience to, our Lord Jesus Christ and to none other.",
 					"references": [
 						"Acts 8:12", "Acts 8:36-38", "Acts 10:47-48"
 					]
@@ -2499,7 +2499,7 @@
 			"question": "Are the infants of such as are professing believers to be baptized?",
 			"answer": [
                 {
-					"text": "The infants of such as are professing believers are not to be baptized because there is neither command nor example in the Holy Scriptures, or certain consequence from them, to baptize such.",
+					"text": "The infants of such as are professing believers are not to be baptized because there is neither command nor example in the Holy Scriptures, nor certain consequence from them, to baptize such.",
 					"references": [
 						"Proverbs 30:6", "Luke 3:7-8"
 					]
@@ -2515,7 +2515,7 @@
 			"question": "How is Baptism rightly administered?",
 			"answer": [
                 {
-					"text": "Baptism is rightly administered by immersion, or dipping the whole body of the person in water, in the name of the Father, the Son, and the Holy Spirit, according to Christ's institution and the practice of the apostles. It is not to be by sprinkling or pouring of water, or dipping some part of the body after the tradition of men.",
+					"text": "Baptism is rightly administered by immersion, or dipping the whole body of the person in water, in the name of the Father, the Son, and the Holy Spirit, according to Christ's institution and the practice of the apostles. It is not to be by sprinkling, pouring of water, or dipping some part of the body after the tradition of men.",
 					"references": [
 						"Matthew 3:16", "John 3:23", "4:1-2", "Matthew 28:19-20", "Acts 8:38", "Romans 6:4", "Colossians 2:12"
 					]
@@ -2531,7 +2531,7 @@
 			"question": "What is the duty of such who are rightly baptized?",
 			"answer": [
                 {
-					"text": "It is the duty of such who are rightly baptized to give up themselves to a local, orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blamelessly.",
+					"text": "It is the duty of such who are rightly baptized to give up themselves to a local, orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blameless.",
 					"references": [
 						"Acts 2:41-42", "Acts 5:13-14", "Acts 9:26", "1 Peter 2:5", "Luke 1:6"
 					]
@@ -2544,10 +2544,10 @@
 			"originalAnswer": "It is the duty of such who are rightly baptized to give up themselves to some particular and orderly church of Jesus Christ, that they may walk in all the commandments and ordinances of the Lord blameless."
 		},
 		"102": {
-			"question": "What is the Lord's supper?",
+			"question": "What is the Lord's Supper?",
 			"answer": [
                 {
-					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ; by which in giving and receiving bread and wine according to his appointment, Christ's death is shown forth. The worthy receivers are, not in a physical or carnal manner, but by faith, made partakers of His body and blood, with all His benefits, to their spiritual nourishment and growth in grace.",
+					"text": "The Lord's Supper is an ordinance of the New Testament instituted by Jesus Christ, by which in giving and receiving bread and wine according to his appointment, Christ's death is shown forth. The worthy receivers are, not in a physical or carnal manner, but by faith, made partakers of His body and blood, with all His benefits, to their spiritual nourishment and growth in grace.",
 					"references": [
 						"Matthew 26:26-28", "1 Corinthians 11:23-26", "1 Corinthians 10:16"
 					]
@@ -2563,7 +2563,7 @@
 			"question": "Who are the proper partakers of the Lord's Supper?",
 			"answer": [
                 {
-					"text": "They who have been baptized upon a personal profession of their faith in Jesus Christ, and upon repentance from dead works.",
+					"text": "They who have been baptized upon a personal profession of their faith in Jesus Christ and repentance from dead works.",
 					"references": [
 						"Acts 2:41-42"
 					]
@@ -2579,19 +2579,19 @@
 			"question": "What is required for the worthy receiving of the Lord's Supper?",
 			"answer": [
                 {
-					"text": "It is required of them who would worthily partake of the Lord's Supper examine themselves of: their knowledge to discern the Lord's body;",
+					"text": "It is required of them who would worthily partake of the Lord's Supper to examine themselves: of their knowledge to discern the Lord's body;",
 					"references": [
 						"1 Corinthians 11:28-29"
 					]
 				},
                 {
-					"text": " their faith to feed upon Him;",
+					"text": " of their faith to feed upon Him;",
 					"references": [
 						"2 Corinthians 13:5"
 					]
 				},
                 {
-					"text": " their repentance,",
+					"text": " and of their repentance,",
 					"references": [
 						"1 Corinthians 11:31"
 					]
@@ -2625,7 +2625,7 @@
 			"question": "What is prayer?",
 			"answer": [
                 {
-					"text": "Prayer is the act of: offering up our desires to God,",
+					"text": "Prayer is the act of offering up our desires to God,",
 					"references": [
 						"Psalm 62:8"
 					]
@@ -2643,7 +2643,7 @@
 					]
 				},
                 {
-					"text": " done in the name of Christ,",
+					"text": " in the name of Christ,",
 					"references": [
 						"John 16:23"
 					]
@@ -2683,7 +2683,7 @@
 					]
 				},
                 {
-					"text": " but the special guide for direction is the prayer that Christ taught His disciples, commonly known as the Lord's Prayer.",
+					"text": " but the special guide for direction is the prayer Christ taught His disciples commonly known as the Lord's Prayer.",
 					"references": [
 						"Matthew 6:9-13", "Luke 11:2-4"
 					]
@@ -2773,7 +2773,7 @@
 					]
 				},
                 {
-					"text": " that ourselves and others are brought into and kept in it,",
+					"text": " that ourselves and others are brought into and kept in it;",
 					"references": [
 						"2 Thessalonians 3:1", "Romans 10:1", "John 17:19-20"
 					]
@@ -2801,7 +2801,7 @@
 					]
 				},
                 {
-					"text": " we pray that God, by His grace, would make us willing and able to know, obey, and submit to His will in all things,",
+					"text": " we pray that God, by His grace, would make us able and willing to know, obey, and submit to His will in all things,",
 					"references": [
 						"Psalm 67:1-6", "Psalm 119:36", "2 Samuel 15:25", "Job 1:21"
 					]
